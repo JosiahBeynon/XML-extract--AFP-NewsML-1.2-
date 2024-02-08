@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200613T135928Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200613</DateId>
+                <NewsItemId>doc-1td4us</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200613:doc-1td4us:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Canada-étudiants-travail-épidémie-santé-virus-cirque</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200613T135915Z</FirstCreated>
+            <ThisRevisionCreated>20200613T135915Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>مستقبل مبهم بانتظار طلاب السيرك في مونتريال  </HeadLine>
+                                                        <ByLine>آن -صوفي تيل</ByLine>
+                                  <DateLine>مونتريال (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>Canada-étudiants-travail-épidémie-santé-virus-cirque</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="CAN"/>
+                              <Property FormalName="City" Value="مونتريال"/>
+                                      </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="05010001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="09003001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07018000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="05010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="05000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="09000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>كما الحبال التي يمشون عليها، يبدو المستقبل غير مستقر لخريجي هذه السنة من مدرسة السيرك الوطنية العريقة في مونتريال فهم يخشون أن يتحولوا إلى "دفعة شبح" بسبب جائحة كوفيد-19.</p><p>يتمرن البلهواني انتينو بانسا مع رأسه إلى أسفل وقدميه إلى أعلى ممدا عضلاته ليحافظ على توازنه على الحبل لثوان معدودات.</p><p>في الباحة أمام منزله، مد الطالب البالغ عشرين عاما بين شجرتين تبعدان بضعة أمتار عن بعضهما البعض حبلا على ارتفاع متر من الأرض. ويسمح له ذلك بالمحافظة على لياقته رغم إغلاق المدرسة منذ مطلع آذار/مارس بسبب الجائحة.</p><p>ويقول انتينو بانسا "البقاء أشهر عدة من دون تمرين غير مفيد. حلي الوحيد هو مد حبل بين شجرتين".</p><p>ويضيف في حديث لوكالة فرانس برس "لكن لا يمكنني القيام بكل الحركات ثمة أشجار محيطة وسلالم وفضلا عن أمور كثيرة تمنعني من التدرب بشكل سليم لكني احافظ على لياقتي".</p><p>ومن أجل كسب لقمة العيش وافق الطالب على العمل كحارس أمني. كان يفترض به أن ينضم مدة ستة أشهر تقريبا إلى فرقة في سويسرا عند الانتهاء من دراسته في حزيران/يونيو إلا أن العقد أرجئ إلى العام 2021.</p><p>- خسارة كبيرة -</p><p>في غضون أسابيع قليلة أتت الجائحة على خطط نحو ستين طالبا في هذه المدرسة ذات الصيت العالمي.</p><p>وقد ألغي العرض الذي كان على كل طالب أن يقدمه في نهاية سنوات الدراسة الثلاث ويشكل محطة أساسية ليحصل على تقييم من مهنيين من العالم بأسره.</p><p>ويقول مدير المدرسة إريك لانغلوا "هذه خسارة كبيرة لأن العرض يشكل تقييما ويساعد كثيرا في دخول سوق العمل".</p><p>ويبتسم جواكيم فيرييه بحزن قائلا "نمزح ونقول إننا دفعة التخرج الشبح لأن احدا لن يتمكن من رؤية قدراتنا".</p><p>ويضيف الشاب الفرنسي "هو أمر محبط جدا أيضا أن نرى أوساط الصناعة والثقافة والاستعراض مشلولة".</p><p>وقد انتقل من 15 ساعة تدريب أسبوعيا في المدرسة إلى ثلاث أو أربع ساعات في شقته ويقر أنه "من الصعب جدا الحصول على التحفيز" لكنه يعتبر نفسه "محظوظا" بالاستمرار في ممارسة اختصاصه وهو تمارين خفة بعلب السيجار.</p><p>ويعجز آخرون عن ذلك ويعربون عن قلقهم إزاء هذا الوضع.</p><p>ويقول حويل مالكوف الذي يسير على حبال مشدودة "لقد عملت بجهد كبير جدا لكي أتمكن من الوصول إلى المستوى الذي أنا عليه". وقال الأميركي البالغ 25 عاما الذي اعتاد أن يتمرن يوميا إنه قلق من عجزه ربما عن ممارسة هذا النشاط مجددا على مستوى مهني. ويؤكد "هذا ما يخيفني".</p><p>- سوق العمل مغلقة -</p><p>اضطرت فرقة "سيرك دو سوليي" ومقرها في مونتريال،  التي تساهم في الإشعاع الثقافي الكندي في العالم وباتت الآن تكافح للاستمرار، إلى إلغاء 44 إنتاجا في العالم ووضع 4679 بلهوانيا وفنيا في البطالة الفنية أي 95 % من موظفيها.</p><p>وإدراكا منها لواقع سوق العمل الجدي باتت مدرسة السيرك توفر تدريبا في ريادة الأعمال لمساندة الطلاب.</p><p>في الماضي، كان 95 % من خريجي المدرسة يجدون عملا على ما يقول مديرها إلا أن "السوق مغلقة كليا الآن" وهو يتوقع انتعاشا في الأشهر ال18 إلى 24 المقبلة". وينضم الخريجون عادة إلى فرق سيرك في كيبيك أو في الخارج وحانات في أوروبا أو على السفن السياحية.</p><p>وتضم دفعة العام الحالي 21 طالبا وستكون "ضحية" على ما يقول لانغلوا الذي يتوقع "تحسنا" لدفعة العام 2021 موضحا "أبقى متفائلا، والوضع سينتعش".</p><p>وفي استطلاع للرأي اجري في نيسان/أبريل وشمل 561 عاملا وهيئة في القطاع، توقع  66 % من الأشخاص "تحولا في مسيرتهم المهنية" بحسب "أن بيست" التجمع الوطني لفنون السيرك.</p><p>لكن جواكين فيرييه البالغ 23 عاما يستبعد فكرة تغيير مساره المهني والتخلي عن شغفه هذا.</p><p>ويختم قائلا "لقد تلقيت تدريبا مدة خمس سنوات لأصبح فنان سيرك وأرى أنه من المؤسف ألا أكون كذلك أو ان أختبر هذه التجربة. لا أظن أن هذه الجائحة ستلجم رغبتي هذه".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>انتينو بانسا (20 عاما) الطالب في مدرسة السيرك يتدرب في باحة منزله في مونتريال في السادس من حزيران/يونيو 2020 </HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>سيبستيان سان جان</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="سيبستيان سان جان"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>انتينو بانسا (20 عاما) الطالب في مدرسة السيرك يتدرب في باحة منزله في مونتريال في السادس من حزيران/يونيو 2020</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="5c38cbf6ecf0d5a14135fce722e8c4a387d28c30.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>214245</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="1c8ead895b975801e5193e1dcbff2dca214f7a42.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>29389</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="9678aa96455d978b49efcc2b4d0e3953cc3ef041.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7106</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

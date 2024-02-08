@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20220320T222433Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20220320</DateId>
+                <NewsItemId>doc-326k9uv</NewsItemId>
+        			        <RevisionId PreviousRevision="1" Update="N">2</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20220320:doc-326k9uv:2</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>الولايات المتحدة-انديان ويلز-مضرب</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20220320T214605Z</FirstCreated>
+            <ThisRevisionCreated>20220320T222427Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>دورة إنديان ويلز: البولندية شفيونتيك تحرز اللقب</HeadLine>
+                                                  <DateLine>انديان ويلز (الولايات المتحدة) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2022 AFP</CopyrightLine>
+        <SlugLine>الولايات المتحدة-انديان ويلز-مضرب</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="USA"/>
+                              <Property FormalName="City" Value="انديان ويلز"/>
+                              <Property FormalName="Latitude" Value="33.71791"/>
+                              <Property FormalName="Longitude" Value="-116.34311"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15065000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>احرزت البولندية إيفا شفيونتيك لقب دورة إنديان ويلز الاميركية في كرة المضرب للألف نقطة للسيدات، بفوزها على اليونانية ماريا ساكاري 6-4 و6-1 في المباراة النهائية الاحد.</p><p>وسيسمح التتويج لشفيونتيك باحتلالها المركز الثاني في تصنيف اللاعبات المحترفات الذي يصدر الاثنين على حساب التشيكية باربورا كرايتشيكوفا وخلف الاسترالية اشلي بارتي المتصدرة، وذلك للمرة الاولى في مسيرتها.</p><p>واللقب هو الخامس لشفيونتيك (20 عاماً) والثاني توالياً بعد تتويجها في دورة الدوحة الشهر الماضي.</p><p>وقالت شفونتيك الفائزة برولان غاروس عام 2020 "تغمرني سعادة لا توصف. لم أكن اتوقع أن اتواجد في هذه الوضعية بكل صراحة لاسيما بعد ان قدمت عروضاً جيدة في الدورات الاخيرة ولم اكن أتوقع المواصلة على هذه الوتيرة".</p><p>أما ساكاري (26 عاما) التي كان بإمكانها احتلال المركز الثاني في التصنيف العالمي لو قدر لها الفوز، فسترتقي الى المركز الثالث.</p><p>وكانت ساكاري تبحث عن لقب ثانٍ لها في مسيرتها بعد فوزها بدورة الرباط عام 2019، علماً أنها بلغت نصف نهائي رولان غاروس وفلاشينغ ميدوز العام الماضي.</p><p>وفشلت ساكاري بالتالي من الثأر من شفيونتيك التي هزمتها أيضاً في نصف نهائي دورة قطر، لكن اليونانية لا تزال تتفوق في مجموع المواجهات بينهما بثلاثة انتصارات مقابل خسارتين.</p><p>أقيمت المباراة وسط سرعة رياح هائلة في صحراء كاليفورنيا وانهتها البولندية في ساعة و20 دقيقة.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>البولندية إيفا شفيونتيك تصد كرة لمنافستها اليونانية ماريا ساكاري في نهائي دورة إنديان ويلز الاميركية في كرة المضرب للألف نقطة للسيدات في 20 آذار/مارس 2022</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>فريدريك براون</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="فريدريك براون"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>البولندية إيفا شفيونتيك تصد كرة لمنافستها اليونانية ماريا ساكاري في نهائي دورة إنديان ويلز الاميركية في كرة المضرب للألف نقطة للسيدات في 20 آذار/مارس 2022</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="af37be25f6ef3f50a3c91486bcc7ab2b22e14cd7.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>99564</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="485"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="3f6d608dfbbd07bc9882c9f7b5eacf28fc009288.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>17092</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="155"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="a035dee93931755cd564582477740592197bfc7b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5358</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="69"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

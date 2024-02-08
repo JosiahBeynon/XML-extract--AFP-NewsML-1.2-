@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20211212T073226Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20211212</DateId>
+                <NewsItemId>doc-9uh2ln</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20211212:doc-9uh2ln:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>الامارات-نقل</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20211212T073207Z</FirstCreated>
+            <ThisRevisionCreated>20211212T073207Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>سيارات الاجرة في الإمارات تختبر القيادة الذاتية</HeadLine>
+                                                        <ByLine>دانا مخلاتي</ByLine>
+                                  <DateLine>ابوظبي (أ ف ب)</DateLine>
+                <CopyrightLine>© 2021 AFP</CopyrightLine>
+        <SlugLine>الامارات-نقل</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ARE"/>
+                              <Property FormalName="City" Value="ابوظبي"/>
+                              <Property FormalName="Latitude" Value="24.46667"/>
+                              <Property FormalName="Longitude" Value="54.36667"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="04015000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>يجلس مصطفى بلا حراك خلف عجلة القيادة واضعا يديه في حضنه بينما تقود سيارة الأجرة نفسها بسلاسة على طول الطريق، في تجربة تمهّد لتقريب الإمارات من اعتماد السيارات الذاتية القيادة على طرقها.</p><p>و"ضابط السلامة" هو جزء من تجربة لسيارات الأجرة الذاتية القيادة في العاصمة أبوظبي، حيث يمكن اصطحاب الزبائن وإنزالهم في تسعة أماكن محدّدة سلفاً في جزيرة ياس.</p><p>وقال مصطفى لوكالة فرانس برس انها كانت "رحلة سلسة" حتى الآن، دون وقوع حوادث تتطلب أي تدخل كبير، مضيفا أن "معظم الزبائن طلبوا سيارات الأجرة هذه في الأيام القليلة الماضية من مراكز التسوق أو الفندق".</p><p>وكانت شركة "بيانات"، وهي فرع من "مجموعة 42" للتكنولوجيا ومقرها أبوظبي، أطلقت الشهر الفائت تجربة تشمل أربع سيارات ذاتية القيادة، اثنتان منها تعملان بالكهرباء والأخريان هجينتان، تحت اسم "تكساي".</p><p>وقالت الشركة إن المرحلة الثانية ستشمل ما لا يقل عن عشر مركبات ومواقع متعددة في أنحاء أبوظبي. ويمكن للعملاء طلب المركبات باستخدام تطبيق متخصص.</p><p>وأجريت اختبارات في مناطق مختلفة حول العالم في السنوات الأخيرة، لكن الاستخدام التجاري للمركبات كان موقتًا حتى الآن.</p><p>في الشهر الماضي، تم طرح سيارات الأجرة الذاتية القيادة في بكين ولكن أيضًا مع وجود ضابط سلامة في مقعد السائق في حالة الطوارئ.</p><p>- دبي أيضا -</p><p>وقال الرئيس التنفيذي لشركة "بيانات" حسن الحوسني إن الاستغناء عن "ضباط السلامة" سيكون خطوة كبيرة، موضحا "المركبات تعمل بالفعل"، وان الشركة تتعاون مع السلطات لتوسيع منطقة عملياتها جغرافيا.</p><p>وأبوظبي ليست الإمارة الوحيدة في الإمارات العربية المتحدة التي تتطلّع إلى مستقبل بدون سائق.</p><p>فدبي المجاورة تقول إنّها تريد جعل 25 في المئة من كل وسائل النقل بدون سائق بحلول عام 2030، مما يقلّل التكاليف والتلوث والحوادث.</p><p>وتهدف دبي إلى إطلاق أسطول صغير من سيارات الأجرة الذاتية القيادة بحلول عام 2023، وفقًا لوسائل الإعلام الحكومية، مع خطط للوصول إلى أربعة آلاف بحلول عام 2030.</p><p>ومن المتوقع أن يؤثّر التحول على سائقي سيارات الأجرة الذين يمثّلون الغالبية العظمى من العمال المهاجرين الآسيويين، في بلد يشكل الأجانب 90 في المئة من سكّانه البالغ عددهم عشرة ملايين نسمة.</p><p>وقد وافقت الإمارات الشهر الماضي على ترخيص موقت لاختبار السيارات الذاتية القيادة على الطرق، لكن لا يوجد تشريع فدرالي حتى الآن يحكم المركبات ذاتية القيادة.</p><p>وقال حوسني "هذه التكنولوجيا جديدة ويتم تطوير اللوائح المتعلقة بالسلامة والجوانب التشغيلية الأخرى في الوقت الحالي".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>سيارة اجرة ذاتية القيادة في أبوظبي في 30 تشرين الثاني/نوفمبر 2021</HeadLine>
+                            <CreditLine>ا ف ب/AFP</CreditLine>
+                            <ByLine>جوزيبي كاكاتشي</ByLine>
+                                          <NewsLine>
+                <NewsLineType FormalName="AdvisoryLine" />
+                <NewsLineText>TO GO WITH AFP STORY BY DANA MOUKHALLATI</NewsLineText>
+              </NewsLine>
+                          </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جوزيبي كاكاتشي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>سيارة اجرة ذاتية القيادة في أبوظبي في 30 تشرين الثاني/نوفمبر 2021</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="a6cd417cac1f2a0c1ed3d6654e0f64cc0c00d60c.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>152434</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="c708ba9ef9034d27ae072bd18a12f7d47276efcf.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>24204</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="b9acfd8f7622afd6c981e2033757f3425be973c9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6471</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

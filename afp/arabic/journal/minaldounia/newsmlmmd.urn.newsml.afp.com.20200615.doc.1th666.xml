@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T142152Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th666</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th666:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>الاتحاد الاوروبي-نقل-سياحة-فيروس-صحة-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T142136Z</FirstCreated>
+            <ThisRevisionCreated>20200615T142136Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>موقع أوروبي للمساعدة على الرد على أسئلة السياح </HeadLine>
+                                                  <DateLine>بروكسل (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>الاتحاد الاوروبي-نقل-سياحة-فيروس-صحة-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="BEL"/>
+                              <Property FormalName="City" Value="بروكسل"/>
+                              <Property FormalName="Latitude" Value="50.85045"/>
+                              <Property FormalName="Longitude" Value="4.34878"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="10006000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04015000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07011000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07013000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>أطلقت المفوضية الأوروبية الاثنين موقعا إلكترونيا وتطبيقا لمساعدة الأوروبيين الراغبين بتمضية عطلة في دول أخرى من الاتحاد الأوروبي والرد في هذا الإطار على أسئلتهم المتعلقة بجائحة كوفيد-19.</p><p>فمع رفع الكثير من الدول الأوروبية الاثنين القيود المفروضة عند حدودها لمكافحة الوباء، تسمح أداة "ري-أوبن إي يو" التي تُحدّث بانتظام والمتوافرة في 24 لغة مختلفة، بمعرفة شروط السفر والإقامة في الدول السبع والعشرين الأعضاء في الاتحاد الأوروبي.</p><p>ويمكن للمستخدم الحصول على معلومات عامة حول وضع الوباء في بلد معين وإمكانية التنقل بحرية فيه والدخول إليه في سيارة أو دراجة نارية أو عربة  تخييم وما إذا كان يعتمد إلزامية الحجر لمدة 14 يوما..</p><p>وتوفر معلومات أيضا حول فتح المتاجر غير الأساسية والمساكن السياحية والمطاعم والشواطئ فضلا عن المتاحف والمواقع الأثرية. كذلك، ثمة معلومات عن وضع الكمامة في الأماكن العامة والنقل المشترك وإجراءات التباعد الاجتماعي والبروتوكلات الصحية المحتملة للسياح.</p><p>وتعيد غالبية دول الاتحاد الأوروبي ومنطقة شنغين فتح حدودها الاثنين في ما بينها مع اختلاف في الترتيبات المتخذة إذ أن بعض البلدان لا تزال تفرض قيودا على الوافدين من مناطق لا يزال معدل الإصابات فيها يعتبر مرتفعا جدا.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>رجل يرفع العلم الأوروبي على جسر يربط بين ستراسبورغ الفرنسية وكيل الألمانية في 14 نيسان/أبريل 2020 عشية إعادة فتح الحدود</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>باتريك  هرتسوغ</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="باتريك  هرتسوغ"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>رجل يرفع العلم الأوروبي على جسر يربط بين ستراسبورغ الفرنسية وكيل الألمانية في 14 نيسان/أبريل 2020 عشية إعادة فتح الحدود</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="bb0a2f8f7319d6b1583380005a30197abd3f0eb7.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>141660</SizeInBytes>
+                                    <Property FormalName="Width" Value="614"/>
+                                                      <Property FormalName="Height" Value="768"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="1f96b51b19970d0217db2bdeb19bcb997a9e3712.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>19552</SizeInBytes>
+                                    <Property FormalName="Width" Value="195"/>
+                                                      <Property FormalName="Height" Value="245"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="0b747004c93303f615ab6e0f9f4cbe17a9790ff3.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4721</SizeInBytes>
+                                    <Property FormalName="Width" Value="79"/>
+                                                      <Property FormalName="Height" Value="100"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

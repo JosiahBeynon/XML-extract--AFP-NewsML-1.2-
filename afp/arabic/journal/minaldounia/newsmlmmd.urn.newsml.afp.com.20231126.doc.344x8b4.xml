@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T134939Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344x8b4</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344x8b4:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>فرنسا-كوسوفو-قتل-تحقيق-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T134931Z</FirstCreated>
+            <ThisRevisionCreated>20231126T134931Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>مقتل رجل في منزله برصاص طائش في ديجون الفرنسية</HeadLine>
+                                                  <DateLine>ديجون (فرنسا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>فرنسا-كوسوفو-قتل-تحقيق-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="ديجون"/>
+                                      </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="02001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="02003002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="02000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="02001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="02003001"/>
+                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>قُتل رجل في منزله برصاصة طائشة إثر تبادل لإطلاق النار حول نقطة للاتجار بالمخدرات قرب المبنى الذي يقطنه، ليل السبت الأحد في مدينة ديجون بوسط فرنسا الشرقي، على ما أعلنت السلطات.</p><p>كان هذا الرجل البالغ 55 عاماً، وهو ربّ عائلة من كوسوفو وصل إلى فرنسا قبل أربعة عشر عاماً، نائماً في شقته عندما أصيب بجروح قاتلة جراء إطلاق للنار من أشخاص كانوا يستقلون سيارة باتجاه المبنى الذي يقطنه، الأحد قرابة الساعة 00,30 (23,30 ت غ السبت)، بحسب ما أوضحت النيابة العامة في المدينة.</p><p>وقال مصدر في الشرطة إن الرجل، الذي أُعلن عن وفاته عند الساعة 00,50، كان في شقته الواقعة في الطابق الأول مع زوجته وابنته، معتبراً أن "كل شيء يدفع إلى الاعتقاد بأنه ضحية جانبية".</p><p>وأوضحت ابنته البالغة 23 عاما لوكالة فرانس برس طالبة عدم كشف هويتها "لقد استيقظنا أنا وأبي ووالدتي على سلسلة طلقات نارية قبل أن يتوقف كل شيء. ثم عاد إطلاق النار من جديد، وعندما ذهبنا لرؤية والدي الذي كان نائما في سريره، وجدناه ميتاً". </p><p>ولفتت الفتاة إلى أن شقيقها البالغ 24 عاما كان موجوداً أيضاً في الشقة التي أصيبت قبل بضع سنوات بطلقات نارية على واجهة المبنى.</p><p>وأضافت "أود أن توفر فرنسا حماية أفضل لسكانها، وأريد مغادرة ديجون".</p><p>وتحصد الحروب بين تجار المخدرات مزيداً من الضحايا في البلاد، بسبب الاستخدام المتزايد للأسلحة الفتاكة.</p><p>وفي منطقة بوش دو رون (جنوب شرق البلاد)، التي تعاني بشكل خاص من هذه المشكلة، أدت هذه الصراعات إلى مقتل أكثر من أربعين شخصاً هذا العام، بينهم ثلاثة ضحايا جانبيين.</p><p>وفي نيم بمنطقة غار المجاورة، قُتل طفل يبلغ عشر سنوات بالرصاص في نهاية آب/أغسطس خلال إطلاق نار مرتبط بحرب المخدرات.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>فحص عينة يشتبه بأنها من الكوكايين في مختبر تابع للجمارك في ضواحي باريس في العاشر من حزيران/يونيو 2022 </HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>ستيفان دو ساكوتان</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ستيفان دو ساكوتان"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>فحص عينة يشتبه بأنها من الكوكايين في مختبر تابع للجمارك في ضواحي باريس في العاشر من حزيران/يونيو 2022</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="45cbd37d6e99c44712254788576878fa157e3cf8.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>90721</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="502"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="4e886dd6b9dcd1821087bd6667ca85f3df42bea4.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>15933</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="160"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="bf88d29007bc2ad22b399ef8e70d31170e708a17.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5119</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="72"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231125T140315Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231125</DateId>
+                <NewsItemId>doc-344u4u4</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231125:doc-344u4u4:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>سياحة-شركات-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231125T140305Z</FirstCreated>
+            <ThisRevisionCreated>20231125T140305Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>مواقع سياحية فرنسية تستعين بالإضاءة لجذب الزوّار </HeadLine>
+                                                        <ByLine>فرنسوا بيكر </ByLine>
+                                  <DateLine>باريس (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>سياحة-شركات-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="باريس"/>
+                              <Property FormalName="Latitude" Value="48.85341"/>
+                              <Property FormalName="Longitude" Value="2.34121"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="01020000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10006000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="04008034"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04017000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04008000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تلجأ مواقع ثقافية وسياحية عدة في المدن الفرنسية الكبرى إلى وسيلة جديدة لجذب عشرات الآلاف من الزوار مع اقتراب فصل الشتاء، تتمثل في تنظيم زيارات ليلية تعتمد فيها على لعبة الإنارة لإضفاء المزيد من الرونق على ما توفّره من محتويات بالطريقة التقليدية.</p><p>في جولة بعنوان Jungle en voie d'illumination ("دغل في الطريق إلى الإضاءة")، يتنقّل زوار "حديقة النباتات" (Jardin des Plantes) في باريس بين الحيوانات المتعددة اللون، حول شجرة منغروف مضيئة ضخنة.</p><p>وتشكّل هذه الجولة المتاحة حتى 21 كانون الثاني/يناير 2024 أحد أبرز الأنشطة التي يقيمها خلال السنة هذا الموقع المتخصص في العلوم الطبيعية.</p><p>وقد تشهد الجولة التي تقام هذه السنة للمرة الخامس تسجيل أرقام قياسية جديدة لها، إذ راوح عدد المشاركين فيها ما بين 260 ألفاً و300 ألف في المتوسط خلال شهرين، مقارنة بـ900 ألف زاروا في تسعة أشهر قاعة "لا غراند غاليري دو ليفولوسيون" التي تتناول التطور البشري.</p><p>ولاحظ مدير الحديقة سيريل روغيه في تصريح لوكالة فرانس برس أن شباباً "تتراوح أعمارهم بين 20 و30 عاما باتوا يزورون الحديقة إلى جانب الجمهور العائلي المعتاد"، وأوضح أن الجولة تستغرق ساعة، وتصل إلى ساعتين إذا حصص الزائر وقتاً لقراءة الشروح والأسماء العلمية للحيوانات باللاتينية".</p><p>وصمم علماء المتحف المسار، استناداً إلى الحيوانات الموجودة في "كتاب الأدغال"، لإظهار التنوع الحيوي الكبير لهذه البيئة في مختلف أنحاء العالم.</p><p>- تجربة فنية -</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>وفي الطرف الآخر من باريس، يتوقع متنزه "بارك دو لا فيليت" حضور ما بين 200 ألف و300 ألف زائر للمعرض الضوئي في الهواء الطلق L'art dans la Nature ("الفن في الطبيعة")، وهو عرض بالصوت والضوء حول أعمال سالفادور دالي. وتضفي لعبة الضوء حياةً على الحلزون العملاق والبيض وسواها من الأعمال، فتغمر الزائر في عالم الفنان الإسباني الذي يشبه الحلم.</p><p>وقال إيناكي فرنانديز، رئيس شركة "لِتس غو" الإسبانية التي ابتكرت معرض "لا فيليت" إنه "مزيج جديد تماماً يمثل تجربة فنية سريالية وعرضاً يصلح لنشر الصور على إنستغرام"، مشيراً إلى أن مليوني زائر يأتون إلى إسبانيا للاطلاع على تجهيزات مماثلة. </p><p>أما متنزه Le Jardin d'Acclimatation ("حديقة التأقلم") في غرب باريس، تتفوق علينا بجولة بعنوان "تنينات وفوانيس"، توفرها من 15 كانون الأول/ديسمبر إلى 25 شباط/فبراير 2024، وهي مستوحاة من رأس السنة الصينية وفولكلورها، وصنعها حرفيون من شنغهاي. ويمتد المسار غلى أكثر من 30 ألف متر مربّع.</p><p>وتقف وراء هذا المنحى السياحي شركات متخصصة، تصدّر تصاميمها التجهيزية إلى كل أنحاء أوروبا، ومنها شركة "تشاينا لايت"، من مدينة تسيغونغ بمقاطعة سيتشوان (وسط الصين)، مهد مهرجانات الفوانيس.</p><p>وشرحت المسؤولة في الشركة شينوين أن "السكان راحوا تدريجاً، مع تراجع صناعة الملح التي مصدر الدخل الرئيسي في المدينة، يصدّرون حرفة صناعة فوانيس الخيزران إلى كل أنحاء الصين في ثمانينات" القرن العشرين.</p><p> وأوضحت أن الجيل التالي، مع بدء توافر مصابيح "لِد"، تمكن من تصدير هذه الصناعة "إلى المملكة المتحدة وألمانيا وفرنسا وبلجيكا"، حيث لاقت رواجأً شديداً، ترافَقَ مع "فصلها عن الثقافة الصينية" وتطوير المفهوم بطريقة فنية أكثر.</p><p>- "صور سيلفي" -</p><p>وتلقفت هذه الموضة شركة "كريسماس غاردن دويتشلاند" الألمانية المعتادة على المشاريع الخارجية، من لندن إلى روما، فطبقت مفهومها للإضاءةهذا الشتاء في 21 موقها، من النمسا إلى العاصمة الفرنسية.</p><media media-type="image" style="rightSide"><media-reference data-location="#photo2" mime-type=""/></media><p>ويتضمن موقعها Lumières en Seine ("أضواء السين") في باريس محطات مضاءة مناسبة لالتقاط الصور، يبدو برج إيفل في خلفيتها، أو عرض "المياه والليزر" حول الشلال الكبير.</p><p>ورأت المسؤولة في الشركة إيزابيل كروبي أن نجاح هذه الأعمال التجهيزية يعود إلى "التجربة الشاملة" التي تتيحها، بالصوت والضوء، والتي توفّر "الكثير من خيارات التقاط صور السيلفي الشخصية" والاستمتاع بما لذ وطاب من الطعام والمشروبات</p><p>غير إن المشكلة تكمن في أن تكلفة هذه النزهات مرتفعة بالنسبة إلى العائلات، إذ تراوح بين 15 و20 يورو للشخص البالغ.</p><p>كذلك تبرز مسألة أخرى تتعلق بالأثر الكربوني، مع أن المواد المستخدمة (المعدن والقماش القابل لإعادة التدوير) غالباً ما توصف بأنها قابلة لإعادة الاستخدام، والمصابيح الموفّرة تحدّ من الاستهلاك.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>صورة التقطت في 17 تشرين الثاني/توفمبر 2023 في &quot;حديقة النباتات&quot; في باريس </HeadLine>
+                            <CreditLine>اف ب</CreditLine>
+                            <ByLine>ديميتار ديلكوف </ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ديميتار ديلكوف "/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة التقطت في 17 تشرين الثاني/توفمبر 2023 في "حديقة النباتات" في باريس</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="7d3fb015707c25e99b64b02f7aaec1589f5deaaf.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>139365</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="d1520b6bb30ba3bd7e0a704b1214ea686093cc40.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>18962</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="21e9096fb1651b2d8440e912d8801ea11e6d0056.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5227</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>صورة التقطت في 17 تشرين الثاني/توفمبر 2023 في &quot;حديقة النباتات&quot; في باريس </HeadLine>
+                            <CreditLine>اف ب</CreditLine>
+                            <ByLine>ديميتار ديلكوف</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ديميتار ديلكوف"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة التقطت في 17 تشرين الثاني/توفمبر 2023 في "حديقة النباتات" في باريس</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="966899c39cac8660d7924c96c915e589981b301b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>151083</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="67117b9edac4127d0b339822b9c3f517bbf7bcdb.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>20359</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="406cec4f6176b39652efa03bf8dfe29cc9a75119.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5330</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo2">
+            <NewsLines>
+                            <HeadLine>صورة التقطت في 17 تشرين الثاني/توفمبر 2023 في &quot;حديقة النباتات&quot; في باريس </HeadLine>
+                            <CreditLine>اف ب</CreditLine>
+                            <ByLine>ديميتار ديلكوف</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ديميتار ديلكوف"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة التقطت في 17 تشرين الثاني/توفمبر 2023 في "حديقة النباتات" في باريس</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="187a20b9f4d1b58b3c5242bfc70e23dd40fcc44b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>184664</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="fc8605103f1468f1dbfc64f83867715b10a32c37.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>26298</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="37e50eb5a1bec7e44007f47dc8e29aa282103f19.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6661</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

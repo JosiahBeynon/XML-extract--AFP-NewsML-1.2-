@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T135145Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th5ih</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th5ih:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>فرنسا-ثقافة-اوبرا-مهرجان-موسيقى-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T135138Z</FirstCreated>
+            <ThisRevisionCreated>20200615T135138Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>مهرجان إيكس-أن-بروفانس في نسخة رقمية</HeadLine>
+                                                  <DateLine>باريس (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>فرنسا-ثقافة-اوبرا-مهرجان-موسيقى-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="باريس"/>
+                              <Property FormalName="Latitude" Value="48.85341"/>
+                              <Property FormalName="Longitude" Value="2.34121"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="01017001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01011000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01004000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تنظم نسخة رقمية عن مهرجان إيكس-أن-بروفانس  في جنوب فرنسا الذي يعد من أهم الملتقيات الأوبرالية في العالم،  بنسخة مع عشر حفلات لنجوم في عالم الأوبرا صورت من دون جمهور وستبث بالنسق التدفقي مجانا.</p><p>فبعد إلغاء دورة العام الحالي بسبب فيروس كورونا المستجد، سيشهد هذا "المسرح الافتراضي" بين السادس من تموز/يوليو والخامس عشر منه نقاشات حول مستقبل أوساط الأوبرا الذي تضرر جراء الجائحة بسبب الاغلاق غير المسبوق والطويل للمسارح عبر العالم.</p><p>ومن بين الموعدين الباريتون الألماني كريتسيان غيرهاهر والتينور الفرنسي ستانيسلاس دو باربيراك وقائد الأوركسترا البريطاني الشهير سامبن راتل.</p><p>وكان التينور الألماني سيشارك في دورة العام 2002 من خلال توليه دور البطولة في أوبرا "فوزيك". أما في النسخة الرقمية فسيؤدي مقاطع من تأليف فرانز شوبيرت وألبان برغ.</p><p>أما سايمن راتل الذي كان يفترض أن يدير أوركسترا لندن السموفنية في عرض "فوزيك"، فسيرافق على البيانو، المغنية الأوبرالية التشيكية ماغدالينا كوزينا.</p><p>وستسجل الحفلات من دون جمهور في مواقع معروفة ضمن المهرجان وستبث عبر محطات "آرتي كونسير" و"فرانس موسزيك" وقناة المهرجان الخاصة.</p><p>وسيساهك الكثير من الفنانين الذين كانوا سيشاركون في دورة العام 2020 الملغاة في نقاشات ستتم من خلال تطبيق "زوم" مع بث تدفقي عبر قناة المهرجان مثل قائدا الأوركسترا توماس هنغلبروك وسوزانا مالكي والمؤلفة الموسيقية كايا سارياهو.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>صورة أرشيف ملتقطة في الثالث من تموز/يوليو 2018 تظهر المغنية المالية رقية تراوري في مهرجان إيكس ان بورفانس للأوبرا في جنوب شرق فرنسا</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>برتران لانغلوا</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="برتران لانغلوا"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة أرشيف ملتقطة في الثالث من تموز/يوليو 2018 تظهر المغنية المالية رقية تراوري في مهرجان إيكس ان بورفانس للأوبرا في جنوب شرق فرنسا</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="28be078143fbce4e04c95ee0ec86f1fec0a8272b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>70408</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="506"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="a68cf19df085ab8e2a4b7423bc45d842beaabcc1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>9726</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="161"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="d11ae143c70d271ae63c7251a2d1a50b89a508de.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>2877</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="72"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

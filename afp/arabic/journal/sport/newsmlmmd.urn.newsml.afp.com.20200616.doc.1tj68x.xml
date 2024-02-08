@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200616T131319Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200616</DateId>
+                <NewsItemId>doc-1tj68x</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200616:doc-1tj68x:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>رياضة-جوائز-استورياس-اسبانيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200616T131311Z</FirstCreated>
+            <ThisRevisionCreated>20200616T131311Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>ساينز يحرز جائزة استورياس لفئة الرياضة</HeadLine>
+                                                  <DateLine>مدريد (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>رياضة-جوائز-استورياس-اسبانيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ESP"/>
+                              <Property FormalName="City" Value="مدريد"/>
+                              <Property FormalName="Latitude" Value="40.4165"/>
+                              <Property FormalName="Longitude" Value="-3.70256"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>نال الاسباني كارلوس ساينز، بطل العالم للراليات مرتين ورالي دكار الصحراوي ثلاث مرات، جائزة أميرة استورياس لفئة الرياضة الثلاثاء.</p><p>وهذه أول مرة منذ عام 2007 ينال الجائزة رياضي من عالم السيارات، بعدما أحرزها بطل العالم للفورمولا واحد سبع مرات الألماني ميكايل شوماخر.</p><p>وتوزّع جوائز أميرة استورياس منذ العام 1981 وتمنحها مؤسسة تحمل الاسم نفسه وتوزّع في مدينة اوفييدو في منطقة استورياس (شمال اسبانيا). وهي تكافئ اشخاصا أو مؤسسات لأعمال ذات بعد دولي في فئات مختلفة من فنون وعلوم ورياضة.</p><p>وهيمن الرياضيون الاسبان على هذه الجائزة، على غرار رئيس اللجنة الأولمبية الراحل خوان انتونيو سامارانش (1988)، لاعب الغولف سيفيريانو باليستيروس (1989)، بطل الدراجات ميغل اندورين (1992)، لاعبة كرة المضرب أرانتشا سانشيز فيكاريو (1988)، بطل العالم في الفورمولا واحد فرناندو ألونسو (2005)، نجم كرة المضرب رافايل نادال (2008)، لاعبي كرة القدم تشافي وإيكر كاسياس (2012)، والشقيقين لاعبي كرة السلة باو ومارك غاسول (2015).</p><p>ويحصل كل فائز في الجائزة التي تحمل لقب وريث العرش في اسبانيا، على خمسين ألف يورو ومنحوتة من تصميم الفنان خوان ميرو.</p><p>وكان "الماتادور" ساينز (57 عاما) قد احرز بطولة العالم للراليات عامي 1990 و1992، ورالي دكار في اعوام 2010 و2018 و2020، وهو والد السائق الجديد في فريق فيراري للفورمولا واحد كارلوس ساينز جونيور.</p><p>وهنأ نادي ريال مدريد ساينز وكتب على موقعه الرسمي "وراء انجازاته، يمثّل كارلوس ساينز أفضل قيم الرياضة وهو لاعب متحمس في ريال مدريد يفخر به جميع مشجعي مدريد".</p><p>وكان ساينز قبل دخوله عالم السيارات لاعبا موهوبا في كرة القدم والسكواش، وأجرى في مراهقته تجربة مع ريال مدريد. </p><p>كما أحرز لقب بطولة اسبانيا في السكواش بعمر السادسة عشرة.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>ساينز في صورة بين حائل والرياض خلال رالي دكار الصحراوي 2020</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>فرانك فيف</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="فرانك فيف"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="AFP"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>ساينز في صورة بين حائل والرياض خلال رالي دكار الصحراوي 2020</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="da706de64ac3d3d16c01e9b6d102862a93d763c1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>87160</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="450"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="f3b7e31b04f19330d8066eae04108f5a2705a28c.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>15444</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="143"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="79afa55581cf6e2b936725fa27346b62970ba5df.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4803</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="64"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

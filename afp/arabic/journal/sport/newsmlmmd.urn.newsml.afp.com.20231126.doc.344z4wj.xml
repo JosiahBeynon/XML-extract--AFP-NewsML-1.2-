@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T132026Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344z4wj</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344z4wj:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>fbl-ENG-Venables-dead</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T132015Z</FirstCreated>
+            <ThisRevisionCreated>20231126T132015Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>وفاة مدرب إنكلترا السابق تيري فينابلز عن عمر 80 عامًا</HeadLine>
+                                                  <DateLine>لندن (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>fbl-ENG-Venables-dead</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="GBR"/>
+                              <Property FormalName="City" Value="لندن"/>
+                              <Property FormalName="Latitude" Value="51.50853"/>
+                              <Property FormalName="Longitude" Value="-0.12574"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="14023000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="14025000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="12006000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>توفي المدرب تيري فينابلز الذي قاد إنكلترا إلى نصف نهائي بطولة أوروبا 1996 وبرشلونة الاسباني إلى نهائي كأس اندية أوروبا (دوري أبطال اوروبا حاليًا) عام 1986، عن عمر يناهز 80 عاماً، حسب ما أعلنت عائلته في بيان الأحد.</p><p>وقالت العائلة في بيانها "لقد دمرنا تمامًا فقدان الزوج والأب الرائع الذي فارق الحياة بسلام أمس بعد صراع طويل مع المرض". </p><p>وتابعت "نود أن نطلب منح الخصوصية في هذا الوقت الحزين للغاية للسماح لنا بالحزن على فقدان هذا الرجل الجميل الذي كنا محظوظين جدًا بوجوده في حياتنا". </p><p>وأصبح فينابلز محبوبًا لدى مشجعي كرة القدم الانكليزية بعدما قاد "الاسود الثلاثة" بشكل رائع إلى نصف نهائي بطولة أوروبا عام 1996 التي استضافتها إنكلترا، بما في ذلك الفوز الساحق على هولندا 4-1.</p><p>لكنّ إنكلترا عادت وخسرت في دور الاربعة بركلات الترجيح امام المانيا التي احرزت اللقب لاحقا.</p><p>كما كان على وشك قيادة برشلونة الى لقب المسابقة الاوروبية المرموقة عام 1986 قبل ان يخسر في النهائي امام ستيوا بوخارست الروماني بركلات الترجيح. </p><p>كما استمتع فينابلز - المعروف باسم "أل تل" - بفترة ناجحة مع فريق توتنهام هوتسبير الذي كان يضم اللاعب الرائع والمثير للجدل بول غاسكوين - وأحرزا معًا لقب كأس انكلترا عام 1991.</p><p>وفاز فينابلز باللقب ايضا كلاعب مع النادي اللندني عام 1967، علما ان مسيرته كلاعب شهدت تنقله بين تشلسي (1960-66) وتوتنهام (66-69) وكوينز بارك راينجرز (69-74) وغيرهم.</p><p>لكنّ فترته في سبيرز بعد تعيينه رئيسا تنفيذيا انتهت على نحو مرير بعد خلاف مع مالك النادي آنذاك الان شوغر.</p><p>وقال توتنهام إنه سيحيي ذكراه من خلال التصفيق لمدة دقيقة قبل المباراة امام أستون فيلا ضمن الدوري الانكليزي الأحد. </p><p>وجاء في بيان النادي "يشعر النادي بحزن شديد عندما علم بوفاة اللاعب والمدرب السابق تيري فينابلز". </p><p>وأضاف "تعازينا العميقة لأصدقاء تيري وعائلته في هذا الوقت العصيب للغاية".</p><p>أشرف فينابلز ايضًا على عدد من الفرق على غرار كوينز بارك راينجرز وكريستال بالاس إضافة الى تدريب منتخب أستراليا وكانت آخر محطة تدريبية له كمساعد مدرب لمنتخب إنكلترا عام 2007.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>تُوفي مدرب انكلترا السابق لكرة القدم تيري فينابلز عن عمر 80 عامًا</HeadLine>
+                            <CreditLine>ا ف ب/ا ف ب</CreditLine>
+                            <ByLine>ليون نيل</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ليون نيل"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>تُوفي مدرب انكلترا السابق لكرة القدم تيري فينابلز عن عمر 80 عامًا</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="65234dc5ee70895150eba7bdd5c332b66e2cd2b9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>135501</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="519"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="346ca67ae4f9f5ae6c19662b19197ad39fa2cdcc.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>19056</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="165"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="a0124eeb438895593e6ec1741cc78c266d3a2f78.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5739</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="74"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

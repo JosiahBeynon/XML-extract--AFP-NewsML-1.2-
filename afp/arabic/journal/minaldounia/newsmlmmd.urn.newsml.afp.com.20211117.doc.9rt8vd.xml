@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20211117T091141Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20211117</DateId>
+                <NewsItemId>doc-9rt8vd</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20211117:doc-9rt8vd:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>enchères-distribution-luxe-peinture</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20211117T091116Z</FirstCreated>
+            <ThisRevisionCreated>20211117T091116Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بيع لوحتين لكالو وسولاج بسعرين قياسيين خلال مزاد في نيويورك</HeadLine>
+                                                        <ByLine>أندريا بامبينو </ByLine>
+                                  <DateLine>نيويورك (أ ف ب)</DateLine>
+                <CopyrightLine>© 2021 AFP</CopyrightLine>
+        <SlugLine>enchères-distribution-luxe-peinture</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="USA"/>
+                              <Property FormalName="City" Value="نيويورك"/>
+                              <Property FormalName="Latitude" Value="40.71427"/>
+                              <Property FormalName="Longitude" Value="-74.00597"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="04006020"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="04007010"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01012000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04007000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04006000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>حطمت لوحتان نادرتان للمكسيكية فريدا كالو والفرنسي بيار سولاج الرقمين القياسيين لأسعار أعمال هذين الفنانين في مزاد أقامته دار "سوذبيز" بمقرها في نيويورك، إذ بيعتا مساء الثلاثاء في مقابل 34,9 مليون دولار و 20,2 مليون دولار.</p><p>فكما كان متوقعاً، تمكنت لوحة "دييغو إي يو" (دييغو وأنا)، وهي بورتريه ذاتي لفريدا كالو يظهر فيه زوجها دييغو ريفيرا على جبينها، من تحطيم الرقم القياسي للفنانة المكسيكية الشهيرة البالغ ثمانية ملايين دولار لقاء بيع عمل لها عام 2016. </p><p>وأعلنت "سوذبيز"  ترسية لوحة كالو على "مجموعة إدواردو ف. كوستانتيني" وهو رجل أعمال أرجنتيني وجامع أعمال فنية أسس متحف الفنون الأميركية اللاتينية (مالبا) في بوينس آيرس.</p><p>وبذلك أصبحت "دييغو إي يو" أغلى عمل غني أميركي لاتيني في تاريخ المزادات، علماً أن الرقم القياسي السابق كان للوحة "لوس ريفالس" لدييغو ريفيرا نفسه، رسمها عام 1931 وبيعت في مقابل 9,76 مليون دولار في مزاد لدار "كريستيز" عام 2018.  </p><p>وهذه اللوحة الزيتية المنجزة على لوح من خشب المازونيت ترتدي رمزية كبيرة لرسوم البورتريه الذاتية التي اشتُهرت بها حول العالم هذه الرسامة المكسيكية والأيقونة النسوية التي توفيت سنة 1954 عن عمر 47 عاما.</p><p>- بالأحمر والأسود -</p><p>ولكن في هذه اللوحة، يظهر وجه دييغو ريفيرا على جبين فريدا، فوق عينيها السوداوين اللتين يبدو وكأن بعض الدموع تنزل منهما، تعبيراً عن العذاب الذي سببه لزوجته إذ كان في ذلك الوقت على علاقة بالممثلة المكسيكية ماريا فيليكس.</p><p>أما لوحة بيار سولاج التي كانت طوال أكثر من 30 عاماً ضمن مجموعة خاصة، فتعود إلى المرحلة الحمراء للفنان الفرنسي الذي تجاوز عمره المئة، والذي اشتهر بتميزه في إتقان الرسم باللون الأسود. وقد رسم هذه اللوحة في 4 آب/أغسطس 1961، واعتمد فيها تقنية الكشط التي تكشف عن الصبغات الحمراء تحت الأسود، على ما شرحت "سوذبيز".</p><p>وكانت قيمة اللوحة مخمنة بما بين 8 ملايين دولار و 12 مليوناً، لكنها بيعت مقابل 20,2 مليون دولار بعد تنافس محتدم بين عدد من المزايدين المشاركين حضورياً أو بواسطة الهاتف. وتجاوز ثمن اللوحة بأشواط الرقم القياسي السابق الذي حققه أحد أعمال سولاج عام 2019 في باريس والبالغ 10,8 ملايين دولار.</p><p>ومن ابرز ما شهده مزاد "سوذبيز" مساء الثلاثاء أيضاً بيع لوحة "زاوية حوض زنابق الماء" (1918) للفنان الانطباعي كلود مونيه في مقابل 50,8 مليون دولار، بعيدًا من رقمه القياسي البالغ 110,7 ملايين دولار والمحقق في نيويورك أيضاً عام 2019.</p><p>وتبدو حصيلة مزادات الخريف النيويوركية هذه السنة إيجابية بعد مواسم عدة شهدت بعض التراجع، إذ أكدت دارا "كريستيز" و"سوذبيز" أن المعروض عاد إلى  المستوى الكفيل تلبية الطلب الذي بقي كبيراً رغم الأزمة الصحية. </p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>وحصدت مجموعة عائلة ماكلو الشهيرة لأعمال الفن الحديث والمعاصر ما مجموعة  676 مليون دولار في مزاد تاريخي لدار "سوذبيز" أقيم مساء الاثنين، وهو أكبر مبلغ حققته "سوذبيز" حتى الآن في تاريخ مزاداتها في أمسية واحدة. </p><p>أما "كريستيز" فأعلنت أنها حققت 1,1 مليار دولار الأسبوع الفائت، مقابل 691 مليوناً في مزادات الربيع و683 مليوناً في خريف 2019، قبل جائحة كوفيد-19.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>صورة غير مؤرخة موزعة في 22 أيلول/سبتمبر 2021 تظهر رسم بورتريه ذاتيا لفريدا كالو </HeadLine>
+                            <CreditLine>سوذبيز/ا ف ب</CreditLine>
+                            <ByLine>Handout</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="Handout"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="سوذبيز"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة غير مؤرخة موزعة في 22 أيلول/سبتمبر 2021 تظهر رسم بورتريه ذاتيا لفريدا كالو</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="7417f4693a562a09c86a760a277dc87b744054f5.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>116374</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="717dafe1ef83b60bd15e546532eaa8e1e57a4217.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>15545</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="67d9e3eb10d9a58c615729bc86f9943289e7495e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4229</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>لوحة &quot;زاوية حوض زنابق الماء&quot; للفنان الانطباعي كلود مونيه كما بدت في مقر دار &quot;سوذبيز&quot; في نيويورك في 5 تشرين الثاني/نوفمبر 2021 </HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>أنجيلا ويس</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="أنجيلا ويس"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>لوحة "زاوية حوض زنابق الماء" للفنان الانطباعي كلود مونيه كما بدت في مقر دار "سوذبيز" في نيويورك في 5 تشرين الثاني/نوفمبر 2021</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="5c0419fd6a0d40ab2d8f2ecae47c8b9f917ba49f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>137881</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="e2519f0b50d36ce9df032c51f6688ed36b05dc65.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>18192</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="9e86b99c74c51fb8178260ac711db2565180a9ed.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4886</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

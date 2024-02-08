@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T134853Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th2dw</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th2dw:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>فرنسا-اطفال-استغلال-العاب-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T134834Z</FirstCreated>
+            <ThisRevisionCreated>20200615T134834Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>شخصية افتراضية عبر لعبة "فورتنايت" لنجدة الأطفال ضحايا سوء المعاملة</HeadLine>
+                                                        <ByLine>أرنو بوفييه</ByLine>
+                                  <DateLine>باريس (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>فرنسا-اطفال-استغلال-العاب-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="باريس"/>
+                              <Property FormalName="Latitude" Value="48.85341"/>
+                              <Property FormalName="Longitude" Value="2.34121"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="14024001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="14022000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="14000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="14025002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="14024000"/>
+                                  </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>من خلال شخصية افتراضية مجنحة ترتدي الأزرق دخلت لعبة "فورتنايت" الإلكترونية الشهيرة، تمكن أكثر من 350 طفلا ومراهقا يتعرضون لسوء المعاملة أو يعانون من مشاكل، من البوح بأسرارهم إلى بالغين "فعليين" خلال فترة العزل في فرنسا.</p><p>وأشرفت جمعية "لانفان بلو" (الطفل الأزرق) الفرنسية لحماية الأطفال على هذه التجربة غير المسبوقة التي بقيت طي الكتمان حتى الآن آملة أن تمهد لآلية دائمة حتى تصبح الألعاب الإلكترونية وسيلة إبلاغ لأطفال معرضين للخطر.</p><p>ورأت لورا موران مديرة الجمعية أن هذه العملية الأولى في فرنسا والتي لا مثيل لها في الخارج، هدفت إلى تجاوز "التحدي الأكبر" الذي يواجهه مساعدو القصر ضحايا سوء المعاملة أي "السماح للطفل بالكلام وللبالغ برصد وجود مشكلة".</p><p>وأكدت موران "لكن الشباب لا يستخدمون الوسائط نفسها مثل البالغين. علينا أن نتكيف وأن نجد طرق جديدة للتواصل معهم".</p><p>وبغية ذلك، دخل متطوعو الجمعية في عالم "فورتنايت" الافتراضي بشخصية "سميت "الطفل الأرق" وتناوبوا لكي يجعلوها تستمر يوميا مدة شهر حتى الساعة 22,30 .</p><p>وكانت مهمة هذه الشخصية الافتراضية الرد على اللاعبين الصغار الذين يمارسون اللعبة بالتزامن معها ويريدون الحديث عن مشاكلهم الخاصة.</p><p>في غضون شهر تواصل 1200 طفل او مراهق من سن العاشرة إلى السابعة عشرة مع الشخصية المجنحة وهو عدد "لافت" بحسب لورا موران.</p><p>في غالبية الأحيان ضغط الشباب على الزر بداعي الفضول إلا ان 30 % "أسروا بمشاكل شخصية متفاوتة الخطورة وقد أشار البعض إلى أنهم في وضع خطر جدا" على ما أوضحت الجمعية التي تمكنت احيانا من توجيههم إلى جمعيات متخصصة كتلك التي تحارب التحرش المدرسي والتنمر.</p><p>- تكتم حيال الأهل -</p><p>ومن أجل نجاح التجربة كان ينبغي إبلاغ اللاعبين الشباب بالإمكانية المتاحة أمامهم من دون أن يكون الأهل الذين قد يكونون هم مصدر سوء المعاملة على علم بذلك.</p><p>فأحجم القيمون على المشروع عن الترويج لمشروعهم عبر وسائل الإعلام العادية بل استعانوا بمؤثرين معروفين في أوساط رواد هذه الألعاب.</p><p>وقال فابريس بلازول من وكالة "أفاس سبورتس أند انترتنماينت" التي أشرفت على العملية "هذه القناة المناسبة والمرادفات الصحيحة لكي نفهم بوضوح على الأطفال الذين يحتاجون مساعدة من دون لفت انظار الذين يعرضونهم لسوء المعاملة".</p><p>ومن خلال شراكة مع فرق محترفة في الرياضة الإلكترونية أو مع مؤثرين لديهم ملايين المشتركين، بثت رسائل تفسر الآلية وكيفية الاتصال بالشخصية الافتراضية عبر "سنابتشات" و"إنستغرام" فضلا عن منصة "تويتش" التي تبث مباشرة مقاطع من ألعاب فيديو.</p><p>وهذه وسائل لا يرجح أن يطلع عليها الأهل. وقال بلازول "نظرا إلى أن الأطفال كانوا محجورين من دون أي وسيلة أخرى للإبلاغ، لكان فعلا من المأسوي أن يتنبه احد الأهل للآلية ويوقف منصة اللعب".</p><p>وجاء في الرسائل "إذا كنت ضحية أي شكل من أشكال العنف" أضف حساب "إبيك أنفان بلو" عبر "فورتانيت".</p><p>وأكدت هذه العملية أن الألعاب الإلكترونية تشكل "نهجا مشجعا" لتسهيل كلام الأطفال ضحايا سوء المعاملة على ما أشارت موران.</p><p>لكن ينبغي الآن الذهاب أبعد من ذلك والتفكير بطريقة اعتماد هذا النهج على المدى الطويل على ما أضافت.</p><p>ولهذا الغرض شكلت مجموعة عمل ستجمع إلى جانب الجمعية اعتبارا من أيلول/سبتمبر مصممي ألعاب إلكترونية وقضاة وعناصر من وحدات شرطة متخصصة فضلا عن أمانة الدولة لحماية الطفال.</p><p>وشددت موران على أن الهدف هو "توفير أداة إضافية في مجموعة الخيارات المتاحة للطفل  ليطلب النجدة. من خلال اعتماد وجهة نظرهم".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>طفل يحضر عرض مغني الراب ترافيس سكوت في لعبة &quot;فورتانيت&quot; في 23 نيسان/أبريل 20220 في ساوث باسادينا في ولاية كاليفونريا الأميركية</HeadLine>
+                            <CreditLine>غيتي/اف ب</CreditLine>
+                            <ByLine>نيلسن برنارد</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="نيلسن برنارد"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="غيتي"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>طفل يحضر عرض مغني الراب ترافيس سكوت في لعبة "فورتانيت" في 23 نيسان/أبريل 20220 في ساوث باسادينا في ولاية كاليفونريا الأميركية</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="ab584f837b46e7d6ca5acab89e38e75846b05924.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>139028</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="239c3600f3a1fa6e4eb4bc921d047faf66318504.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>22523</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="7f1e701ee369a70e32efaed98df2449690a766d8.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6353</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

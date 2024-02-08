@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T200229Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344y37t</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344y37t:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>tennis-Davis</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T200214Z</FirstCreated>
+            <ThisRevisionCreated>20231126T200214Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>كأس ديفيس: سينر يمنح إيطاليا لقبها الأول منذ 47 عاماً</HeadLine>
+                                                        <ByLine>Rik Sharma</ByLine>
+                                  <DateLine>ملقة (إسبانيا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>tennis-Davis</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ESP"/>
+                              <Property FormalName="City" Value="ملقة"/>
+                              <Property FormalName="Latitude" Value="36.72016"/>
+                              <Property FormalName="Longitude" Value="-4.42034"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15065000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>أحرزت إيطاليا لقب كأس ديفيس في كرة المضرب للمرة الأولى منذ العام 1976، بعد فوز يانيك سينر على الأسترالي أليكس دي مينور 6-3 و6-0، ليمنح بلاده انتصاراً على أستراليا 2-0 في الدور النهائي بملقة الإسبانية الأحد.</p><p>وحقّق سينر المصنف رابعاً عالمياً الفوز في مباراة الفردي الثانية، بعدما تغلّب مواطنه ماتيو أرنالدي على الأسترالي الآخر أليكسي بوبيرين 7-5، 2-6، و6-4 في المباراة الافتتاحية.</p><p>وضمن سينر الذي تغلّب على النجم الصربي الأعلى تصنيفاً نوفاك ديوكوفيتش مرتين في يوم واحد السبت عندما أقصت إيطاليا صربيا، لقباً ثانياً لبلاده على حساب منتخب أسترالي يقوده ليتون هيويت وفائز بلقب البطولة 28 مرة في 49 نهائي بتاريخه.</p><p>وبات سينر في نصف النهائي أول لاعب يهزم ديوكوفيتش في مباراة فردية في كأس ديفيس منذ الأرجنتيني خوان مارتن ديل بوترو في عام 2011، منهياً للصربي سلسلة من 21 مباراة من دون هزيمة.</p><p>وأضعف الإيطالي معنويات دي مينور المندفع بأداء قوي، وتغلّب عليه بضربات شرسة.</p><p>وسبق لسينر أن فاز في كل من المواجهات الخمس السابقة بين الثنائي، ولم يتمكن الأسترالي المصنف 12 عالمياً من الاقتراب من الفوز حتى هذه المرة، ليخسر في أقل من 90 دقيقة.</p><p>وبالتالي، على أستراليا مواصلة انتظارها للفوز بهذا اللقب الذي توجت به للمرة الأخيرة في العام 2003، مكتفية بمشاهدة إيطاليا التي بلغت النهائي آخر مرة في العام 1998، تحتفل بشدة عندما لعب دي مينور الكرة خارج الملعب لينهي المواجهة.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>الإيطالي يانيك سينر محتفلاً بفوزه على الأسترالي أليكس دي مينور ليمنح بلاده لقب كأس ديفيس بكرة المضرب في 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب/AFP</CreditLine>
+                            <ByLine>لويس جيني</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="لويس جيني"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>الإيطالي يانيك سينر محتفلاً بفوزه على الأسترالي أليكس دي مينور ليمنح بلاده لقب كأس ديفيس بكرة المضرب في 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="6eea82730ca294b8a187ab695617a70ec9180bbd.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>77989</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="be50a403ec438dc3866872052f9fe5a937b96388.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>12820</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="2d2d2216f67aec87a08d6e9cafbd4c3a57d7a9ed.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4288</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

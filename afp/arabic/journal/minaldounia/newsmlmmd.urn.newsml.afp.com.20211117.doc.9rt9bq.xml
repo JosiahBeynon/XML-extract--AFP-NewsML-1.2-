@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20211117T094413Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20211117</DateId>
+                <NewsItemId>doc-9rt9bq</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20211117:doc-9rt9bq:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>بريطانيا-مشاهير-موسيقى-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20211117T094355Z</FirstCreated>
+            <ThisRevisionCreated>20211117T094355Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>ملكة سباقات الأغنيات أديل تعود بألبوم جديد</HeadLine>
+                                                        <ByLine>فيليب غرولار</ByLine>
+                                  <DateLine>باريس (أ ف ب)</DateLine>
+                <CopyrightLine>© 2021 AFP</CopyrightLine>
+        <SlugLine>بريطانيا-مشاهير-موسيقى-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="باريس"/>
+                              <Property FormalName="Latitude" Value="48.85341"/>
+                              <Property FormalName="Longitude" Value="2.34121"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="01011000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="08003002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="04010011"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01026000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01026000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="08000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="08005000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="08003000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>بعد انتظار طويل، تعود أديل بألبوم جديد الجمعة بعنوان "30" يحمل كل المكونات اللازمة لتصدر سباق الأغنيات بمواجهة أسماء كبيرة أخرى بينها "آبا" ودرايك وإد شيران.</p><p>وقال مدير النشر في "سبوتيفاي" نيكولا دو روا لوكالة فرانس برس إن أغنية "إيزي أون مي" المنفردة التي طرحتها أديل "حطمت كل الأرقام القياسية" عبر الخدمة العملاقة بمجال الموسيقى بالبث التدفقي "مع 24 مليون استماع في يوم طرحها في 15 تشرين الأول/أكتوبر، وهي اليوم (بعد شهر من طرحها) تسجل أكثر من 260 مليون استماع، ما يدفعني لأن أسأل +كيف يُعقل هذا؟+".</p><p>وعن توقعاته للنتائج المرتقبة يوم طرح الألبوم الجمعة، يقول المسؤول في الخدمة السويدية الرائدة عالميا في مجال الموسيقى بالبث التدفقي "لست عرّافا، لكن نظرا إلى ما حصل مع الأغنية المنفردة، أتوقع أرقاما مذهلة، ألبومها مصنوع بجودة عالية مع أغنيات تعلق في الرأس سواء أحببناها أم لا".</p><p>وخلافا لأكثرية الفنانين الآخرين، لا ترسل شركة الإنتاج الخاصة بفنانة من الصف الأول على غرار أديل أي أسطوانة للصحافيين مسبقا أو أي رابط للتسجيلات. كما تُدعى الصحافة إلى جلسة استماع سرية تفاديا لأي تسريبات.</p><p>وخلال هذه الجلسة السرية، يتحلق عشرة صحافيين حول طاولة اجتماعات مع ترك الهواتف المحمولة جانبا، من ثم الاستماع إلى الأغنيات البالغة مدتها الإجمالية 58 دقيقة.</p><p>"أغنيات عابرة للأجيال" -</p><p>الملاحظة الأولى: في "30" (عمر أديل عندما بدأت العمل على الألبوم قبل ثلاث سنوات)، لا تشبه الأغنيات كلها "إيزي أون مي" التي تبرز فيها المغنية عضلاتها الصوتية (ما يزعج منتقديها).</p><p>وعلى عكس  ألبومها السابق "25" الصادر عام 2015، غامرت المغنية البريطانية المقيمة في لوس أنجليس بألبوم جديد أقل كلاسيكية.</p><p>وفيما أوتار آلات الكمان حاضرة بقوة في الأغنيتين الأولى والأخيرة في الألبوم "سترينجرز  باي نيتشر" و"لوف إيز إيه غايم"، تنطلق أغنية "كراي يور هارت" بصوت معدّل على نسق موسيقى إلكترو.</p><p>كما أن أغنيتين هما "كان آي غت إت" مع مقاطعها المؤداة بالصفير و"هولد أون" المفعمة بالشجاعة بأسلوب موسيقى السول، قد تحصدان إعجابا يتخطى دائرة معجبي أديل. أما الأغنيات الأخرى فسترضي على الأرجح بالدرجة الأولى جمهور المغنية المعتاد على أسلوبها، وهم بالملايين ومن شأنهم أن يعيدوا إليها لقبها كملكة التصنيفات الموسيقية العالمية (48 مليون ألبوم مباع وهي لا تزال في سن 33 عاما).</p><p>ويقول نيكولا دو روا "لديها أكثر من 62 مليون مستمع شهريا (على سبوتيفاي)، وليس من المستغرب أن تطغى الإناث على جمهورها (60%) فيما 70% من المستمعين تتراوح أعمارهم بين 18 و 34 عاما، إنه جمهور شاب إلى حد ما، لكنها تستقطب عددا أكبر من المستعمين البالغين وأعمالها عابرة للأجيال أكثر من بيلي إيليش على سبيل المثال".</p><p>"بعيدة عن البهرجة" -</p><p>ويضيف المسؤول في سبوتيفاي "السؤال الذي نطرحه على أنفسنا هو + لماذا أديل؟ +: أبعد من أغنياتها المكتوبة بإتقان، هي بعيدة عن البهرجة وتعتمد صورة قريبة من الناس ولا تبدو كأنها تعيش على كوكب آخر، عاشت حياتها مع مشكلات في الوزن ونكسات عاطفية".</p><p>والمغنية الحائزة 15 جائزة "غرامي" إضافة إلى جائزة أوسكار عن الموسيقى التصويرية لفيلم "سكاي فال" من سلسلة جيمس بوند، أسرّت في مقابلات سابقة بأن فكرة هذا الألبوم راودتها في إطار ردها على أسئلة ابنها أنجيلو البالغ تسع سنوات، بشأن طلاقها.</p><p>وقالت أديل لمجلة "فوغ"، "في الثلاثين من عمري، انهارت حياتي من دون سابق إنذار"، مضيفة "أشعر أن هذا الألبوم تدمير ذاتي، ثم تأمل ذاتي وخلاص ذاتي."</p><p>وأشارت إلى أنها فقدت حوالي 45 كيلوغراما من وزنها بعد أن أصبحت مدمنة على التمارين الرياضية. وقالت "لم يكن الأمر يتعلق أبدا بفقدان الوزن، بل بالقوة ومنح نفسي أكبر قدر ممكن من الوقت كل يوم بعيدا عن هاتفي".</p><p>لكن الثغرات لن تختفي، إذ قالت أديل "يجب أن أستعد لأكون مشهورة مرة أخرى، وهو أمر لا أحبه كما يعلم الجميع".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>صورة التقطت في 12 شباط/فبراير 2017 للمغنية البريطانية أديل خلال حفل الاحتفال التاسع والخمسين لتوزيع جوائز &quot;غرامي&quot; في مدينة لوس أنجليس الأميركية </HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>فاليري ماكون </ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="فاليري ماكون "/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة التقطت في 12 شباط/فبراير 2017 للمغنية البريطانية أديل خلال حفل الاحتفال التاسع والخمسين لتوزيع جوائز "غرامي" في مدينة لوس أنجليس الأميركية</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="8516e5e4ebe3f07698c7fa6bd20c2235997728d0.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>67120</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="515"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="eb8948ca4296d55b2d75753409dbc482545d8afb.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>10320</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="164"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="c1f91f31e001d61809cf4311f8274fd13b04b3e1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>3070</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

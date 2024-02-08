@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T083201Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344w7xh</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344w7xh:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>entertainment-Taiwan-film-GoldenHorse-China</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T083155Z</FirstCreated>
+            <ThisRevisionCreated>20231126T083155Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>نجوم الصين يعودون إلى أبرز مهرجان سينمائي تايواني بعد سنوات من المقاطعة</HeadLine>
+                                                  <DateLine>تايبيه (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>entertainment-Taiwan-film-GoldenHorse-China</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="TWN"/>
+                              <Property FormalName="City" Value="تايبيه"/>
+                              <Property FormalName="Latitude" Value="25.04776"/>
+                              <Property FormalName="Longitude" Value="121.53185"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01004000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01005000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>أصبحت الممثلة هو لينغ السبت أول نجمة سينمائية صينية تسير على السجادة الحمراء في مهرجان "غولدن هورس أووردز" في تايوان منذ 2019، وهو العام الذي أعلنت فيه بكين مقاطعة أكبر حفل لتوزيع الجوائز في البلاد بعد توترات سياسية.</p><p>كما حضرت المخرجة الصينية هوانغ جي الحفلة مع زوجها الياباني ريوجي أوتسوكا. وقد فاز الزوجان بجائزة أفضل فيلم روائي طويل عن الدراما الاجتماعية "Stonewalling" ("ستونوالينغ") التي أخرجاها معاً.</p><p>وقالت هوانغ للحاضرين في المهرجان "بعد الفوز بجوائز +غولدن هورس+، يمكننا الذهاب إلى عالم متوحش أكثر والمضي قدماً بثبات. وأنا ممتنة بشكل خاص لجوائز غولدن هورس".</p><p>وقد منعت بكين فنانيها من المشاركة في "غولدن هورس" الملقبة بجوائز الأوسكار للأعمال باللغة الصينية، بعد أن أعرب مخرج تايواني عن دعمه لاستقلال الجزيرة في كلمة ألقاها إثر فوزه بجائزة عام 2018.</p><p>وتعهدت الصين، التي تَعتبرُ تايوان جزءاً لا يتجزأ من أراضيها، بإعادة الجزيرة إلى كنفها يوماً ما، باستخدام القوة إذا لزم الأمر.</p><p>والسبت، استقبلت السجادة الحمراء الممثلة هو لينغ، المرشحة لجائزة أفضل ممثلة عن دورها في فيلم "Carp Leaping Over Dragon's Gate" ("كارب ليبينغ أوفر دراغنز غايت"). وكانت ترتدي فستاناً لامعاً وتحمل في يديها ثمرة أناناس، وكان يرافقها المخرج الصيني يان شياو لين وبعض الممثلين في الفيلم.</p><p>وقالت هو "الاسم (الصيني) لفيلمنا هو +الأناناس+، وقد أخبرني الجمهور التايواني أن الأناناس يعني الحظ السعيد في الثقافة التايوانية".</p><p>مع ذلك، خسرت هو أمام أودري لين البالغة 12 عاماً (عن فيلم "ترابل غيرل")، التي أصبحت أصغر فائزة بجائزة أفضل ممثلة في تاريخ المهرجان.</p><p>وفاز التايواني هسياو يا تشوان بجائزة أفضل مخرج عن الدراما العائلية "أولد فوكس"، بينما فاز مواطنه وو كانغ رن بجائزة أفضل ممثل عن دوره كرجل أبكم في الفيلم الماليزي "أبانغ أديك".</p><p>ومُنحت جائزة أفضل فيلم وثائقي قصير إلى فيلم "ذي ميمو"، وهو عبارة عن يوميات بالفيديو عن الجائحة أنتجها زوجان سينمائيان كانا محجورين في شقة صغيرة في شنغهاي.</p><p>كان وجود الممثلين من البر الرئيسي الصيني بمثابة نقطة تحول مقارنة بالسنوات السابقة. وفي عام 2022، امتنعت النجمة الصينية سيا ليو، المرشحة لجائزة أفضل ممثلة عن فيلم الجريمة "ليمبو" المنتج في هونغ كونغ، عن حضور الحفلة، من دون تعليل ذلك.</p><p>لكن في العام الماضي، تسلّم المخرج الصيني هوانغ شولي شخصياً جائزة أفضل فيلم وثائقي قصير، في ظهور نادر لمخرج سينمائي من الصين القارية منذ الأزمة.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>الممثلة الصينية هو لينغ في مهرجان &quot;غولدن هورس فيلم أووردز&quot; في تايبيه في 25 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>سام يه</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="سام يه"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>الممثلة الصينية هو لينغ في مهرجان "غولدن هورس فيلم أووردز" في تايبيه في 25 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="02f343f381cc609c4558694b58f427c15a818099.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>80641</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="9b202d1988ad40d0d49764e1d176585078b129bc.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>12558</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="6d4e6dd559826918125a6a82ccf4037a7044160f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>3969</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

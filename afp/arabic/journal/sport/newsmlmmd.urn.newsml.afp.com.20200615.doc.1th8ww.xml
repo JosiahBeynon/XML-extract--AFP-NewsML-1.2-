@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T164921Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th8ww</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th8ww:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>foot-L1</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T164907Z</FirstCreated>
+            <ThisRevisionCreated>20200615T164907Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>نانت يفعِّل خيار شراء النيجيري سايمون</HeadLine>
+                                                  <DateLine>رين (فرنسا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>foot-L1</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="رين"/>
+                              <Property FormalName="Latitude" Value="48.11198"/>
+                              <Property FormalName="Longitude" Value="-1.67429"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>أعلن نادي نانت الفرنسي لكرة القدم الإثنين أن فعَّل بند شراء المهاجم النيجيري موزيس سايمون (24 عاما) وتعاقد معه حتى عام 2024 بعدما لعب في صفوفه معارا لموسم واحد منذ الصيف الماضي من ليفانتي الإسباني.</p><p>وانضم الجناح سايمون إلى نانت في آب/أغسطس الماضي بعد مستوى متذبذب لمدة موسم ونصف في صفوف ليفانتي في الليغا، وسرعان ما فرض نفسه بفضل سرعته وفنياته مع نانت حيث خاض 30 مباراة في جميع المسابقات وسجل تسعة أهداف مع ثماني تمريرات حاسمة.</p><p>وقال نانت على موقعه على الإنترنت "سيرتبط اللاعب الدولي النيجيري بالنادي حتى عام 2024، اعتبارا من الأول من تموز/يوليو 2020".</p><p>ولم يكن تفعيل بند الشراء بقيمة خمسة ملايين يورو موضع شك بالنسبة للنادي، لكن أنصار النادي الذين اختاروه في أيار/مايو الماضي أفضل لاعب في الموسم في صفوف نانت، قلقون بشكل خاص من إمكانية بيعه سريعا خصوصا وأن مستواه يتطور بشكل كبير.</p><p>وكان مدرب النادي كريستيان غورغوف أشاد به في شباط/فبراير الماضي بقوله "إنه سريع وقوي جدا من الناحية الفنية. إنه أيضًا جيد جدا في المرتدات الهجومية. إنه مزعج للخطوط الدفاعية".</p><p>انتقل سايمون إلى أوروبا في سن الثامنة عشرة، بيد أنه لم ينجح في اختبار للانضمام إلى صفوف أياكس أمستردام الهولندي، فانتقل للعب مع ترينسين السلوفاكي ودشَّن مشواره معه بثلاثية في مسابقة الدوري الأوروبي "يوروبا ليغ". انتقل مطلع عام 2015 إلى لاغانتواز البلجيكي، حيث سجل ثلاثية أيضا في ثالث مباراة له مع فريقه الجديد، قبل أن يتم استدعاؤه في الربيع لصفوف منتخب بلاده "النسور الممتازة".</p><p>وخاض سايمون حتى الآن 30 مباراة دولية وساهم في احتلال نيجيريا المركز الثالث في نهائيات كأس الأمم الإفريقية في مصر عام 2019، لكنه غاب عن نهائيات كأس العالم 2018 بسبب إصابة في الفخذ قبل أسبوع من السفر إلى روسيا.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>L&apos;attaquant nigérian Moses Simon avec le FC Nantes contre Dijon en Ligue 1 le 8 décembre 2019 au stade de la Beaujoire à Nantes</HeadLine>
+                            <CreditLine>AFP/ارشيف</CreditLine>
+                            <ByLine>Loic VENANCE</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="Loic VENANCE"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="AFP"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>L'attaquant nigérian Moses Simon avec le FC Nantes contre Dijon en Ligue 1 le 8 décembre 2019 au stade de la Beaujoire à Nantes</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="6311bbd02caf16d480c481b74137e59f8abe0be9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>92843</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="3ec4c778b464e71da0a8963b25294211d2b210d1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>16111</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="1c27c3e80db3d2ddbf9f0faa21968a0af955fedd.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5026</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

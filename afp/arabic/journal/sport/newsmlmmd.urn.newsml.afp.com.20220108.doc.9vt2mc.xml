@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20220108T120251Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20220108</DateId>
+                <NewsItemId>doc-9vt2mc</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20220108:doc-9vt2mc:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>قدم-اسيا-ايران-ابطال</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20220108T120239Z</FirstCreated>
+            <ThisRevisionCreated>20220108T120239Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>دوري أبطال آسيا: استبعاد أندية يثير صدمة في إيران رغم توقعه</HeadLine>
+                                                  <DateLine>طهران (أ ف ب)</DateLine>
+                <CopyrightLine>© 2022 AFP</CopyrightLine>
+        <SlugLine>قدم-اسيا-ايران-ابطال</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="IRN"/>
+                              <Property FormalName="City" Value="طهران"/>
+                              <Property FormalName="Latitude" Value="35.69439"/>
+                              <Property FormalName="Longitude" Value="51.42151"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>انعكس قرار الاتحاد الآسيوي لكرة القدم استبعاد ثلاثة أندية إيرانية من مسابقة دوري الأبطال لعدم استيفائها المعايير الالزامية، صدمة في الجمهورية الإسلامية، على رغم اعتبار معنيين باللعبة أن الخطوة كانت متوقعة.</p><p>وأعلن الاتحاد القاري الجمعة منع أكبر ناديين في البلاد، أي قطبي العاصمة برسبوليس واستقلال، إضافة الى نادي غل غوهار، من المشاركة في موسم 2022 للمسابقة القارية الأولى على صعيد الأندية، على خلفية عدم استيفاء "جميع المعايير الإلزامية" المطلوبة.</p><p>ولم يحدد الاتحاد الذي يتخذ من كوالالمبور مقرا له، تفاصيل القرار، إلا أن معايير نيل الترخيص تشمل مجالات واسعة تراوح بين الرياضي والإداري والمالي، وصولا الى أخرى متعلّقة بالسلامة ومُلكية الأندية وقواعد السلامة والبنى التحتية وغيرها.</p><p>ويعد استقلال المعروف بلونه الأزرق، وبرسبوليس المعروف بالأحمر، أبرز ناديين في إيران. وكانت مبارياتهما في "دربي" العاصمة، تجذب عشرات آلاف المشجعين في ملعب آزادي في طهران، قبل أن يغيب هؤلاء عن المدرجات بسبب الظروف الصحية المرتبطة بكوفيد-19.</p><p>وأثار قرار الاتحاد القاري صدمة الناديين اللذين يتمتعان بقاعدة جماهيرية كبيرة، على رغم أن العديد من المعنيين بكرة القدم التي تحظى بشعبية واسعة في إيران، ألمحوا الى أن هذه الخطوة كانت متوقعة.</p><p>وقال مدرب برسبوليس يحيى كَل محمدي إن القرار "يثير الصدمة فعلا. يصعب عليّ جدا تقبّله".</p><p>وتابع "يجب أن يتم تحميل المسؤولية الى الذين تسبّبوا بهذه الفضيحة التاريخية من خلال قراراتهم"، وفق ما نقلت عنه وسائل إعلام إيرانية.</p><p>من جهته، رأى عضو مجلس إدارة نادي استقلال حجت كريمي أن "كل المشجعين الآن يشعرون بالحزن جراء هذه المشكلة"، وفق ما نقلت عنه وكالة "إسنا".</p><p>وأوردت صحيفة "خبر ورزشى" الرياضية، أن الاتحاد الآسيوي كان أبلغ وزارة الرياضة الإيرانية في تشرين الأول/أكتوبر، بضرورة انهاء ملكيتها المشتركة لناديي برسبوليس واستقلال، وهي ما تعدّ مخالفة لمعاييره المتعلقة بنيل ترخيص المشاركة في دوري الأبطال.</p><p>ورأى المسؤول في الاتحاد المحلي للعبة داريوش مصطفوي في حديث للتلفزيون الرسمي أن "المشكلة اليوم هي حضور السياسة في كرة القدم".</p><p>من جهته، قال رئيس الاتحاد شهاب الدين عزيزي خادم "بالتأكيد سنستخلص العبر المريرة من تجارب الماضي، من أحل اتخاذ خطوات لكي تمتثل كرة القدم في بلادنا مع المعايير المطلوبة من الاتحاد القاري"، وذلك في تصريحات للتلفزيون الرسمي ليل الجمعة السبت.</p><p>وحل برسبوليس وصيفًا في دوري الأبطال عامي 2018 و2020، بينما رفع استقلال كأس المسابقة مرتين في صيغتها القديمة، وشارك مرارا في الصيغة الجديدة اعتبارا من موسم 2002-2003.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>مشجعو ناديي استقلال (يمين) وبرسبوليس (يسار) الإيرانيين خلال مواجهة الفريقين على استاد أزادي في العاصمة طهران في 12 شباط/فبراير 2017</HeadLine>
+                            <CreditLine>ا ف ب/ا ف ب</CreditLine>
+                            <ByLine>عطا كيناره</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="عطا كيناره"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>مشجعو ناديي استقلال (يمين) وبرسبوليس (يسار) الإيرانيين خلال مواجهة الفريقين على استاد أزادي في العاصمة طهران في 12 شباط/فبراير 2017</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="7442044a7fcf2787b3afc2131d3485abaedf894a.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>223728</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="495"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="b288d7dfcce0e3568a882daf72b6292d275c3430.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>25228</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="158"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="c7d935cedd308c60f24910116e343894dedb006d.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5686</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="71"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

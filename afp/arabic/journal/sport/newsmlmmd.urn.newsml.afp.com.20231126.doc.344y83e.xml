@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T133507Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344y83e</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344y83e:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>fbl-Fbl-Eur-C1-Fbl-Eur-C1-fbl</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T133458Z</FirstCreated>
+            <ThisRevisionCreated>20231126T133458Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بطولة ألمانيا: الكرواتي بييلتسا مدربا جديدا لأونيون برلين</HeadLine>
+                                                  <DateLine>برلين (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>fbl-Fbl-Eur-C1-Fbl-Eur-C1-fbl</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="DEU"/>
+                              <Property FormalName="City" Value="برلين"/>
+                              <Property FormalName="Latitude" Value="52.52437"/>
+                              <Property FormalName="Longitude" Value="13.41053"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>أعلن نادي أونيون برلين المتعثر والذي يواجه خطر الهبوط من الدوري الالماني لكرة القدم تعيين المدرب نيناد بييلتسا للاشراف عليه خلفًا للسويسري أورس فيشر المُقال.</p><p>وبعدما انهى أونيون برلين الموسم الماضي من الدوري الالماني في المركز الرابع ليتأهل الى دوري أبطال أوروبا، يعيش اليوم وضعا حرجا حيث يقبع في المركز السابع عشر قبل الاخير بسبع نقاط من 12 مباراة.</p><p>وقال المدرب الكرواتي البالغ من العمر 52 عاماً في بيان أصدره النادي "أونيون ناد يدار بشكل جيد للغاية في أحد أفضل الدوريات الأوروبية". </p><p>وأضاف "مهمتي هي قيادة الفريق للخروج من الفترة الصعبة وإظهار نقاط قوته مرة أخرى".</p><p>بعد مسيرة طويلة كلاعب تنقل فيها بين ألمانيا، إسبانيا، النمسا وكرواتيا، بدأ بييلتسا مسيرته التدريبية وأشرف على فريق فولفسبورغ أي سي النمسوي الذي قاده من الدرجة الثالثة الى الاولى، ثمّ تولى تدريب أوستريا فيينا النمسوي في دور المجموعات من دوري الابطال للمرة الاولى على الاطلاق.</p><p>وكمدرب لدينامو زاغرب الكرواتي بين 2018 و2020، فاز بييلتسا بلقب الدوري المحلي، الكأس وكأس السوبر.</p><p>وبعد خمسة اعوام ونصف العام قضاها فيشر على رأس الفريق، صعد اونيون للمرة الاولى في تاريخه الى دوري النخبة ونجح في قيادته الى دوري الابطال. ا</p><p>الا انّ المدرب السويسري غادر بإتفاق متبادل في بداية شهر تشرين الثاني/نوفمبر، فيما كان الفريق يتذيّل ترتيب الدوري من دون فوز في 14 مباراة.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>تعيين نيناد بييلتسا مدربًا لفريق يونيون برلين في الدوري الألماني لكرة القدم</HeadLine>
+                            <CreditLine>ا ف ب/ا ف ب</CreditLine>
+                            <ByLine>دينيس لوفروفيتش</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="دينيس لوفروفيتش"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>تعيين نيناد بييلتسا مدربًا لفريق يونيون برلين في الدوري الألماني لكرة القدم</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="0bd8cb32e9b0a3102563c00dbd8ead6819e60cb4.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>118336</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="37a0b449cbb3f20be53bebf48e0b6ea398621c45.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>19373</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="7af842103e9bf06fe20c6307cee5a2f1d29bf420.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6417</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

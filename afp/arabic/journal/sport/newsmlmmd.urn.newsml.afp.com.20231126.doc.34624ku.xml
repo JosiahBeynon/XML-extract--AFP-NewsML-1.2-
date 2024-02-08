@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T155052Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-34624ku</NewsItemId>
+        			        <RevisionId PreviousRevision="1" Update="N">2</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-34624ku:2</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Moto-Prix-ESP-Valencia-win</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T153431Z</FirstCreated>
+            <ThisRevisionCreated>20231126T155027Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>جائزة فالنسيا الكبرى: بانيايا يحتفظ باللقب عن جدارة</HeadLine>
+                                                  <DateLine>فالنسيا (إسبانيا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>Moto-Prix-ESP-Valencia-win</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ESP"/>
+                              <Property FormalName="City" Value="فالنسيا"/>
+                              <Property FormalName="Latitude" Value="39.46975"/>
+                              <Property FormalName="Longitude" Value="-0.37739"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="15041014"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="15041000"/>
+                                  </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>احتفظ الإيطالي فرانتشيسكو بانيايا (دوكاتي) بلقب بطولة العالم للدراجات النارية فئة "موتو جي بي" عن جدارة، وذلك بعدما اختتم الموسم بانتصار سابع كان بغنى عنه في معركة الصراع على اللقب، وذلك نتيجة انسحاب منافسه الإسباني خورخي مارتن (دوكاتي-براماك) الأحد من جائزة فالنسيا الكبرى للدراجات النارية.</p><p>وكان بانيايا قادراً على حسم اللقب العالمي الثاني توالياً اعتباراً من السبت، لكن مارتن أرجأ ذلك بعد فوزه بسباق السرعة "سبرينت"، ما خوله تقليص الفارق الذي يفصله عن الإيطالي إلى 14 نقطة قبل سباق الأحد على حلبة "ريكاردو تورمو" التي احتضنت الجولة العشرين الأخيرة من الموسم.</p><p>لكن سباق الأحد كان مأساوياً على الإسباني الذي حقق بداية مثالية بعدما شق طريقه من المركز السادس الى الثاني خلف بانيايا الذي كان صاحب المركز الأول عند الانطلاق.</p><p>وبعدما أفلت من عواقب حادث مع بانيايا بالذات في اللفة الثالثة من السباق ما تسبب بخسارته أكثر من ثانيتين وتراجعه الى المركز الثامن، عاد الإسباني وارتكب خطأ في اللفة الثامنة بعد اصطدام مع مواطنه بطل العالم السابق مارك ماركيس (هوندا)، ما أدى الى انسحاب الدراجين من السباق.</p><p>وأقر بانيايا "أني لم أر مارتن يتعرض لحادث. اعتقدت أنه ما زال في السباق وشعرت بالقلق. قلت لنفسي إن أفضل ما يمكن القيام به هو القيادة من أجل الفوز بالسباق وهذا سيضمن لي الاحتفاظ باللقب".</p><p>وأدى هذا الانسحاب الى حسم اللقب لصالح بانيايا الذي رفض الاسترخاء رغم ذلك وتمسك بالمركز الأول حتى تجاوز خط النهاية، محققاً انتصاره السابع للموسم والسابع عشر في مسيرة الإيطالي البالغ 26 عاماً الذي وجد نفسه في المركز الثالث مع انتصاف السباق بعدما تجاوزه دراجي كاي تي أم الأسترالي جاك ميلر والجنوب إفريقي براد بايندر.</p><p>لكنه انتظر اللحظة المناسبة كي ينقضّ مجدداً على الصدارة، متقدماً في النهاية على مواطنه فابيو دي جانانتانيو (دوكاتي-غريزيني)، الفائز بالجولة الماضية في قطر، والفرنسي يوهان زاركو (دوكاتي-براماك)، ليصعد الى منصة التتويج للمرة الرابعة عشرة هذا الموسم.</p><p>وقال الإيطالي بعد التتويج "أنه حلم. أنا سعيد للغاية. كان موسماً رائعاً... لطالما حلمت بإحراز اللقب مع الفوز بسباق"، مضيفاً "أود توجيه تحية الى الفريق الذي قام بعمل استثنائي هذا الموسم".</p><p>وأنهى بانيايا الموسم برصيد 467 نقطة، مقابل 428 لمارتن الذي فاز بأربعة سباقات فقط لكنه كان متفوقاً بسباقات السرعة "سبرينت" بعدما فاز بتسعة منها.</p><p>ترتيب الخمسة الأوائل في السباق:</p><p>1- الإيطالي فرانتشيسكو بانيايا    40:58.5350 دقيقة</p><p>2- الإيطالي فابيو دي جانانتونيو   بفارق 0.176 ثانية</p><p>3- الفرنسي يوهان زاركو           بفارق 0.360 ث</p><p>4- الجنوبي إفريقي براد بايندر    بفارق 2.347 ث</p><p>5- الإسباني راوول فرنانديس        بفارق 4.636 ث</p><p>- ترتيب الخمسة الأوائل في بطولة العالم:</p><p>1- الإيطالي فرانتشيسكو بانيايا 467 نقطة</p><p>2- الإسباني خورخي مارتن 428 نقطة</p><p>3- الإيطالي ماركو بيتسيكي 329 نقطة</p><p>4- الجنوب إفريقي براد بايندر 290 نقطة </p><p>5. الفرنسي يوهان زاركو 221 نقاط</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>دراج دوكاتي الايطالي فرانتشيسكو بانيايا يحتفل باحرازه لقب بطولة العالم للدراجات النارية فئة موتو جي بي. فالنسيا في 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>خافيير سوريانو</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="خافيير سوريانو"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>دراج دوكاتي الايطالي فرانتشيسكو بانيايا يحتفل باحرازه لقب بطولة العالم للدراجات النارية فئة موتو جي بي. فالنسيا في 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="2a88b838c8bb6dd918b68c4361dc16b036c19ea0.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>121640</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="858b68035eadf6988208ba8118e82842b15e0bc1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>23468</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="d1f304e742ccc9a3c6233fa14d7d5113d39d9540.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7007</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T120159Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344p2p3</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344p2p3:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>ايطاليا-حيوانات-اطعمة-مطعم-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T120145Z</FirstCreated>
+            <ThisRevisionCreated>20231126T120145Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>للكلاب مطعمها في روما</HeadLine>
+                                                        <ByLine>غيلداس لو رو</ByLine>
+                                  <DateLine>روما (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>ايطاليا-حيوانات-اطعمة-مطعم-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ITA"/>
+                              <Property FormalName="City" Value="روما"/>
+                              <Property FormalName="Latitude" Value="41.89193"/>
+                              <Property FormalName="Longitude" Value="12.51133"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="08000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="08001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04013000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="06000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04013000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="06007000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10004000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تسود مطعم "فيوتو" في روما أجواء مميزة، فالإضاءة خافتة والموسيقى هادئة وطاقم العمل جاهز لتلبية أي زبون... ومع أنّ المكان يشبه سائر المطاعم، لكنّه يتمايز بكون الكلاب تلقى فيه ترحيباً يضاهي الاهتمام الذي يناله أصحابها.</p><p>وتُظهر قائمة الأطعمة المخصصة لهذه الحيوانات خيارات متنوّعة بينها السمك مع الريكوتا والكوسا، والدجاج المفروم والمهروس، ووعاء من الخضر. ومن بين المشروبات المُقدَّمة، عصير التفاح الأخضر والبطيخ.</p><p>في حديث إلى وكالة فرانس برس، يقول لوكا غراماتيكو، وهو مدرّب كلاب استحال كبير الطهاة في المطعم الذي افُتتح قبل شهر، إنّ "قائمة الأطعمة خضعت لدراسة من اختصاصية في تغذية الحيوانات حدّدنا معها المكوّنات التي ينبغي استخدامها، مع مراعاة الحساسية لدى الكلاب، فهذه الحيوانات تظهر حساسية أكثر بكثير مما يعانيه البشر".</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>ويبدو أن الكلاب سعيدة بهذه الأجواء، إذ لا يُسمَع في المكان أي نباح، فيما تركّز الحيوانات على أطباقها وهي تجلس داخل صناديق مخصصة مريحة. ويلعق "بيبي"، وهو كلب من نوع بيشون لونه أبيض وأسود ويبلغ أربع سنوات، الوعاء حتى نفاد الفتات.</p><p>وتقول سارة نيكوسانتي وهي تلتقط صورة سيلفي مع "مانغو"، كلبها من نوع جاك راسل يبلغ خمس سنوات، في المطعم ذي الجدران المغطاة بالمرايا، إنّ الحيوانات الأليفة "جزء من عائلتنا، فلماذا لا نعاملها على أنها فرد من العائلة؟".</p><p>وتبدي هذه العاملة في مجال العقارات والبالغة 36 عاماً "سعادة كبيرة" بالخيارات الواسعة التي توفرها قائمة الأطعمة، وتقول "يمكن للكلاب الحصول على نظام غذائي متوازن".</p><p>ويشير الطاهي الملتحي ذو العيون اللامعة إلى أن الأطعمة تُحضَّر "من دون بهارات وملح وزيوت"، مع حرصه على تقديم الأطباق "بأسلوب يجعلها شهية"، إذ يضيف صلصات كريمية بيضاء ويتيحها الأطعمة بأشكال مختلفة كطبق على شكل عظمة مثلاً.</p><p>- كعكة عيد ميلاد-</p><media media-type="image" style="rightSide"><media-reference data-location="#photo2" mime-type=""/></media><p>ويلفت لوكا إلى أنّ "الأسماك طبق مفضل لدى الكلاب لأن نكهتها مختلفة عن أطعمتها المعتادة"، وهو ما يثير الدهشة.</p><p>وفي تلك الليلة، ارتادت رومينا لانزا، وهي محامية تبلغ 40 سنة، المطعم للاحتفال بالعيد الميلاد الرابع لكلبها رودي. وترى أنّ "فيوتو" يشكل "مبادرة تلقى ترحيباً كبيراً". وحتى لو كانت المجاعة تهدد جزءاً من البشر، فهي تدافع عمّا وصفته "خياراً شخصياً"، وتقول "لا أرى أي عمل مسيء في هذه الخطوة".</p><p>وتوافقها الرأي ماريا غليوتونه، وهي طالبة عشرينية علمت بالمطعم من خلال منصة تيك توك وحضرت مع كلبتها "نالا" البالغة عامين والكلب "دوغلاس"، وهو جرو كورسيكي عمره أربعة أشهر. وتقول "وحدهم من ليس لديهم كلاب يفكّرون على هذا النحو".</p><p>وطرأت فكرة تأسيس هذا المطعم وسط حي بونتي ميلفيو الذي يعج بالحانات والمطاعم التي يرتادها خصوصاً الأثرياء، بالصدفة لثلاثة شبان عصريين.</p><media media-type="image" style="leftSide"><media-reference data-location="#photo3" mime-type=""/></media><p>ويقول ماركو تورانو (33 عاماً)، أحد مؤسسي المطعم "بصراحة، لم نتوقّع ازدهاراً كهذا ونحن سعداء جداً، والأهم أننا نشعر بالفرح لأننا نوفّر هذه التجربة للكلاب".</p><p>ومنذ افتتاحه، يستقبل المطعم كل مساء ما معدله ستة إلى عشرة كلاب في وسط الأسبوع، وعشرة إلى خمسة عشر كلباً خلال عطلات نهاية الأسبوع، فيما تراوح التكلفة لكل كلب بما بين ثمانية إلى عشرين يورو، بحسب حجم الحيوان.</p><p>وأُخضع كل تفصيل في تصميم المطعم للدراسة، ويقول ماركو "وضعنا حواجب بين الطاولات حتى يحافظ الكلب على خصوصيته أثناء تناول الطعام ولا يزعج أي حيوان آخر".</p><p>بالإضافة إلى هديته المفاجئة، سيحصل رودي أيضاً على كعكة عيد ميلاد هي عبارة عن "بسكويت بالجبن مزيّن بالريكوتا مع نكهة التفاح الأخضر".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>كلبان ينتظران طعامهما في مطعم &quot;فيوتو&quot; في روما في 21 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>تيزيانا فابي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="تيزيانا فابي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>كلبان ينتظران طعامهما في مطعم "فيوتو" في روما في 21 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="f7d14f8e3cf3b6bf9500eefbbac4a803c8af6d4e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>98114</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="565"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="2f47ad9923b133337338c696800b1641eb4232a3.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>19377</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="180"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="577e92055e13a063c7e69a20c7b020fa2b38bfb5.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5896</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="81"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>سارة نيكوسانتي تلتقط صورة سيلفي مع كلبها &quot;مانغو&quot; في مطعم &quot;فيوتو&quot; في روما في 21 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>تيزيانا فابي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="تيزيانا فابي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>سارة نيكوسانتي تلتقط صورة سيلفي مع كلبها "مانغو" في مطعم "فيوتو" في روما في 21 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="b9be76ae616ed398eb13fb87cad3e152ac623f77.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>110705</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="bb6318d8f075a882bd9a89393d074dff00aefad1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>20423</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="1728624008805e95617e3f778d3acb1c8c3d22e9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6049</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo2">
+            <NewsLines>
+                            <HeadLine>زبونان ينظران إلى كلبهما في مطعم &quot;فيوتو&quot; في روما في 21 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>تيزيانا فابي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="تيزيانا فابي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>زبونان ينظران إلى كلبهما في مطعم "فيوتو" في روما في 21 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="d217264d3cbf4282761073f9399619f800d01f0d.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>136650</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="d52ce3f63e5aa1af55f3ed8c61bc9ddbcd3a31e3.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>23954</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="10009a1271d1c4c51a7642e382656d1dd60c4f8e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6554</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo3">
+            <NewsLines>
+                            <HeadLine>طاه يقدم طبقا على شكل عظمة في مطعم &quot;فيوتو&quot; في روما في 21 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>تيزيانا فابي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="تيزيانا فابي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>طاه يقدم طبقا على شكل عظمة في مطعم "فيوتو" في روما في 21 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="644c1bc55daefe48fd9ea47eb31ea713899ffa01.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>65096</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="b6c0788648326d9f366ed764aff32da6ef6bd1a1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>10972</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="540e9d39f2bec306f58a818f13ac8fea7fd612f7.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>3580</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

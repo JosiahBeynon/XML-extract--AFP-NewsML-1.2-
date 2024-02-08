@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200613T102524Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200613</DateId>
+                <NewsItemId>doc-1td4jm</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200613:doc-1td4jm:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>فرنسا-مطاعم-وباء-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200613T102510Z</FirstCreated>
+            <ThisRevisionCreated>20200613T102510Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>مطاعم فرنسية كبرى ستدعو أفرادا من الطواقم الطبية إلى تناول الطعام </HeadLine>
+                                                  <DateLine>باريس (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>فرنسا-مطاعم-وباء-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="باريس"/>
+                              <Property FormalName="Latitude" Value="48.85341"/>
+                              <Property FormalName="Longitude" Value="2.34121"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>سيستضيف نحو ثلاثين طاهيا فرنسيا كبيرا من بينهم يانيك ألينو وغي سافوا وجورج بلان الحاصلين على 3 نجوم من دليل ميشلان، في مطاعمهم أفرادا من الطواقم الصحية في إطار مبادرة تهدف إلى عدم نسيان ما قاموا به خلال جائحة كوفيد-19.</p><p>وأطلقت المبادرة بدعم من دليل "ميشلان" ومجموعة "لوي فويتون" للمنتجات الفاخرة، وستستمر حتى نهاية السنة.</p><p>واوضحت الفكاهية آن رومانوف المشرفة على جمعية "التضامن مع الممرضين" التي ستشرف على هذه العملية لوكالة فرانس برس أن 500 طاولة باتت جاهزة من الآن "وقد أرسل مئة من افراد طواقم الرعاية الطبية رسائل الكترونية في غضون ساعة للاستفادة" من المبادرة.</p><p>وقال أرنو دونكيل الذي اختير أفضل طاه في 2020 من قبل دليل "غو إي ميو" والحائز 3 نجوم من دليل "ميشلان"، إن الفكرة تهدف إلى "شكر أفراد طواقم الرعاية الصحية".</p><p>ويشارك في هذه المبادرة نحو 30 طاهيا كبيرا من كل أرجاء فرنسا.</p><p>وأضاف دونكيل "يميل الناس إلى نسيان ما أنجز سريعا، حصلت انجازات استثنائية وبرز أشخاص استثنائيون، علينا أن نحضر المرحلة المقبلة حتى لا ننساهم".</p><p>وسيقدم اعتبارا من نهاية حزيران/يونيو لهؤلاء، مقبلات مؤلفة من 27 نوعا من الخضار من منتجين محليين وطبق سمك ولحم الحمل وتحلية ومشروب بقيمة 210 يورو.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>الطاهي الفرنسي أرنو دونكيل في صورة ملتقطة في 12 نيسان/أبريل 2013 في مطعمه في سان تروبيه في جنوب فرنسا </HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>جان-كريستوف مانينيه</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جان-كريستوف مانينيه"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>الطاهي الفرنسي أرنو دونكيل في صورة ملتقطة في 12 نيسان/أبريل 2013 في مطعمه في سان تروبيه في جنوب فرنسا</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="3675923a3f90e20d1a8e9abe5b7a5254c69b3fed.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>128818</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="583"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="0637b03c0a63438e24652a00463273e6874fe55b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>22500</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="186"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="29dfd8504812a4b828be83cc0ce3dc7bc7c91dd7.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6578</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="83"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

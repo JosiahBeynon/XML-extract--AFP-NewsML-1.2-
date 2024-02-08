@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T070302Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th0fj</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th0fj:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Perú-salud-virus-epidemia-turismo-arqueología</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T070245Z</FirstCreated>
+            <ThisRevisionCreated>20200615T070245Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>البيرو ستسمح بعدد محدد من الزوار في قلعة ماتشو بيتشو</HeadLine>
+                                                  <DateLine>ليما (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>Perú-salud-virus-epidemia-turismo-arqueología</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="PER"/>
+                              <Property FormalName="City" Value="ليما"/>
+                              <Property FormalName="Latitude" Value="-12.04318"/>
+                              <Property FormalName="Longitude" Value="-77.02824"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="07001002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="04014005"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="13003001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04014000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="13000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>سيستقبل موقع ماتشو بيتشو العائد لحضارة الإنكا ويعتبر معلما سياحيا رئيسيا في البيرو ربع عدد زواره فقط مع إعادة فتحه في تموز/يوليو أثر جائحة كوفيد-19، على ما أعلنت السلطات المحلية.</p><p>وأغلق الموقع مدة زادت عن ثلاثة أشهر. وأوضح جان-بول بينافينته حاكم ولاية كوسكو في جنوب اليلاد حيث الموقع السياحي لوكالة فرانس برس إن "قلعة ماتشو بيتشو ستستقبل 675 زائرا محليا وأجنبيا في اليوم فقط".</p><p>وينبغي على السياج الزائرين وضع الكمامة فيما سيحظر الدخول إلى بعض المناطق في الموقع.</p><p>وتعتبر البيرو ثاني أكثر دولة تضررا من فيروس كورونا المستجد في أميركا اللاتينية وراء البرازيل مع تسجيل 225 ألف إصابة رسميا أدت 6500 منها إلى لوفاة. وسكان البلاد محجورون منذ 16 آذار/مارس الماضي.</p><p>وتقع ماتشو بيتشو على مسافة 80 كيلومترا شمال غرب مدينة كوسكو وقد اكتشفها العام 1911 الأميركي حيرام بينغام وهي مدرجة على قائمة التراث العالمي للبشرية منذ العام 1983.</p><p>وشيدت القلعة الحجرية الذي يعني اسمها "الجبل القديم" في لغة كيتشوا، في عهد الأمبراطور باتشاكوتيك (1438-1471). وتقع في وسط محمية طبيعية تمتد على أكثر من 35 ألف هكتار.</p><p>وكان يزورها بشكل وسطي ألفان إلى ثلاثة آلاف شخص يوميا قبل الجائحة.</p><p>والعام الماضي، زارها أكثر من 1,5 مليون سائح، معظمهم أجانب، وفقا للأرقام الرسمية. </p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>مدينة ماتشو بيتشو القديمة التابعة لحضارة الانكا في آب/اغسطس 2016</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>غوه تشاي هين</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="غوه تشاي هين"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>مدينة ماتشو بيتشو القديمة التابعة لحضارة الانكا في آب/اغسطس 2016</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="00b02e1fcd0173e779f200395a7cef18cd30c07a.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>169871</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="114cf4a45313e0de286db10c7232cbd04927f926.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>20969</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="c6439c7340bea7702db1334e21a7f0980b78ff6e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5039</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

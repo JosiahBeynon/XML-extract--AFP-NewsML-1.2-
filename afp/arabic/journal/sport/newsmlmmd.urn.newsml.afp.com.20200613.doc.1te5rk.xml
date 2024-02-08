@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200613T222942Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200613</DateId>
+                <NewsItemId>doc-1te5rk</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200613:doc-1te5rk:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Basket-NBA-health-virus</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200613T222935Z</FirstCreated>
+            <ThisRevisionCreated>20200613T222935Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>دوري المحترفين: ايرفينغ ضد خطة الاستئناف في أورلاندو</HeadLine>
+                                                  <DateLine>نيويورك (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>Basket-NBA-health-virus</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="USA"/>
+                              <Property FormalName="City" Value="نيويورك"/>
+                              <Property FormalName="Latitude" Value="40.71427"/>
+                              <Property FormalName="Longitude" Value="-74.00597"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15008000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>أكدت تقارير صحافية متعددة السبت أن كايري ايرفينغ نجم فريق بروكلين نتس شارك في مؤتمر عبر الهاتف مع رابطة دوري كرة السلة الأميركي للمحترفين وأعرب عن معارضته استئناف الموسم في 31 تموز/يوليو المقبل في أورلاندو بولاية فلوريدا.</p><p>وذكرت شبكة "إي إس بي إن" وموقع "ذا أثلتيك"، نقلا عن مصادر لم يسميانها، أنه تم التطرق خلال هذا الاجتماع الذي شارك فيه نحو 100 لاعب الجمعة إلى  قضايا التمييز العنصري والسياسة الحالية.</p><p>وأعرب لاعبون آخرون عن قلقهم إزاء القضايا المتعلقة بخطة أورلاندو لعودة المنافسات وتدابير السلامة من فيروس كورونا المستجد الذي أدى إلى وقف الموسم في آذار/مارس الماضي.</p><p>وقال ايرفينغ بحسب ما ذكره موقع "ذا اثلتيك": "لا اؤيد الذهاب الى اورلاندو. أشعر بشيء مريب قليلا".</p><p>وكان الكاميروني جويل إمبيد وكارميلو أنتوني ودونوفان ميتشل وكيفن دورانت وكريس بول ودوايت هوارد من بين اللاعبين الذين وردت اسماؤهم بأنهم شاركوا في الاتصال.</p><p>ولن يكون بإمكان ايرفينغ المشاركة في المنافسات لخضوعه لعملية جراحية في كتفه قبل ثلاثة اشهر.</p><p>وذكرت التقارير أن اللاعبين اتفقوا على أنهم بحاجة لأن يكونوا جبهة موحدة في مواجهة أي قرار لاسيما أن هناك قلق بشأن الاثار الاقتصادية على اللاعبين.</p><p>وأفادت التقارير أن الوكلاء حذروا لاعبيهم من أنهم قد يخسرون 1,2 مليار دولار من رواتبهم إذا لم يكتمل الموسم ويدفعون رابطة الدوري إلى الانسحاب من اتفاق المفاوضة الجماعية مع الاتحاد، مما قد يؤدي إلى شروط أسوأ للرواتب في المواسم المقبلة مع احتمال أن يؤدي الوباء إلى خفض مستويات الإيرادات المتوقعة سابقا.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine> كايري ايرفينغ نجم فريق بروكلين نيتس الأميركي لكرة السلة في صورة مؤرخة في 12 كانون الثاني/يناير 2020.</HeadLine>
+                            <CreditLine>غيتي/ا ف ب/ارشيف</CreditLine>
+                            <ByLine>مايك ستوبي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="مايك ستوبي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="غيتي"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>كايري ايرفينغ نجم فريق بروكلين نيتس الأميركي لكرة السلة في صورة مؤرخة في 12 كانون الثاني/يناير 2020.</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="05fc7dfa695bda66a5b87fcffe6cf481a8339808.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>73807</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="07fc05809938054413b59201b9480ee4a25cd280.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>10676</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="84ddc09a96d5212acde5374e3d388a0364d27b4f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>3796</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

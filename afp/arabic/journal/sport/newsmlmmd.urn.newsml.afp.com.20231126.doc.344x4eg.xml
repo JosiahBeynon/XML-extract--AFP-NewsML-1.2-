@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T081630Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344x4eg</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344x4eg:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>سلة-دوري المحترفين-الولايات المتحدة</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T081619Z</FirstCreated>
+            <ThisRevisionCreated>20231126T081619Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>"أن بي ايه": ليكرز يواصل انتصاراته ويُسقط كافالييرز</HeadLine>
+                                                  <DateLine>لوس انجليس (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>سلة-دوري المحترفين-الولايات المتحدة</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="USA"/>
+                              <Property FormalName="City" Value="لوس انجليس"/>
+                              <Property FormalName="Latitude" Value="34.05223"/>
+                              <Property FormalName="Longitude" Value="-118.24368"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15008000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>قاد نجم إرتكاز لوس انجليس ليكرز انتوني ديفيس فريقه الى فوز ناري على حساب مضيفه كليفلاند كافالييرز 121-115 السبت، ليحقّق ليكرز فوزه الثالث تواليا خارج أرضه في دوري كرة السلة الاميركي للمحترفين. </p><p>ومن أصل نقاطه الـ 32 في المباراة، تعملق ديفيس في النصف الثاني على وجه الخصوص مسجلا 23 نقطة بمفرده، وأضاف الى رصيده 13 متابعة مع 3 حائط صد "بلوك شوت"، ليساعد فريقه على تعويض معاناته الهجومية، لا سيما لنجمه الابرز ليبرون جيمس في بداية المباراة بمواجهة فريقه السابق كليفلاند كافالييرز.</p><p>وقام كافالييرز ببث فيديو تكريمي لجايمس الهداف التاريخي للدوري في الربع الاول.</p><p>واكتفى جيمس بتسجيل ثماني من اصل 23 محاولة له في المباراة، منها تسديدة ثلاثية واحدة تاجحة من اصل 9، لينهي المباراة بـ 22 نقطة، في مباراة تبادل فيها الفريقان التقدم 16 مرة.</p><p>سجّل كافالييرز 40 نقطة في الربع الاول ليتقدم بفارق خمس نقاط، ومن ثمّ تقدم 71-70 مع نهاية النصف الاول.</p><p>الا انّ ديفيس برز في الوقت المناسب وساعد فريقه على التقدم 111-103 قبل اقل من اربع دقائق على النهاية، وسعى كافالييرز مجددا للعودة وقلص الفارق الى نقطة قبل اقل من دقيقتين، غير انّ جيمس أظهر خبرته في الوقت المناسب ليحسم النتيجة.</p><p>وقال ديفيس بعد المباراة "كان علينا فقط أن نفرض إرادتنا في الناحية الدفاعية". </p><p>واعترف ديفيس بتأثير غياب لاعب كافالييرز داريوس غارلاند عن النصف الثاني بسبب الاصابة، لكنه أشاد بـ "الفوز الجماعي لفريقه" بعدما سجّل ثمانية لاعبين من ليكرز اكثر من 10 نقاط.</p><p>سجّل لكافالييرز لاعبه العائد من الاصابة دونوفان ميتشل 22 نقطة وأضاف جاريت ألن 21 نقطة مع 14 متابعة. </p><p>وفي اوكلاهوما، تعملق جويل إمبيد أفضل لاعب الموسم الماضي وقاد فيلادلفيا سيفنتي سيكسرز لفوز صعب على ثاندر 127-123.</p><p>وسجّل إمبيد 35 نقطة من بينها ست رميات حرة في آخر 10 ثوان من المباراة ليساعد فريقه على العودة بإنتصار خارج الديار.</p><p>وفي مباريات أخرى، وضع بروكلين نتس حدا لثلاث مباريات بلا فوز وتغلب على ميامي هيت المنقوص 112-97.</p><p>سجّل مايكل بريدجز 24 نقطة واضاف كام جونسون 19 نقطة مع 10 متابعات لنتس.</p><p>في المقابل، أحرز كاليب مارتن 22 نقطة لميامي هيت الذي افتقد لهدّافه جيمي باتلر وبام أديبايو بعد يوم واحد من تفريطه بتقدمه بفارق 21 نقطة قبل ان يخسر امام نيويورك نيكس في ماديسون سكوير غاردن.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>نجم لوس أنجليس ليكرز ليبرون جيمس نحو سلّة كليفلاند كافالييرز في ظل مضايقة دفاعية من إيفان موبلي في المباراة التي جمعتهما في كليفلاند يوم السبت 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>غيتي/غيتي عبر ا ف ب</CreditLine>
+                            <ByLine>جيسون ميلر</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جيسون ميلر"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="غيتي"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>نجم لوس أنجليس ليكرز ليبرون جيمس نحو سلّة كليفلاند كافالييرز في ظل مضايقة دفاعية من إيفان موبلي في المباراة التي جمعتهما في كليفلاند يوم السبت 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="2138ebff94e3d63d76d536ca127a2cfb99d27e35.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>163446</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="9d747ed2118744648c0fc68e6bdabaea6ec58129.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>31240</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="06497465eb627e20857a187a444143178a36043e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>8310</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

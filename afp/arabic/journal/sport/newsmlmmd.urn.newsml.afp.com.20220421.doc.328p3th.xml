@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20220421T190918Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20220421</DateId>
+                <NewsItemId>doc-328p3th</NewsItemId>
+        			        <RevisionId PreviousRevision="1" Update="N">2</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20220421:doc-328p3th:2</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>مضرب-محترفون-مضرب-محترفون</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20220421T171102Z</FirstCreated>
+            <ThisRevisionCreated>20220421T190901Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>دورة بلغراد: ديوكوفيتش ينجو مجددًا ويعبر الى نصف النهائي</HeadLine>
+                                                  <DateLine>بلغراد (أ ف ب)</DateLine>
+                <CopyrightLine>© 2022 AFP</CopyrightLine>
+        <SlugLine>مضرب-محترفون-مضرب-محترفون</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="SRB"/>
+                              <Property FormalName="City" Value="بلغراد"/>
+                              <Property FormalName="Latitude" Value="44.80401"/>
+                              <Property FormalName="Longitude" Value="20.46513"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15065000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>لليوم الثاني تواليًا، تحتّم على الصربي نوفاك ديوكوفيتش المصنف أول عالميًا العودة من تأخر بمجموعة قبل أن يحسم الامور لصالحه في دورة بلغراد على الملاعب الترابية، ليبلغ الخميس الدور نصف النهائي بفوزه على مواطنه ميومير كيسمانوفيتش الثامن والثلاثين 4-6، 6-3 و6-3.</p><p>ويعاني ديوكوفيتش لإيجاد مستوياته منذ ترحيله من أستراليا مطلع العام الحالي بسبب عدم تلقيه اللقاح المضاد لفيروس كورونا، ما أدى الى حرمانه من الدفاع عن لقبه في أولى البطولات الكبرى.</p><p>وكان ديوكوفيتش عاد من تأخر بمجموعة أيضًا ضد مواطنه الآخر لاسلو دييري الاربعاء في مباراته الاولى في بلغراد ليحسم اللقاء بعد 3 ساعات و21 دقيقة.</p><p>قال بعد فوزه الخميس "السيناريو كان مشابهًا للمباراة الماضية ولكنني نجحت في الفوز والتأهل الى نصف النهائي" حيث سيلتقي الروسي كارن خاتشانوف (26) الفائز على البرازيلي تياغو مونتيرو (110) 7-5 و6-4.</p><p>وتابع ضاحكًا "أنا سعيد أني لن ألعب ضد صربيين. سيكون من الجيد التغيير"، مضيفًا "إنه شعور غريب أن تتشارك الملعب مع مواطنيك. الجمهور كان رائعًا مع اللاعبَين. من النادر ان ألعب هنا على أرضي وأنا أستمتع بكل لحظة".</p><p>ويخوض الفائز بـ20 لقبًا كبيرًا دورته الثالثة فقط هذا العام بعدما تم ترحيله من أستراليا حيث اضطر لرؤية منافسه الاسباني رافايل نادال ينفرد بالرقم القياسي لعدد ألقاب غراند سلام (21)، ليفك ارتباطه مع ديوكوفيتش بالذات والسويسري روجيه فيدرر.</p><p>كما غاب عن دورتي إنديان ويلز وميامي الأميركيتين الألف نقطة للماسترز بسبب القواعد المتعلقة باللقاح.</p><p>وبعد خروج مفاجئ من ربع نهائي دورة دبي أمام التشيكي ييري فيسلي في شباط/فبراير، عاد إلى مونتي كارلو الألف نقطة للماسترز الاسبوع الماضي لكنه خرج في مباراته الأولى أمام الاسباني أليخاندرو دافيدوفيتش فوكينا الذي واصل طريقه حتى المباراة النهائية.</p><p>ويأمل ديوكوفيتش في أن يعوّض خيبات هذا العام عندما يشارك في بطولة فرنسا المفتوحة التي تبدأ في 22 أيار/مايو المقبل في سعيه للاحتفاظ بلقبه.</p><p>وفي المباريات الاخرى، عبر الروسي أندري روبليف، المصنف ثامنًا عالميًا، الى ربع النهائي بفوزه الصعب على التشيكي ييري ليهيسكا (93) بنتيجة 4-6، 7-6 (7-1) و6-2 حيث سيلاقي الياباني تارو دانيال (104) الفائز على النروجي هولغر روني (72) 6-3، 6-7 (1-7) و6-3.</p><p>كما تأهل الايطالي فابيو فونيني (62 عالميًا) الى ربع النهائي بفوزه على السلوفيني ألياز بيديني (164) 6-2 و6-3،  ليلاقي الالماني أوسكار أوتي (67) الذي أقصى الروسي أصلان كاراتسيف (30) بصعوبة 6-7 (4-7)، 6-1 و6-3.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>الصربي نوفاك ديوكوفيتش خلال مباراته في الدور ربع النهائي من دورة بلغراد لكرة المضرب في 21 نيسان/ابريل 2022</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>بيديا ميلوسافلييفيتش</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="بيديا ميلوسافلييفيتش"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>الصربي نوفاك ديوكوفيتش خلال مباراته في الدور ربع النهائي من دورة بلغراد لكرة المضرب في 21 نيسان/ابريل 2022</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="2991e6ba2ce526352c101f4e7c41175dc9ace8d3.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>81063</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="489"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="49f45c65f4ae3cfc654f586ed22d917db2f77183.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>14476</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="156"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="c99b992dda191611f5ae10dd7a16657f4c623525.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4861</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="70"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

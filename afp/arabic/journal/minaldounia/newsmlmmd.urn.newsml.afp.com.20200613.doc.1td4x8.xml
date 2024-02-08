@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200613T121106Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200613</DateId>
+                <NewsItemId>doc-1td4x8</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200613:doc-1td4x8:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>فيروس-صحة-توزيع-نسيج-وباء-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200613T121055Z</FirstCreated>
+            <ThisRevisionCreated>20200613T121055Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>الموضة السريعة تلقت ضربة موجعة جراء الجائحة </HeadLine>
+                                                        <ByLine>إيمانويل ميشال في مدريد مع مكاتب نييوورك وطوكيو وستوكهولم</ByLine>
+                                  <DateLine>مدريد (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>فيروس-صحة-توزيع-نسيج-وباء-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ESP"/>
+                              <Property FormalName="City" Value="مدريد"/>
+                              <Property FormalName="Latitude" Value="40.4165"/>
+                              <Property FormalName="Longitude" Value="-3.70256"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="04013007"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04007000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04013000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تعيد متاجر مثل "زارا" و"إتش أند أم" و"غاب" فتح أبوابها تدريجا في العالم إلا أن العواقب المالية لجائحة كوفيد-19 مدمرة لأوساط الموضة السريعة التي عليها إعادة النظر بعملها بعمق، على ما يفيد خبراء لوكالة فرانس برس.</p><p>وتتوقع حوالى 40 % من شركات هذا القطاع تأثيرات على إيراداتها "أسوأ بكثير" من تلك التي تكبدتها خلال أزمة المالية في 2008 على ما جاء في استطلاع للرأي أعدته "يورومونيتور انترناشونال".</p><p>وتتوقع شركة دراسات السوق هذه تراجعا بنسبة لا تقل عن 12 % في مبيعات الألبسة والأحذية العالمية في 2020. </p><p>وسجلت مجموعة "إنديتيكس" الإسبانية الأولى عالميا في هذا المجال مع ماركة "زارا"، في الربع الأول من السنة أول خسارة صافية لها منذ دخولها البورصة في 2001 مع خسائر قدرها 409 ملايين يورو.</p><p>وتراجعت مبيعات المجموعة بالنصف تقريبا مع إغلاق 88 % من متاجرها عبر العالم في خضم إجراءات العزل. إلا أن "إنديتيكس" المتينة جدا على الصعيد المالي والفعالة على صعيد إدارة المخزونات، استمرت بدفع أجور موظفيها من دون اللجوء إلى البطالة الجزئية.</p><p>وشكل ذلك استثناء في القطاع إذ أن في إسبانيا وحدها وضع نحو ثمانية آلاف موظف في البطالة الجزئية من قبل منافستها "برايمارك" و4700 لدى الماركة الإسبانية الأخرى "مانغو" على ما قالت نقابة القطاع.</p><p>وقال ناطق باسم "إتش أند أم" إن الشركة السويدية لا يزال لديها "عشرات آلاف الموظفين" في بطالة جزئية في العالم متوقعا "عجزا" جديدا في الربع الثاني بعد انهيار المبيعات بنسبة 46 % في آذار/مارس.</p><p>وتعيد سلسلة المتاجر السويدية تدريجا فتح أبوابها لكن 1350 من أصل خمسة آلاف منها كانت لا تزال مغلقة نهاية أيار/مايو.</p><p>واستفاد 68 ألف من العاملين لدى الشركة البريطانية "برايمارك" من خطط البطالة الجزئية الحكومية في أوروبا. وقال المدير العام للسلسلة جورج ويستون في بيان "لولا ذلك لاضطررنا إلى صرف غالبيتهم". وشدد على أن بين 22 آذار/مارس و21 نيسان/أبريل  "لم تبع" الماركة أي شيء في العالم.</p><p>أما مجموعة "غاب" الأميركية فقد سجلت خسارة صافية قدرها 900 مليون دولار في الربع الأول من السنة.</p><p>- وداعا ل"لذة" التبضع؟ -</p><p>مع إعادة فتح المتاجر، تحدثت الماركة اليابانية "أونيكلو" عن مبيعات "متينة" في أيار/مايو لمجموعة الصيف بعد تراجعها بنسبة 60 % في نيسان/أبريل. اما "إنديتيكس" فأشارت إلى "انتعاش تدريجي" مع إعادة ثلاثة أرباع متاجرها فتح أبوابها.</p><p>إلا أن طريق التعافي صعب وطويل.</p><p>وأوضح بنجامن سيمناور الأستاذ في معهد الموضة في باريس لوكالة فرانس برس "تجد الماركات نفسها مع مخزونات ضخمة ومن الصعب استعادة التوقيت المناسب فيما الموضة رهن بروزنامة معينة ومواسم" مع مجموعات تتجدد بسرعة كبيرة.</p><p>وقد أثرت الأزمة على كل شبكة التزود العالمية ما دفع بعض المجموعات إلى إلغاء طلبيات لدى المزودين الآسيويين ما خلف صعوبات كبيرة للعمال المحليين.</p><p>يضاف إلى ذلك أن شهية المستهلكين على الموضة "ستتراجع بوضوح بسبب التراجع الكبير في مستوى المداخيل" الناجم عن الأزمة على ما اوضحت مارغريت لو رولان المحللة لدى "يورمونيتور".</p><p>وأضافت "سيكون أيضا من الصعب المحافظة على لذة التبضع وطابعه الاجتماعي مع إجراءات التباعد الاجتماعي المعمول بها".</p><p>وشرحت المحللة أن تغييرات دائمة ستصب في مصلحة تجارة الملابس عبر الانترنت التي اعتادت عليها فئات جديدة من السكان.</p><p>وسجلت غالبية المجموعات ارتفاعا في المبيعات الالكترونية بنسبة 50 % لدى "إنديتيكس" و13 % لدى "غاب" و17 % لدى "إتش اند ام" على الفترة نفسها مع ارتفاع بعدد أكبر في نيسان/أبريل وأيار/مايو.</p><p>وينبغي على القطاع التفكير أيضا بنوع الموضة التي يريدها المستهلكون. فبعد أشهر من الحجر والعزل هل سيحتاجون إلى ملابس أنيقة ومعقدة أو سيحافظون على عادة الأزياء الواسعة المريحة لا بل الرياضية التي ارتفعت مبيعاتها خلال الفترة الأخيرة؟</p><p>وأكد سيمناور "الغموض كامل بهذا الشأن (..) لكن لا نعرف كيف أن حدثا بهذه الأهمية لن ينعكس على الموضة".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>واجهة محل للملابس الجاهزة في دبلن في الثامن من حزيران/يونيو 2020</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>بول فايث</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="بول فايث"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>واجهة محل للملابس الجاهزة في دبلن في الثامن من حزيران/يونيو 2020</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="7da582f08f65443c60cd3bfcd3e6c5cfb9f53972.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>152191</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="521"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="6be29c064d7a5062a3acb58bc50f3b5945bc2344.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>20665</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="166"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="88f05412a87dbeee43317111949965902b138bd9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5690</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="74"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

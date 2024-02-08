@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T091222Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344u4yk</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344u4yk:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>روسيا -اوكرانيا -ثقافة-ادب-نزاع-خدمة دنيا </NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T091216Z</FirstCreated>
+            <ThisRevisionCreated>20231126T091216Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>"مكتبة جورج أورويل" تضيء شمعة في ظلام وضع روسيا الراهن </HeadLine>
+                                                        <ByLine>رومان كولا </ByLine>
+                                  <DateLine>إيفانوفو (روسيا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>روسيا -اوكرانيا -ثقافة-ادب-نزاع-خدمة دنيا </SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="RUS"/>
+                              <Property FormalName="City" Value="إيفانوفو"/>
+                                      </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="16002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01022000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="02000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="16000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تسحب امرأة مسنّة من على رفوف مكتبة أعمالاً تحفظ مكانها عن ظهر قلب، لمؤلفين كبار كأورويل وسوروكين ودوستويفسكي، ترى أنها تضيء شمعة في ظلام الوضع الراهن في روسيا.</p><p>في القاعة جهاز كمبيوتر وبضع مئات من الكتب، وتفوح رائحة زيت معطّر، ذلك الذي تضعه ألكسندرا كاراسيفا، رئيسة مكتبة جورج أورويل في إيفانوفو، وهي مدينة صناعية تبعد خمس ساعات بالسيارة عن موسكو.</p><p>وفيما كانت منكبّة على تنظيم محتويات المكتبة، تتحدث كاراسيفا (67 عاماً) عن قوة فعل هذه الكتب، إذ أنها في نظرها "تتيح رؤية الإنسان، حتى في العدو، ورفضَ كل أشكال التجريد من الإنسانية".</p><p>افتُتِحت هذه المكتبة في حزيران/يونيو 2022 بمبادرة من رجل الأعمال ديمتري سيلين المُعارض للحرب في أوكرانيا، وأراد من خلال ذلك توفير أدوات التفكير الحر لمكافحة الدعاية والرقابة.</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>ما لبث سيلين، ككثر آخرين، أن غادر روسيا بعد مدة قضيرة، مخافة أن تكون مواقفهم سبباً للزج بهم في السجن. لكنّ مكتبته الصغيرة لا تزال قائمة في الطبقة الأرضية من مبنى متداعي السقف والجدران.</p><p>وتشرح كاراسيفا أن مجموعة الكتب التي تحويها المكتبة تضمّ أعمالاً تنتمي إلى الديستوبيا أو أدب المدينة الفاسدة المحكومة بالفوضى والشر، وأخرى عن معسكرات الغولاغ السوفياتية المخصصة للاعتقال، ومؤلفات لكتّاب معاصرين ينتقدون الكرملين، وكتيّبات التعليم السياسي السوفياتي، إضافة إلى روايات خفيفة "لتصفية الذهن".</p><p>وليس بين هذه الكتب ما هو محظور. ويمكن تالياً إتاحتها للقراء، مع أن الكتب التي ألّفها أشخاص مصنفون على أنهم "عملاء للخارج" يُفترَض لدى عرضها للبيع في المكتبات أن تكون موضوعة داخل مظاريف تحجب غلافها.</p><p>وتتمتع كاراسيفا، من وجهة نظر قانونية، بالحق في شرح مضامين الكتب. وتقول "كلما قرأ المرء مؤلفات أدب المدينة الفاسدة، زادت حريته، إذ هي تظهر له المخاطر، وطرق تجنبها ومقاومتها".</p><p>- "نسيان الخوف" -</p><media media-type="image" style="rightSide"><media-reference data-location="#photo2" mime-type=""/></media><p>وتتحدث أمينة المكتبة التي تخفي وراء نظّارتها السميكة خزّان معرفة، عن رائعة أورويل "1984"، التي يروي فيها محاولة موظف في "وزارة الحقيقة" إبداء مقاومة في ظل ديكتاتورية شديدة الذكاء في قدرتها على إخضاع الأفراد وتسطيحهم.</p><p>وتتناول مسؤولة المكتبة التدمير الذاتي الثوري في رواية "الشياطين" لدوستويفسكي، والديستوبيا في أعمال الروسي فلاديمير سوروكين، ومناهضة العنصرية لدى الأميركي هاربر لي، والصرخة من أجل الإنسانية لدى الألماني إريك ماريا ريمارك...</p><p> وتشير كاراسيفا إلى أنها مؤرخة متقاعدة، ومتخصصة في روما القديمة، ولا سيما "الانتقال من الجمهورية إلى الديكتاتورية".</p><p>ولا تنسى كاراسيفا وصف فيلم "باربي" بأنه "أعمق مما يبدو"، علماً أن الشريط الأميركي عن الدمية الشهيرة عُرض أخيراً في قاعة الاجتماعات الوحيدة بالمكتبة.</p><p>وكان ديمتري تشيستوبالوف (18 عاماً) موجوداً في هذه القاعة. ويقصد هذا الناشط من حزب "يابلوكو" المعارض - وهي مجموعة مضطهدة لكنها لا تزال قانونية - المكتبة لمشاهدة الأفلام والالتقاء بشباب آخرين.</p><p>ويقول "هنا، يمكننا أن نكبر، رغم كل ما يحدث في بلدنا. يمكننا أن ننسى هذا الخوف، ونشعر بالحرية، وبالراحة، ونشعر بأننا لسنا وحدنا في هذا النظام الهائل الذي يلتهمنا".</p><p>وتلاحظ المحامية أناستاسيا رودنكو (41 عاماً) التي شاركت في تأسيس المكتبة "مؤشرات" في روسيا إلى الشمولية التي تناولها أورويل في روسيا في "1984". وتشعر أولاً بـ"الخوف الذي يكبّل".</p><p>ثم أذهلها مدى صحة الشعار الموجود في الكتاب "الجهل هو القوة"، لأن الروس الذين "لا يحاولون فهم ما يحدث، يعيشون حياة جيدة جداً"، في رأيها.</p><p>- الحب والتنافر -</p><media media-type="image" style="leftSide"><media-reference data-location="#photo3" mime-type=""/></media><p>في الساحة المركزية في إيفانوفو، بالقرب من لوحة تخلّد ذكرى أشخاص قتلتهم السلطة القيصرية خلال تظاهرة مناهضة للحرب عام 1915، تتحدث أناستاسيا رودينكو عن "مأساتها الشخصية" في عانتها. </p><p>ويشارك شقيقها وزوجها، وهما ضابطان في الجيش الروسي، في "العملية العسكرية الخاصة"، وهو التعبير الملطف الذي فرضته الكرملين لوصف هجومها على أوكرانيا. </p><p>لا يمكنها الخوض كثيراً في هذا الموضوع، إذ أن أي أقوال حساسة يمكن أن تدلي بها قد تؤدي إلى عقوبة، وحتى إلى إيداعها السجن، ولا يوفّر لها كونها محامية أو زوجة عسكري أية حصانة.</p><p>وفي حزيران/يونيو 2023، فرضت عليها الجهات القضائية غرامة مالية بتهمة "تشويه سمعة" الجيش. واستند الحكم، كما الحال غالباً، إلى رسائل عبر "تلغرام" ذكرت فيها إنها شاهدت فيلماً وثائقياً عن المعارض أليكسي نافالني.</p><p>وتمكن زوجها من الحضور إلى الجلسة لدعمها.</p><p>وما إن تبدأ أناستاسيا رودينكو، الأوكرانية الأصل لجهة والدها، بالتحدث عن "الألم الكبير" لكونها عاجزة في مواجهة الحرب التي شنّها الرئيس الروسي فلاديمير بوتين، حتى تجهش فجأة بالبكاء، مع أنها أصلاً مرحة وباسمة ومفعمة بالحيوية. </p><p> لكنها تحب زوجها، وباتت تحبه "حتماً أكثر" منذ أن غادر للقتال. وترد على من يدينونها بسبب هذا التنافر ويتساءلون عن سبب بقائهما معاً بالقول: "وأنتم، ماذا كنتم لتفعلوا؟"</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>صورة ملتقطة في مدينة إيفانوفو على بعد 250 كيلومترا شمال شرقي العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023 للتصميم الداخلي لمكتبة تحمل اسم الروائي الإنكليزي جورج أورويل </HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>ناتاليا كوليسنيكوفا</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ناتاليا كوليسنيكوفا"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة ملتقطة في مدينة إيفانوفو على بعد 250 كيلومترا شمال شرقي العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023 للتصميم الداخلي لمكتبة تحمل اسم الروائي الإنكليزي جورج أورويل</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="9a090724072606cf440d9d1c5f30007a6299d5ee.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>97796</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="f0cb42a05eee298a761f5a9fdb521bb45b80be77.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>15935</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="deeb474396eb58fa8124fcc10f01cc18c9347bb3.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4849</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>صورة ملتقطة في مدينة إيفانوفو على بعد 250 كيلومترا شمال شرقي العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023 تظهر الواجهة الخارجية لمكتبة تحمل اسم الروائي الإنكليزي جورج أورويل </HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>ناتاليا كوليسنيكوفا</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ناتاليا كوليسنيكوفا"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة ملتقطة في مدينة إيفانوفو على بعد 250 كيلومترا شمال شرقي العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023 تظهر الواجهة الخارجية لمكتبة تحمل اسم الروائي الإنكليزي جورج أورويل</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="0e51df9572b301dfad219392a260558485ce918b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>154332</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="68cba3634db5f4642730e66645d85b8c8c474e32.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>23915</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="5958b36f7a2c0b6e68a89c9abfdc050f32c6ffdc.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6114</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo2">
+            <NewsLines>
+                            <HeadLine>ألكسندرا كاراسيفا، أمينة مكتبة تحمل اسم الروائي الإنكليزي جورج أورويل، في داخل المكتبة في إيفانوفو الواقعة على بعد 250 كيلومترا شمال شرق العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023  </HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>ناتاليا كوليسنيكوفا</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ناتاليا كوليسنيكوفا"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>ألكسندرا كاراسيفا، أمينة مكتبة تحمل اسم الروائي الإنكليزي جورج أورويل، في داخل المكتبة في إيفانوفو الواقعة على بعد 250 كيلومترا شمال شرق العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="8051c02953ec9700f59bf1ca19a279e3b8501bbf.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>114490</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="7279ebccba93a557e201598f6f421e3c5ec10739.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>18131</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="e08a9d8b71076625062021307412ac973cda96af.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5284</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo3">
+            <NewsLines>
+                            <HeadLine>لقطة من داخل مدينة إيفانوفو على بعد حوالى 250 كيلومتراً من العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>ناتاليا كوليسنيكوفا</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ناتاليا كوليسنيكوفا"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>لقطة من داخل مدينة إيفانوفو على بعد حوالى 250 كيلومتراً من العاصمة الروسية موسكو في 20 تشرين الأول/أكتوبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="3d1812edc26376d40ab6a45f0c00dfaaaf708870.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>155214</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="cbec35df2024cb11edc2d94a4fdd036d22a0cd5e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>23197</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="d270890d9270f675610b6b783d499c50c3c13d11.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5818</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T171702Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th9al</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th9al:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Tennis-US-Open-health-virus-tennis</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T171647Z</FirstCreated>
+            <ThisRevisionCreated>20200615T171647Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بطولة فلاشينغ ميدوز في موعدها (تقارير)</HeadLine>
+                                                  <DateLine>نيويورك (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>Tennis-US-Open-health-virus-tennis</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="USA"/>
+                              <Property FormalName="City" Value="نيويورك"/>
+                              <Property FormalName="Latitude" Value="40.71427"/>
+                              <Property FormalName="Longitude" Value="-74.00597"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15065000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>ذكرت صحيفة "نيويورك تايمز" الإثنين أن بطولة الولايات المتحدة المفتوحة، آخر البطولات الأربع الكبرى، على ملاعب فلاشينغ ميدوز في كرة المضرب ستقام في موعدها بانتظار الموافقة الرسمية للحكومة.</p><p>ونقلت الصحيفة عن أربعة مسؤولين عن كرة المضرب طلبوا عدم كشف هويتهم إن بطولة الولايات المتحدة ستقام في موعدها المعتاد بين أواخر آب/أغسطس ومطلع أيلول/سبتمبر المقبلين.</p><p>ويحوم الشك منذ أسابيع عدة حول مصير بطولة فلاشينغ ميدوز في نيويورك، المدينة الأميركية من أكثر المناطق تضررا بفيروس كورونا المستجد في الولايات المتحدة، في حين أعرب عدد من كبار اللاعبين عن شكوكهم في المشاركة في البطولة.</p><p>وأوضح تقرير صحيفة التايمز إن البطولة ستقام في فلاشينغ ميدوز بدون مشجعين من 31 آب/أغسطس إلى 13 أيلول/سبتمبر بعد تلقي دعم من رابطتي المحترفين والمحترفات.</p><p>وأضافت أنه من المتوقع أن يعلن الاتحاد الأميركي لكرة المضرب عن القرار في وقت لاحق هذا الأسبوع.</p><p>كما أكدت مجلة "فوربس" أن بطولة فلاشينغ ميدوز ستقام في موعدها المحدد، مع قرار متوقع "قريبا".</p><p>وقوبلت الخطط المقترحة للبطولة بتحفظات واسعة النطاق بين اللاعبين الرائدين في كرة المضرب الدولية، يتقدمهم المصنف أول عالميا الصربي نوفاك ديوكوفيتش.</p><p>وبحسب ما هو متداول بشأن البروتوكول الصحي الذي سيتم اعتماده على هامش البطولة، سيطلب من اللاعبين الإقامة في فندق منعزل، ويسمح لهم بإحضار شخص واحد معهم فقط الى الملعب.</p><p>كما تشير التقارير الى قرار بإلغاء التصفيات المؤهلة الى القرعة الرئيسية لمنافسات الفردي (كانت مقررة اعتبارا من 24 آب/أغسطس)، وتقليص عدد مباريات فئات الزوجي الى النصف، ونقل دورة سينسيناتي للماسترز (المقررة بين 15 آب/أغسطس و23 منه) الى نيويورك، واعتبارها بمثابة دورة تحضيرية للبطولة.</p><p>وقال إريك بوتوراك، المسؤول في الاتحاد الأميركي عن العلاقات مع اللاعبين، "أعرف ان هذا ليس مثاليا".</p><p>وتابع في اتصال مع محترفين ومحترفات أجري الأربعاء "هذا هو العالم الذي نعيش فيه حاليا (...) نعتقد ان هذه خطة جيدة وأعتقد انها جيدة للرياضة. هي جيدة من أجل اقتصاد كرة المضرب، توفر عملا لكم، للمدربين، للمعلقين، للعديد من الأشخاص".</p><p>وأضاف "الأهم، هذه الخطة تحافظ على سلامتكم".</p><p>ورأى ديوكوفيتش ان الاجراءات الصحية المرافقة للبطولة بصيغتها المطروحة، أشبه بمهمة "مستحيلة حقا (...) لن نتمكن من الوصول إلى مانهاتن، وسيتعين علينا النوم في فنادق المطار، ليتم اختبارنا مرتين أو ثلاث مرات في الأسبوع".</p><p>وتابع "أيضا، يمكننا جلب شخص واحد فقط (...) وهو أمر مستحيل حقا. أعني، تحتاج إلى مدربك، ثم مدرب اللياقة البدنية، ثم أخصائي العلاج الطبيعي. جميع اقتراحاتهم صارمة حقا، لكنني أستطيع أن أفهم أنه لأسباب مالية، وبسبب العقود القائمة بالفعل، يحاول المنظمون اقامة هذا الحدث. سنرى ما سيحصل".</p><p>وأشار ديوكوفيتش المتوج بلقب فلاشينغ ميدوز ثلاث مرات آخرها 2018، انه تشاور مع لاعبين آخرين، ولمس لديهم "سلبية" معينة تجاه الصيغة المقترحة للبطولة الأميركية التي عادة ما تكون الأخيرة في جدول الغراند سلام.</p><p>موقف ديوكوفيتش لاقاه أيضا الإسباني رافايل نادال، حامل اللقب والباحث عن لقب إضافي يعادل به الرقم القياسي للغراند سلام الذي يحمله السويسري روجيه فيدرر (20 لقبا).</p><p>ورأى "الماتادور" ان كرة المضرب لا يجب ان تعود الى الملاعب، قبل ان يصبح ذلك آمنا بشكل كامل. </p><p>وأوضح "موقفي لم يتغير: يجب أن نظهر حس المسؤولية، يجب أن نتأكد أولا بأن الوضع آمن بما فيه الكفاية، وبعد ذلك بالطبع، سنحاول استئناف الدورات حين تصبح الرؤية واضحة".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>لقطة عامة لملعب آرثر آش الرئيسي لبطولة فلاشينغ ميدوز الأميركية في كرة المضرب، مؤرخة السادس من أيلول/سبتمبر 2019.</HeadLine>
+                            <CreditLine>غيتي/ا ف ب/ارشيف</CreditLine>
+                            <ByLine>مايك ستوب</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="مايك ستوب"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="غيتي"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>لقطة عامة لملعب آرثر آش الرئيسي لبطولة فلاشينغ ميدوز الأميركية في كرة المضرب، مؤرخة السادس من أيلول/سبتمبر 2019.</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="43f7cc8fc93f943e83a79536367182de7770b856.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>212228</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="7f6686479f4b9e430fddff8f149afc4925bf3572.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>25296</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="8707475d9aeb68b96987c996ff77692d45c1c2ce.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5788</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

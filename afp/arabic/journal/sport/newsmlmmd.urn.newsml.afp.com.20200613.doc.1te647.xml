@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200613T221402Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200613</DateId>
+                <NewsItemId>doc-1te647</NewsItemId>
+        			        <RevisionId PreviousRevision="2" Update="N">3</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200613:doc-1te647:3</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>قدم-إسبانيا-بطولة</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200613T215858Z</FirstCreated>
+            <ThisRevisionCreated>20200613T221341Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بطولة إسبانيا: برشلونة يدشن عودته إلى المنافسات بفوز كبير على مايوركا 4-صفر</HeadLine>
+                                                  <DateLine>مدريد (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>قدم-إسبانيا-بطولة</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ESP"/>
+                              <Property FormalName="City" Value="مدريد"/>
+                              <Property FormalName="Latitude" Value="40.4165"/>
+                              <Property FormalName="Longitude" Value="-3.70256"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>دشَّن برشلونة المتصدر وحامل اللقب عودته إلى المنافسات بفوز ساحق على مضيفه ريال مايوركا 4-صفر السبت في المرحلة الثامنة والعشرين من الدوري الإسباني لكرة القدم، الأولى بعد استئناف المنافسات الخميس عقب توقف لثلاثة أشهر بسبب فيروس كورونا.</p><p>وسجل التشيلي أرتورو فيدال (2) والدنماركي مارتن برايثوايت (37) وجوردي ألبا (79) والأرجنتيني ليونيل ميسي (90+3) أهداف برشلونة الذي عزز موقعه في الصدارة برصيد 61 نقطة مبتعدا بفارق خمس نقاط مؤقتا أمام مطارده المباشر ريال مدريد الذي يستضيف إيبار الأحد في ختام المرحلة.</p><p>وحقق النادي الكاتالوني الأهم في الشوط الأول بتسجيله هدفين من فرصتين فقط، قبل أن يوجه الضربة القاضية لأصحاب الأرض في الشوط الثاني بتسجيله هدفين أيضا بينهما هدف لميسي نجم المباراة وصانع هدفي برايثوايت وألبا.</p><p>ولعب القائد ميسي أساسيا بعدما عانى منتصف الأسبوع الماضي من إصابة عضلية، فيما جلس الدولي الأوروغوياني لويس سواريز الذي تعافى من جراحة خضع لها في كانون الثاني/يناير في الغضروف الخارجي لركبته اليمنى، على مقاعد البدلاء، قبل أن يشركه المدرب كيكي سيتيين في الدقيقة 57 مكان الفرنسي أنطوان غريزمان البعيد عن مستواه.</p><p>ومنح فيدال التقدم لبرشلونة في الدقيقة الثانية بضربة رأسية من مسافة قريبة إثر تمريرة عرضية من ألبا رافعا رصيده إلى سبعة أهداف هذا الموسم.</p><p>وكاد الياباني تاكيفوسا كوبو، المعار من ريال مدريد، يدرك التعادل من ركلة حرة مباشرة من خارج المنطقة ارتدت من الحارس الدولي الألماني تيرشتيغن قبل ان يشتتها الدفاع (32).</p><p>وعزز برايثوايت تقدم النادي الكاتالوني عندما تلقى كرة رأسية من ميسي داخل المنطقة فسددها قوية بيمناه داخل المرمى (37).</p><p>وهو الهدف الأول لبرايثوايت بألوان برشلونة منذ انتقاله إلى صفوفه في شباط/فبراير الماضي قادما من ليغانيس كجوكر طبي (بناء على بند في قوانين البطولة يتيح للفريق ذلك لأسباب طبية قاهرة)، خارج اطار سوق الانتقالات بعد انتهاء موسم نجمه الفرنسي عثمان ديمبيلي بسبب الإصابة.</p><p>وبات برايثوايت ثالث لاعب دنماركي يهز الشباك في تاريخ النادي الكاتالوني بعد مايكل لاودروب (39 هدفا) وآلن سيمونسن (31).</p><p>وكاد الكرواتي أنتي بوديمير يقلص الفارق بضربة راسية من داخل المنطقة مرت بجوار القائم الأيمن (45+1)، وسدد اللاعب نفسه كرة قوية من خارج المنطقة مرت بجوار القائم الايمن لتير شتيغن (48).</p><p>ووجه ألبا الضربة القاضية لمايوركا بتسجيله الهدف الثالث عندما تلقى كرة من ميسي فتوغل داخل المنطقة وسددها بيسراه على يمين الحارس مانويل (79).</p><p>وختم ميسي المهرجان في الدقيقة الثالثة من الوقت بدل الضائع عندما تلقى كرة من سواريز داخل المنطقة فتلاعب بمدافعين قبل أن يسددها قوية بيمناه داخل المرمى.</p><p>وهو الهدف الـ20 لميسي هذا الموسم فعزز موقعه في صدارة لائحة الهدافين.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>لاعبو برشلونة يحتفلون بهز شباك ريال مايوركا (4-صفر) في الدوري الإسباني في 13 حزيران/يونيو 2020.</HeadLine>
+                            <CreditLine>ا ف ب/ا ف ب</CreditLine>
+                            <ByLine>خايمي رينا</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="خايمي رينا"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>لاعبو برشلونة يحتفلون بهز شباك ريال مايوركا (4-صفر) في الدوري الإسباني في 13 حزيران/يونيو 2020.</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="2dd291fb6b9e003e46e4dbb6daaa9b63ef1c071f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>158296</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="507"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="cd532dd6b952861d134fdeec29e5a46610fea3b1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>22560</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="161"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="32b3e9cf23db93691172a3bbf914306ef4e07b84.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6540</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="72"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

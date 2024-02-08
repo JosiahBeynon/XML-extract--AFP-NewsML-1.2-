@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200613T091220Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200613</DateId>
+                <NewsItemId>doc-1td46m</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200613:doc-1td46m:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>USA-musique-célébrités-racisme-troubles</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200613T091200Z</FirstCreated>
+            <ThisRevisionCreated>20200613T091200Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بوب ديلان شعر ب"الإعياء" لدى مشاهدته فيديو مقتل جورج فلويد</HeadLine>
+                                                  <DateLine>نيويورك (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>USA-musique-célébrités-racisme-troubles</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="USA"/>
+                              <Property FormalName="City" Value="نيويورك"/>
+                              <Property FormalName="Latitude" Value="40.71427"/>
+                              <Property FormalName="Longitude" Value="-74.00597"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="01011000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="08003002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="14014000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="16003000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="16000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="14000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="08000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="08005000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="14025003"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="08003000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>قال الفنان بوب ديلان في مقابلة نادرة نشرتها صحيفة "نيويورك تايمز" إنه شعر ب"الإعياء" لدى مشاهدته فيديو مقتل جورج فلويد اختناقا عندما ضغط شرطي أبيض على عنقه في 25 أيا/مايو في ولاية مينيسوتا مسقط رأسه.</p><p>وأوضح "شعرت بالإعياء الشديد لرؤية جورج يعذب حتى الموت بهذه الطريقة" وقد توفي فلويد بعدما ضغط الشرطي على عنقه مدة تسع دقائق خلال توقيفه.</p><p>وأضاف ديلان (79 عاما) الذي ولد في مينيسوتا وارتاد جامعة مينيابوليس "هذا أمر يتجاوز الفظاعة. آمل ان تحصل عائلة فلويد والأمة على العدالة فورا".</p><p>وأتى كلام ديلان لصحيفة "نيويورك تايمز" غداة مقتل فلويد الذي تسبب بتظاهرات واسعة مناهضة للعنصرية وعنف الشرطة في البلاد وخارجها. وكانت هذه المقابلة الوحيدة للفنان خارج موقعه الإلكتروني الخاص منذ فوزه بجائزة نوبل للآداب في 2016.</p><p>وتناولت الكثير من أغاني ديلان الشهيرة في الستينات والسبعينات عنف الشرطة والعنصرية ومنها "هريكاين" و"جورج جاكسون".</p><p>ويصدر ديلان أول ألبوم له يضم أغاني جديدة في غضون ثماني سنوات، الجمعة المقبل بعنوان "راف أند راودي دايز".</p><p>وتحدث ديلان في المقابلة من منزله في ماليبو في ولاية كاليفونريا (غرب الولايات المتحدة) معربا عن تشاؤمه حول مستقبل العالم وعواقب جائحة كوفيد-19.</p><p>وقال إن فيروس كورونا المستجد يشكل "اجتياحا" و"تمهيدا لشيء آخر سيحصل". واضاف "قد نكون أشرفنا على الدمار. ثمة طرق عدة للتفكير بهذا الفيروس. أظن أن علينا أن ندعه ينهي مساره".</p><p>وفي نهاية آذار/مارس، أصدر ديلان بعيد فرض العزل في كاليفورنيا أغنية "موردر موست فاول" أول أغنية جديدة له منذ 2012. وتمتد الأغنية على 17 دقيقة وتتناول اغتيال جون كينيدي. وقد احتلت المرتبة الأولى في تصنيف "بيلبورد".</p><p>وقبل الجائحة كان بوب ديلان يقدم حفلات منتظمة. وكان من المقرر أن يحيي سلسلة من الحفلات في نيسان/أبريل في اليابان وفي حزيران/يونيو في الولايات المتحدة وقد ألغيت جميعها.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>بوب ديلان في 22 تموز/يوليو 2012 في منطقة بريتانييه الفرنسية</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>فريد تانو</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="فريد تانو"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>بوب ديلان في 22 تموز/يوليو 2012 في منطقة بريتانييه الفرنسية</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="b5074e37cdde6ce99f1fe628b4cae64fc3166622.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>106500</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="518"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="a6154872755422bb68e5c1ebdacba02a7c7b99b1.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>17318</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="165"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="6f4c248c8ed7412e13b6a2e26ec7be3661feb7c9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5430</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="74"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

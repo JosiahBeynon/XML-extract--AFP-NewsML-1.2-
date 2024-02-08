@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T075843Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344w7xg</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344w7xg:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>المغرب-فلسطينيون-فرنسا-اسرائيل-نزاعات-سينما-خدمة دنيا</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T075825Z</FirstCreated>
+            <ThisRevisionCreated>20231126T075825Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>وثائقي عن الممثلة الفلسطينية هيام عباس يفتح "آلام الماضي" خلال مهرجان مراكش</HeadLine>
+                                                  <DateLine>مراكش (المغرب) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>المغرب-فلسطينيون-فرنسا-اسرائيل-نزاعات-سينما-خدمة دنيا</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="MAR"/>
+                              <Property FormalName="City" Value="مراكش"/>
+                              <Property FormalName="Latitude" Value="31.63416"/>
+                              <Property FormalName="Longitude" Value="-7.99994"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="01005001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="16002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="16000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01004000"/>
+                                  </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>عُرض فيلم وثائقي يستعيد محطات رئيسية في حياة الممثلة الفرنسية الفلسطينية هيام عباس، السبت في مهرجان مراكش الدولي للسينما حيث يشارك في المنافسة، وقد لقي صدى لافتاً على خلفية الحرب في قطاع غزة.</p><p>ووسط تصفيق حار، هتف الجمهور المغربي الحاضر بعبارة "تحيا فلسطين" بعد عرض فيلم Bye Bye Tiberias ("باي باي طبريا") الذي أخرجته ابنة هيام عباس، الفرنسية الجزائرية لينا سويلم.</p><p>هذا الفيلم الوثائقي "يفتح آلام الماضي" ليعكس الخيارات الحياتية الصعبة التي تواجهها هيام عباس ونساء من عائلتها، متخذاً نقطة البداية من النكبة الفلسطينية وقيام دولة إسرائيل عام 1948 وما رافقها من تهجير ونفي.</p><p>وقالت لينا سويلم إن "القصص التي ترويها هاتيك النسوة في هذا الفيلم لا تتمحور فقط حول تناقل بين امرأة وأخرى، أو من ابنة إلى أمها، أو من أم إلى ابنتها"، بل إنها "تنقل قصة أشخاص محرومين من هويتهم".</p><p>وقد هُجّرت عائلة هيام عباس قسراً عام 1948 من طبريا إلى دير حنا، على بعد حوالي ثلاثين كيلومتراً إلى الشمال الغربي، وهو ما يرويه الفيلم من خلال العديد من الأرشيفات الشخصية.</p><p>هيام عباس، المولودة عام 1960 في شمال إسرائيل، هاجرت في ثمانينات القرن العشرين إلى لندن ثم إلى باريس، مدفوعة برغبتها في دخول مجال السينما.</p><p>وأدت عباس أدواراً كثيرة خلال مسيرتها الطويلة، أبرزها في "العروس السورية" (إران ريكليس، 2004)، و"ميونيخ" (ستيفن سبيلبرغ، 2005)، "الجنة الآن" (هاني أبو أسعد، 2005) والمسلسل الأميركي "ساكسيشن".</p><p>وأضافت لينا سويلم "نحارب محو (الهوية) من خلال قصصنا، وهذه الصور تشكل دليلاً على وجودٍ يتم إنكاره"، لافتة إلى أنها تفكر "في سكان غزة الذين هم في الواقع أبناء وأحفاد اللاجئين الفلسطينيين، الذين يحاولون مثل سائر البشر أن يجدوا مكاناً لهم في العالم".</p><p>- ترشيح لجائزة الأوسكار -</p><p>وكان لعرض هذا الفيلم المقرر طرحه في صالات السينما الفرنسية خلال الربيع المقبل، والذي يمثل فلسطين في المنافسة على جائزة أوسكار أفضل فيلم دولي لعام 2024، في مراكش وقع خاص بفعل توقيته بموازاة الحرب بين إسرائيل وحماس في قطاع غزة، والتي اندلعت إثر هجوم واسع نفذه مقاتلو الحركة على جنوب إسرائيل في السابع من تشرين الأول/أكتوبر.</p><p>وقالت عباس للجمهور في مهرجان مراكش الذي يقام في الفترة من 24 تشرين الثاني/نوفمبر إلى 2 كانون الأول/ديسمبر "لقد قلتُ لنفسي إنه لا ينبغي أن أكون عاطفية أكثر من اللازم، ولكن من الصعب علينا، نحن الفلسطينيين، ألا نكون كذلك".</p><p>ومن الأمور اللافتة خلال الدورة العشرين لهذا المهرجان، إلغاء العروض التقليدية في ساحة جامع الفنا، بسبب الرغبة في تنظيم فعالية "رصينة بلا احتفالات" بسبب حرب غزة، بحسب المنظمين.</p><p>وقد ألغى المخرج الأميركي مارتن سكورسيزي مشاركته المقررة أساساً في المهرجان هذا الأسبوع، "لأسباب شخصية"، بحسب المصدر نفسه.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>الممثلة والمخرجة الفلسطينية هيام عباس على السجادة الحمراء لمهرجان مراكش السينمائي الدولي في 25 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine></ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName=""/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>الممثلة والمخرجة الفلسطينية هيام عباس على السجادة الحمراء لمهرجان مراكش السينمائي الدولي في 25 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="033ded405f68d41cd3e9ceeb784c34bf3588674e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>95087</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="552"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="14a3025def69b9c14a868dc54f07646e58d4bfd0.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>15266</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="176"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="b627201edc82b4c23e01a8ec69b277a0ad986881.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4340</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="79"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

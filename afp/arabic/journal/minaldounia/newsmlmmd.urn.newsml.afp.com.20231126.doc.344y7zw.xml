@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T103325Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344y7zw</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344y7zw:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Britain-literature-award-Booker</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T103318Z</FirstCreated>
+            <ThisRevisionCreated>20231126T103318Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>منافسة محتدمة قبيل الكشف عن الفائز بجائزة بوكر الأدبية المرموقة</HeadLine>
+                                                  <DateLine>لندن (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>Britain-literature-award-Booker</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="GBR"/>
+                              <Property FormalName="City" Value="لندن"/>
+                              <Property FormalName="Latitude" Value="51.50853"/>
+                              <Property FormalName="Longitude" Value="-0.12574"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="01010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="08006000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="08000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>يُكشف مساء الأحد في لندن عن الفائز بجائزة "بوكر" البريطانية للرواية، في منافسة تنحصر هذا العام بروائيين رُشحوا لأول مرة للمشاركة في التصفيات النهائية لهذه المكافأة الأدبية المرموقة.</p><p>ولم يُدرج أي من المتأهلين الستة للتصفيات النهائية لهذا العام، وهم أميركيان وإيرلنديان وكندية وكينية، في القائمة المختصرة من قبل، فيما أُدرج اسم واحد منهم فقط في القائمة الطويلة في النسخ السابقة للمسابقة.</p><p>تُعد الجائزة من أبرز المكافآت الأدبية في العالم، وقد أوصلت إلى الشهرة أسماء لامعة كثيرة في المجال الأدبي، بينهم الفائزون السابقون سلمان رشدي ومارغريت أتوود وهيلاري مانتل.</p><p>وتقدم الكتب الستة المشاركة في المنافسة النهائية لهذا العام، "أهوالاً، ومتعة، وأفراحاً، وعزاء"، بحسب المنظمين، حول موضوعات تتناول، من بين أمور أخرى، قضايا الظلم والهجرة والتطرف السياسي.</p><p>وقد فُتحت الجائزة الأدبية لهذا العام أمام الأعمال الخيالية للكتّاب من أي جنسية والمكتوبة باللغة الإنكليزية والمنشورة في المملكة المتحدة أو أيرلندا في الفترة ما بين الأول من تشرين الأول/أكتوبر 2022 و30 أيلول/سبتمبر 2023.</p><p>سيحصل الفائز على 50 ألف جنيه إسترليني (حوالي 63 ألف دولار)، فضلاً عن دفعة معنوية قوية لمسيرته الأدبية.</p><p>واختيرت الروايات الست المشاركة في المنافسة النهائية، والتي جرى الإعلان عنها في أيلول/سبتمبر، من قائمة طويلة تضم 13 رواية اختيرت من بين 158 عملاً أدبياً ضمتها القائمة الأولية.</p><p>ومن بينها رواية "The Bee Sting" ("لدغة النحل") للمؤلف الأيرلندي بول موراي، وهي ملحمة تراجيدية كوميدية تنظر إلى دور القدر في متاعب إحدى العائلات.</p><p>وكان موراي أُدرج في القائمة الطويلة لجائزة بوكر في عام 2010.</p><p>ومن بين الأعمال المنافسة أيضاً، الرواية الأولى المؤثرة للكاتبة الكينية شيتنا مارو بعنوان "ويسترن لاين" ("الخط الغربي")، وهي قصة عن الأسى والعلاقة بين الشقيقات تتمحور حول فتاة مراهقة تجد معنى لحياتها من خلال رياضة الإسكواش.</p><p>وتدور أحداث العمل رواية "Prophet Song" ("بروفيت سونغ" - "أغنية النبي") لبول لينش في دبلن في ظل انحدار ايرلندا نحو نظام يطغى عليه الطغيان.</p><p>كما اختارت لجنة الجائزة المكونة من خمسة أشخاص رواية "If I Survive You" ("إذا نجوت منك") للكاتب الأميركي جوناثان إيسكوفري، والتي تدور أحداثها حول أفراد عائلة جامايكية وحياتهم الجديدة الفوضوية في ميامي.</p><p>ويشارك أيضاً في المنافسة زميله المؤلف الأميركي بول هاردينغ، الذي يروي كتابه "This Other Eden" ("ذيس آذر إيدن") المستوحى من أحداث تاريخية، قصة جزيرة أبل، وهو جيب قبالة السواحل الأميركية يتوافد إليه المهمشون في المجتمع ويختارونه دياراً جديدة لهم.</p><p>كما تُمثَّل كندا في القائمة المختصرة عبر "Study for Obedience" ("دراسة من أجل الطاعة") لسارة بيرنشتاين. وتستكشف هذه الرواية موضوعات التحيز والشعور بالذنب من خلال راوٍ مرتاب.</p><p>ورغم أن أياً من الروائيين المتنافسين لم يفز بالجائزة من قبل، فإن البعض منهم ليس غريباً على الجوائز، وأبرزهم هاردينغ الذي فاز بجائزة بوليتزر للرواية عام 2010 عن روايته الأولى "Tinkers" ("تينكرز" - "المصلحون").</p><p>كما وصل مارو وإسكوفري إلى القائمة المختصرة بروايتهما الأولى. وفاز خمسة روائيين عن روايتهم الأولى بجائزة بوكر في النسخ السابقة، آخرهم دوغلاس ستيوارت عن رواية "شوغي باين" في عام 2020.</p><p>مُنحت جائزة بوكر لأول مرة عام 1969. وفاز بالجائزة العام الماضي الكاتب السريلانكي شيهان كاروناتيلاكا عن روايته "The Seven Moons of Maali Almeida" ("أقمار معالي ألميدا السبعة").</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>المرشحون في القائمة النهائية لجائزة بوكر لعام 2023 (من اليسار إلى اليمين) الكندية سارة برنشتاين والايرلندي بول موراي والبريطانية الهندية شيتنا مارو والايرلندي بول لينش والأميركي بول هاردينغ خلال جلسة تصوير في لندن في 21 أيلول/سبتمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>جاستن تاليس</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جاستن تاليس"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>المرشحون في القائمة النهائية لجائزة بوكر لعام 2023 (من اليسار إلى اليمين) الكندية سارة برنشتاين والايرلندي بول موراي والبريطانية الهندية شيتنا مارو والايرلندي بول لينش والأميركي بول هاردينغ خلال جلسة تصوير في لندن في 21 أيلول/سبتمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="df72605048069069a09e3195434495d9e37efd9a.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>123137</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="510"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="b58d6cb072024a88c4623d5e1bc8feb8206f5e5e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>21078</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="233b9f932d4693eacec655e84ea69d1fc572b484.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6099</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

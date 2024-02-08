@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T204443Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-34629lc</NewsItemId>
+        			        <RevisionId PreviousRevision="1" Update="N">2</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-34629lc:2</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>قدم-اسبانيا-بطولة</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T193252Z</FirstCreated>
+            <ThisRevisionCreated>20231126T204439Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بطولة إسبانيا: رودريغو يضع ريال مدريد في الصدارة بانتظار خدمة من بلباو</HeadLine>
+                                                  <DateLine>مدريد (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>قدم-اسبانيا-بطولة</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ESP"/>
+                              <Property FormalName="City" Value="مدريد"/>
+                              <Property FormalName="Latitude" Value="40.4165"/>
+                              <Property FormalName="Longitude" Value="-3.70256"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تصدر ريال مدريد الدوري الإسباني لكرة القدم بفوزه على مضيفه قادش 3-0 بفضل ثنائية وتمريرة حاسمة للبرازيلي رودريغو الأحد في المرحلة الثالثة عشرة، وبات بانتظار خدمة من أتلتيك بلباو الذي يحل الإثنين ضيفاً على جيرونا مفاجأة الموسم.</p><p>ودخل فريق المدرب الإيطالي كارلو أنشيلوتي اللقاء ضد مضيفه القابع في المركز السادس عشر، وهو في الوصافة بفارق نقطتين عن جيرونا المتصدر، لكنه تمكن موقتاً من إزاحة النادي الكاتالوني بفوزه الحادي عشر للموسم على أمل أن يسديه بلباو خدمة الإثنين بالحاقه الهزيمة الثانية فقط هذا الموسم بفريق المدرب ميتشل.</p><p>وبدأ ريال اللقاء بأفضل طريقة بعدما وضعه رودريغو في المقدمة بهدف رائع حيث تلاعب بالمدافعين داخل منطقة الجزاء، قبل أن يطلق الكرة قوسية في الزاوية اليسرى العليا لمرمى الحارس الأرجنتيني خيريمياس ليديسما (14).</p><p>وبهذا الهدف، وجد البرازيلي طريقه الى الشباك في ثلاث مباريات متتالية للمرة الأولى في 183 مباراة خاضها في جميع المسابقات بألوان النادي الملكي وفق "أوبتا" للاحصاءات.</p><p>وبقيت النتيجة على حالها رغم بعض الفرص التي حصل عليها ريال، أبرزها للكرواتي لوكا مودريتش الذي ارتدت محاولته البعيدة من القائم، وذلك حتى الدقيقة 64 حين كرر رودريغو مشهد الهدف الأول في طريقه تسجيله هدف التعزيز قبل أن يلعب لاحقاً دور الممرر في الهدف الذي سجله الإنكليزي جود بيلينغهام إثر هجمة مرتدة سريعة (74).</p><p>وبهذا الهدف، رفع الوافد الجديد رصيده الى 11 هدفاً في 12 مباراة في الدوري و14 في 15 ضمن جميع المسابقات بألوان النادي الملكي هذا الموسم، قبل أن يترك أرضية الملعب برفقة رودريغو في الدقائق الـ12 الأخيرة بعدما اطمأن أنشيلوتي على النتيجة.</p><p>بالنسبة لأنشيلوتي الذي يفتقد خدمات البرازيلي فينيسيوس جونيور والفرنسي إدواردو كامافينغا المنضمين الى المصابين الآخرين الحارس البلجيكي تيبو كورنوا والبرازيلي إيدر ميليتاو والفرنسي أوريليان تشواميني، فإن "الصعوبات قد تمنحك في بعض الأحيان دوافع إضافية واللاعبون فهموا ذلك تماماً".</p><p>وتابع "كل اللاعبين الذين نفتقدهم هامون جداً، لكننا تعاملنا مع الأمر بشكل جيد والفريق كان جيداً جداً هناك" في المباراة التي شهدت مشاركة مودريتش أساسياً للمرة الخامسة فقط هذا الموسم ليلعب بجانب الألماني توني كروس، فيما عاد بيلينغهام الى الفريق بعدما غاب عن المباراتين الأخيرتين بسبب إصابة في الكتف.</p><p>وأشاد الإيطالي برودريغو الذي "عاد" الى ما كان عليه بتسجيله 5 أهداف في المباريات الثلاث الأخيرة، بينها واحد في مسابقة دوري الأبطال التي يستأنفها ريال الأربعاء على أرضه ضد نابولي الإيطالي باحثاً عن حسم الصدارة لصالحه بعدما ضمن بلوغه ثمن النهائي.</p><p>- سوسييداد يزيد من محن إشبيلية -</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>وزاد ريال سوسييداد من محن ضيفه إشبيلية بالفوز عليه 2-1، فيما حقق فياريال بداية موفقة مع مدربه الجديد-القديم مارسيلينو بالفوز على ضيفه أوساسونا 3-1.</p><p>على ملعب "ريالي أرينا" وبعد سلسلة من خمسة تعادلات متتالية، بينها أربعة بقيادة مدربه الجديد الأوروغوياني دييغو ألونسو الذي خلف خوسيه لويس منديليبار في 10 تشرين الأول/أكتوبر، مني إشبيلية الأحد بهزيمته الخامسة في الدوري هذا الموسم والثالثة توالياً أمام منافسه الباسكي الذي بات خامساً موقتاً بـ25 نقطة بانتظار مباراة الإثنين بين جيرونا وأتلتيك بلباو (24 نقطة).</p><p>وأنهى سوسييداد الشوط الأول متقدماً بهدفي الحارس الصربي ماركو دميتروفيتش الذي حول الكرة في شباكه بعد تسديدة من أندر بارينيتشيا (3)، والنيجيري عمر صادق بتسديدة من خارج المنطقة (22).</p><p>واعتقد المغربي يوسف النصيري أنه أعاد الضيف الأندلسي إلى أجواء اللقاء بعد تقليصه الفارق في الدقيقة 60 بكرة رأسية، لكن النتيجة بقيت على حالها حتى النهاية التي شهدت طرد لاعبين من فريقه هما سيرخيو راموس وخيسوس نافاس (88)، ليتلقى فريق ألونسو هزيمته الخامسة في المركز الخامس عشر برصيد 12 نقطة ومن دون أي فوز منذ 26 أيلول/سبتمبر حين فاز على ألميريا 5-1 في المرحلة السابعة.</p><p>وعلى "ستادي دي لا سيراميكا"، حقق فياريال بداية موفقة في الدوري مع مدربه الجديد القديم مارسيلينو بالفوز على ضيفه أوساسونا 3-1 بفضل ثلاثية خوسيه لويس موراليس (57 و71 و80).</p><p>واستعان فياريال بمارسيلينو في 13 الشهر الماضي لاستلام مهمة تدريب فريقه السابق خلفاً للمقال خوسيه روخو "باتشيتا"، وهو نجح في الاختبار الأول حين قاده للفوز على سامورا من الدرجة الثانية 2-1 الأربعاء في الدور الثاني من مسابقة الكأس قبل أن يتجاوز الأحد الاختبار الأول في الدوري.</p><p>وسبق لمارسيلينو الذي أقيل من تدريب مرسيليا الفرنسي بعد خمس مراحل فقط على انطلاق الدوري المحلي، أن أشرف على فياريال بين 2013 و2016، وهو وقع عقداً حتى 2026 على أمل الارتقاء بالفريق الذي يعاني في بداية الدوري الإسباني حيث اكتفى بثلاثة انتصارات مقابل ثلاثة تعادلات وسبع هزائم في 13 مرحلة.</p><p>وكانت البداية مثالية بالنسبة للمدرب الذي نجح في مروره الأول بفريق "الغواصة الصفراء" في الصعود به الى الدرجة الأولى في موسمه الأول قبل أن يتمكن بعدها من قيادته الى المشاركة الأوروبية لثلاثة مواسم متتالية، إذ قاده للفوز الأول في مبارياته البيتية الخمس الأخيرة.</p><p>ورفع فياريال بانتصاره الرابع رصيده الى 15 نقطة في المركز الثاني عشر، فيما تجمد رصيد أوساسونا الذي سجل له أليخاندرو كاتينا الهدف الوحيد (78)، عند 14 نقطة في المركز الرابع عشر.</p><p>وينتقل فياريال ومدربه الجديد-القديم الى الامتحان القاري الخميس ضد باناثينايكوس اليوناني في الجولة الخامسة من دور المجموعات لمسابقة "يوروبا ليغ".</p><p>ويحتل فياريال المركز الثاني ضمن المجموعة السادسة مع 6 نقاط متأخراً بفارق ثلاث عن رين الفرنسي المتصدر، لكن مع مباراة مؤجلة في جعبته.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>البرازيلي رودريغو يحتفل بالتسجيل لريال مدريد في مرمى مضيفه قادش في الدوري الإسباني لكرة القدم. قادش، في 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>كريستينا كيكلر</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="كريستينا كيكلر"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>البرازيلي رودريغو يحتفل بالتسجيل لريال مدريد في مرمى مضيفه قادش في الدوري الإسباني لكرة القدم. قادش، في 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="6dd969783571a8b8f1e914f6f20b6e7f733b4097.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>111543</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="58791f81b9ab561e12175350fd278ea207612c70.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>20822</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="df14b3eec1256fca7b381503daf9afbe57754221.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6757</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>النيجري عمر صادق يحتفل بالتسجيل لريال سوسييداد في مرمى إشبيلية خلال لقاء الفريقين في الدوري الإسباني لكرة القدم. سان سيباستيان في 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>اندر غيينيا</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="اندر غيينيا"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>النيجري عمر صادق يحتفل بالتسجيل لريال سوسييداد في مرمى إشبيلية خلال لقاء الفريقين في الدوري الإسباني لكرة القدم. سان سيباستيان في 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="f31cc0d48a174b068f8c9e6d61689f6b9f5d72c5.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>147499</SizeInBytes>
+                                    <Property FormalName="Width" Value="591"/>
+                                                      <Property FormalName="Height" Value="768"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="9482cab2a25b63acbdf933e1ac6f647a6f2771d0.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>22740</SizeInBytes>
+                                    <Property FormalName="Width" Value="188"/>
+                                                      <Property FormalName="Height" Value="245"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="fbe56c435a38c55df74209c93254f509e85bfaf3.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6421</SizeInBytes>
+                                    <Property FormalName="Width" Value="77"/>
+                                                      <Property FormalName="Height" Value="100"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

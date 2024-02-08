@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T124723Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th1q4</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th1q4:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Health-virus-Taiwan-Europe-US-industry-bicycle</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T124637Z</FirstCreated>
+            <ThisRevisionCreated>20200615T124637Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>مصنعو الدراجات الهوائية في تايوان يسرعون لتلبية الطلب المتزايد</HeadLine>
+                                                        <ByLine>شون تشانغ, أمبر وانغ</ByLine>
+                                  <DateLine>تاي شانغ (تايوان) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>Health-virus-Taiwan-Europe-US-industry-bicycle</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="TWN"/>
+                              <Property FormalName="City" Value="تاي شانغ"/>
+                              <Property FormalName="Latitude" Value="24.1469"/>
+                              <Property FormalName="Longitude" Value="120.6839"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="04011000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>في تايوان يجهد صانعو الدراجات الهوائية لتلبية الطلب المتزايد على وسيلة النقل هذه في أوروبا والقارة الأميركية مع الخوف من استقلال الحافلة أو قطارات الأنفاق المكتظة أو الحاجة إلى تنشق الهواء بعد أسابيع من الحجر.</p><p>أغرق وباء كوفيد-19 دول العالم في ركود غير مسبوق إلا أن الوضع نفسه لا ينطبق على كل القطاعات.</p><p>فصناعة الدراجات الهوائية تشهد فورة وهذا جلي لدى الماركات التايوانية خصوصا وان الجزيرة هي من المناطق التي نجحت باحتواء الأزمة الصحية سريعا.</p><p>فشركة "جاينت" الأولى عالميا في صناعة الدراجات الهوائية لم تتوقف عن العمل في الأشهر الأخيرة على ما تفيد مديرتها العامة بوني تو.</p><p>وأوضحت لوكالة فرانس برس في المقر العام الجديد للشركة في تاي شانغ (غرب) "لقد تفاعلنا سريعا جدا مع ما يحصل وحشدنا الصفوف في المجموعة برمتها ولا سيما المصانع ووحدات البيع (..) لتلبية الطلب".</p><p>- نقص في قطع الغيار –</p><p>ففي أوروبا وأميركا الشمالية حصل إقبال شديد جدا على متاجر الدراجات الهوائية. وسجلت الجمعية البريطانية لبائعي الدراجات 290 ألف طلبية لم تسلم بعد.</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>وقال لينكولن روماين مدير متجر "بريكستون سايكلز" في لندن الشهر الماضي لوكالة فرانس برس "لقد مر علي كل انواع الناس من أشخاص يريدون التوجه إلى العمل أو دراجين جدد او أولئك الذين يخرجون دراجتهم من العلية مجددا".</p><p>في الولايات المتحدة ارتفعت مبيعات الدراجات الهوائية المخصصة للرياضة أو تلك العادية  للتوجه إلى العمل بنسبة 66 % في آذار/مارس مقارنة مع ما كانت عليه في الشهر نفسه من العام 2019. أما الدراجات الترفيهية فزادت مبيعاتها بنسبة 121 % والكهربائية بنسبة 85 % بحسب شركة "ان بي دي غروب "لدراسات السوق.</p><p> وأوضحت تو أن في الولايات المتحدة وأوروبا زاد الطلب خصوصا على أقل الدراجات سعرا التي تبدأ عند مستوى ألف دولار أو ما دون.</p><p>وشغلت "جاينت" مصانعها التايوانية إلا أن الكثير من مشاغلها في الصين القارية اضطرت إلى الإغلاق موقتا بسبب جائحة كوفيد-19.</p><p>وتأثرت المجموعة سلبا بصعوبة الحصول على قطع غيار.</p><p>- ولادة جديدة -</p><p>في أوروبا ستعتمد "جاينت" قريبا على مصنع جديد يفتح أبوابه في المجر ويسمح لها بخفض الاعتماد على المواقع الصينية إضافة إلى تقريب موقع الانتاج من الزبائن.</p><p>شددت جينا شانغ الأمينة العامة لجمعية الدراجات التايوانية، على أن المصنعين عانوا في البداية في الربع الأول من إلغاء أو تأجيل طلبيات كثيرة في وقت راح فيه الوباء ينتشر إلا أن الأمور تحسنت بعد ذلك.</p><p> وأوضحت "أكبر شركتي تصنيع لديها طلبيات كاملة حتى نهاية السنة".</p><p>وشكلت الجائحة تاليا ولادة جديدة لمنتجي الدراجات الهوائية في تايوان.</p><p>وكانت هذه الجزيرة الأولى حتى التسعينات قبل أن تستحوذ الصين على الجزء الأكبر من الانتاج بسبب اليد العاملة الزهيدة الأجر فيها.</p><p> إلا أن الأمور تتغير منذ فترة لأسباب عدة مثل الطلب المتزايد على الدراجات الكهربائية في الدول الأوروبية أو الدراجات الفاخرة. والعام الماضي استفادت الجزيرة من تأثير الحرب التجارية الصينية- الأميركية.</p><p>ففي العام 2019، صدرت تايوان دراجات بقيمة 1,63 مليار (من دون احتساب الكهربائية منها) في مقابل 1,5 مليارا في 2018. لكن في الوقت ذاته، صدرت الجزيرة كذلك دراجات كهربائية بقيمة 863 مليون دولار في مقابل 377 مليونا في 2018. وقد صدرت غالبيتها إلى أوروبا.</p><p>وخلال السنة الراهنة، بلغت قيمة صادرات الدراجات الكهربائية بين كانون الثاني/يناير ونيسان/أبريل 301 مليون دولار بارتفاع نسبته 23 % في غضون سنة.</p><p>وأملت تو أن يستمر الإقبال على الدراجات الهوائية حتى بعد انقضاء الأزمة الصحية.</p><p>وأوضحت مبتسمة "على الدراجة يمكن التنزه وتنشق الهواء العليل. ولا يمكن الاقتراب كثيرا من الآخرين وإلا حصل حادث. إنها تجسيد للتباعد الاجتماعي الطبيعي".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>صورة من الأرشيف ملتقطة في 21 أيار/مايو 2019 تظهر عاملا يتحقق من دراجة كهربائية في مصنع لشركة &quot;جانيت&quot; في تاي شانغ في تايوان</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>سام ييه</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="سام ييه"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>صورة من الأرشيف ملتقطة في 21 أيار/مايو 2019 تظهر عاملا يتحقق من دراجة كهربائية في مصنع لشركة "جانيت" في تاي شانغ في تايوان</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="534e08116272fe4305dd91ae2bf7293a7c74f7da.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>167272</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="507"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="f616b0722ff5fbc4eaef3facae7cfd16d0a0738a.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>28205</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="161"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="d44a3dadd0a3fc4046f1852cc58cd1f29562b709.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7304</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="72"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>بوني تو رئيسة شركة &quot;جاينت&quot; لصناعة الدراجات الهوائية في مصانع تاي شونغ في تايوان في الخامس من حزيران/يونيو 2020</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>سام ييه</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="سام ييه"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>بوني تو رئيسة شركة "جاينت" لصناعة الدراجات الهوائية في مصانع تاي شونغ في تايوان في الخامس من حزيران/يونيو 2020</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="409d32107c6fed079f3dff068333e44da99d2fac.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>143311</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="16397e2e27e3ff96d7dfd149d7ae3a61e8cabe4e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>26345</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="914815edbd7dff0cd2c70a188c678631fa0a69b5.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7574</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

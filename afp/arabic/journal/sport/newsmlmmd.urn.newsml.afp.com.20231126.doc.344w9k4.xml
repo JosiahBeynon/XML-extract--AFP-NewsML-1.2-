@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T155007Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344w9k4</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344w9k4:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>auto-Prix-UAE-win</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T154953Z</FirstCreated>
+            <ThisRevisionCreated>20231126T154953Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>جائزة أبو ظبي الكبرى: فيرستابن يختتم موسمه بفوز قياسي جديد</HeadLine>
+                                                  <DateLine>ابوظبي (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>auto-Prix-UAE-win</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ARE"/>
+                              <Property FormalName="City" Value="ابوظبي"/>
+                              <Property FormalName="Latitude" Value="24.46667"/>
+                              <Property FormalName="Longitude" Value="54.36667"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="15039001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="15039000"/>
+                                  </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>أتمّ السائق الهولندي ماكس فيرستابن موسمه المهيب الذي حطّم خلاله الأرقام القياسية، بطريقته المعتادة الأحد عندما حقق فوزه التاسع عشر هذا العام وهو رقم قياسي لفريقه ريد بول، خلال سباق جائزة أبو ظبي الكبرى في الجولة الثانية والعشرين الختامية لموسم الفورمولا واحد.</p><p>بعدما حسم فيرستابن اللقب قبل جولات عدة، كان عنوان الجولة الختامية معركة مرسيدس وفيراري على مركز الوصافة.</p><p>وفي سباق ملؤه الإثارة، أنهى بطل العالم ثلاث مرات السباق في المركز الأول بفارق 17.993 ثانية عن سائق فيراري شارل لوكلير من موناكو الذي لم تكن قيادته الجريئة كافية للفريق الإيطالي ليحصل على المركز الثاني في بطولة الصانعين.</p><p>بالتالي، ذهبت وصافة الصانعين أخيراً إلى فريق مرسيدس (409 نقاط) بفارق ثلاث نقاط فقط عن فيراري. ورغم أن المكسيكي سيرخيو بيريس أنهى السباق في المركز الثاني خلف زميله فيرستابن، هبط إلى المركز الرابع بعقوبة مدتها خمس ثوانٍ، بسبب احتكاك في منتصف السباق مع سائق ماكلارين البريطاني لاندو نوريس، ما منح سائق مرسيدس جورج راسل المركز الثالث.</p><p>واحتلّ نوريس المركز الخامس متقدماً على زميله في فريق ماكلارين الأسترالي أوسكار بياستري والإسباني فرناندو ألونسو سائق أستون مارتن، والياباني يوكي تسونودا سائق ألفا تاوري، والبريطاني لويس هاميلتون بطل العالم سبع مرات في سيارة المرسيدس الثانية.</p><p>وبالتالي، أنهى فيرستابن الموسم باعتباره السائق الوحيد الذي أكمل كل لفة في الموسم، حيث تصدر لأكثر من ألف لفة، كما حطم الرقم القياسي الذي سجّله جيم كلارك عام 1963 لأعلى نسبة من اللفات في الصدارة خلال موسم واحد.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>أتمّ السائق الهولندي ماكس فيرستابن موسمه المهيب الذي حطّم خلاله الأرقام القياسية بطريقته المعتادة الأحد، عندما حقق فوزه التاسع عشر هذا العام وهو رقم قياسي لفريقه ريد بول</HeadLine>
+                            <CreditLine>ا ف ب/AFP</CreditLine>
+                            <ByLine>جويل صمد</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جويل صمد"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>أتمّ السائق الهولندي ماكس فيرستابن موسمه المهيب الذي حطّم خلاله الأرقام القياسية بطريقته المعتادة الأحد، عندما حقق فوزه التاسع عشر هذا العام وهو رقم قياسي لفريقه ريد بول</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="9d1be988a0567cb30e973761d382c0be6d46d8ef.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>102587</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="70090cee587aee80b07d9958a9a0203ebf882368.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>18859</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="ec199f8fa43bf9472c2450a930953e4cbfd22c5b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5487</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

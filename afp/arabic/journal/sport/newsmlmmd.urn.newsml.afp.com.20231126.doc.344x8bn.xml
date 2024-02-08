@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T194648Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344x8bn</NewsItemId>
+        			        <RevisionId PreviousRevision="1" Update="N">2</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344x8bn:2</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>foot-Foot-FRA-L1-Foot-FRA-L1-foot</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T151720Z</FirstCreated>
+            <ThisRevisionCreated>20231126T194638Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بطولة فرنسا: نيس يواصل ملاحقة سان جرمان بفوز صعب على تولوز</HeadLine>
+                                                  <DateLine>نيس (فرنسا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>foot-Foot-FRA-L1-Foot-FRA-L1-foot</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="نيس"/>
+                              <Property FormalName="Latitude" Value="43.70313"/>
+                              <Property FormalName="Longitude" Value="7.26608"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>عاد نيس إلى نغمة الانتصارات وانتزع فوزًا صعبًا على حساب ضيفه تولوز 1-0 الأحد ضمن منافسات المرحلة الثالثة عشرة من الدوري الفرنسي لكرة القدم.</p><p>وسجّل النيجيري تيريم موفي هدف المباراة الوحيد في الدقيقة 54 ليهدي نيس الذي لا يزال الفريق الوحيد دون خسارة، النقاط الثلاث ليعزز مركزه الثاني برصيد 29 نقطة، بفارق نقطة واحدة عن باريس سان جرمان متصدر الترتيب.</p><p>كما وسّع نيس الفارق بينه وبين موناكو الثالث الى 5 نقاط بعدما خسر الاخير امام سان جرمان 2-5 السبت، فيما يحتل تولوز المركز الخامس عشر بـ 12 نقطة.</p><p>وكان نيس سقط في فخ التعادل السلبي في المرحلة الماضية قبل النافذة الدولية وذلك أمام مضيفه مونبلييه الذي خسر الأحد أمام بريست 1-3. لكن نيس حافظ الأحد على شباك نظيفة للمباراة الثامنة على التوالي.</p><p>وعلى الرغم من فوزه، عانى نيس الأمرَين أمام تولوز الذي كانت له اليد الطولى في فترات عدّة واستطاع اختراق دفاع مضيفه، حيث أُلغي له هدف في الدقيقة الثانية من عمر المباراة عبر فرانك ماجري بعد احتساب خطأ على فنسان سييرو خلال الهجمة.</p><p>وتابع الضيوف ضغطهم على نيس، لكن بعدما تمكن الاخير من امتصاص فورة تولوز اثر انتهاء الشوط الاول بالتعادل السلبي، دفع المدرب الايطالي فرانشيسكو فابريولي بأليكسيس كلود-موريس بدلاً من سفيان ديوب خلال استراحة الشوطين.</p><p>ترك ذلك التبديل تأثيراً إيجابياً على أصحاب الأرض الذين تمكنوا من كسر التعادل في الدقيقة 54 عندما هيأ مورغان سانسون كرة لموفي الذي تابعها داخل المرمى، مسجلاً هدفه الرابع في الدوري هذا الموسم.</p><p>وكاد البديل إبراهيم سيسوكو أن يعادل النتيجة في الدقيقة 80 من تسديدة زاحفة منخفضة، لكنّ البرازيلي دانتي تدخل لإبعادها في الوقت المناسب.</p><p>في المقابل، وبعد أسبوع من إقالة مدربه برونو جينيزيو، عاد رين إلى مسار الانتصارات بفوزه على ضيفه رينس 3-1.</p><p>وتحت قيادة مدربه الجديد القديم جوليان ستيفان، تمكّن رين من حسم المباراة بأهداف الجزائري أمين غويري (4)، بنجامان بوريغو (46)، والبلجيكي أرثر تيات (66)، فيما أحرز العاجي عمر دياكيتي هدف رينس الوحيد (45+1).</p><p>من جهة أخرى، فشل مرسيليا في تحقيق الفوز للمباراة الرابعة توالياً في الدوري، بعد تعادله مع ستراسبورغ 1-1.</p><p>وفاز متز على لوريان 3-1، فيما تعادل نانت مع لوهافر سلباً.</p><p>وفي وقت لاحق، يلتقي ليون متذيّل الترتيب مع ضيفه ليل، سعياً لثلاث نقاط تنتشله من محنته.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>سجّل النيجيري تيريم موفي هدف المباراة الوحيد لمصلحة نيس على حساب تولوز في اللقاء الذي جمعهما الاحد 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب/ا ف ب</CreditLine>
+                            <ByLine>فاليري هاش</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="فاليري هاش"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>سجّل النيجيري تيريم موفي هدف المباراة الوحيد لمصلحة نيس على حساب تولوز في اللقاء الذي جمعهما الاحد 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="6dfdd1ef69a0173f0c79e9e28ab6e5deace26b6e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>99025</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="2b1b4f3d649edbec538ca8ccfd290bfc4317d03f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>18943</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="5e08fc7903e07d5746951e75fee245df65b5264c.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6038</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

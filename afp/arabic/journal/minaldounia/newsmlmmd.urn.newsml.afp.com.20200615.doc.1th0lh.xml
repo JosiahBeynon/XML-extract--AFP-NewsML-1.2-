@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20200615T071858Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20200615</DateId>
+                <NewsItemId>doc-1th0lh</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20200615:doc-1th0lh:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Health-virus-HongKong-China-Disneyland</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20200615T071848Z</FirstCreated>
+            <ThisRevisionCreated>20200615T071848Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>ديزني لاند في هونغ كونغ يعيد فتح أبوابه الخميس</HeadLine>
+                                                  <DateLine>هونغ كونغ (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>Health-virus-HongKong-China-Disneyland</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="CHN"/>
+                              <Property FormalName="City" Value="هونغ كونغ"/>
+                              <Property FormalName="Latitude" Value="22.27832"/>
+                              <Property FormalName="Longitude" Value="114.17469"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                                    <SubjectDetail FormalName="07001002"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="07000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07002000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="07001001"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="07001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>يعيد متنزه "ديزني لاند" في هونغ كونغ فتح أبوابه الخميس بعد إغلاق دام حوالى خمسة أشهر في هذه المدينة التي نجحت عموما في القضاء على فيروس كورونا المستجد.</p><p>وأوضح المتنزه في بيان الاثنين أن على الزوار التوقيع على  تصريح صحي والخضوع لقياس منتظم للحرارة ووضع الكمامات طوال الوقت إلا عند تناول الطعام.</p><p>وهو ثاني متنزه تابع لمجموعة "ديزني" في العالم يعاود خدماته خلال الجائحة بعدما استؤنف النشاط في شنغهاي الشهر الماضي.</p><p>ولا يزال المتنزهان في طوكيو وباريس مغلقين في حين ينوي متنزه "ديزني" الرئيسي في كاليفورنيا إعادة فتح أبوابه في تموز/يوليو.</p><p>وكانت هونغ كونغ من أولى مناطق العالم التي سجلت فيها إصابات بفيروس كورونا المستجد بعد ظهوره في وسط الصين وتحوله إلى جائحة عالمية.</p><p>إلا أن هذا المركز المالي الكبير تمكن بشكل واسع من لجم انتشار عدوى الفيروس مع تسجيل 1100 إصابة وأربع وفيات فقط.</p><p>ويخضع كل الركاب الآتين من الخارج في المطار لفحوصات وتضعهم السلطات في الحجر الصحي في حال تبينت إصابتهم، يضاف إلى حجر منزلي من أسبوعين يفرض على كل الوافدين.</p><p>وتمنع سلطات هونغ كونغ راهنا التجمعات التي تزيد عن ثمانية أشخاص. ويفترض أن تدرس تمديد هذا القرار من عدمه الخميس مع إعادة فتح متنزه "ديزني لاند".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>زوار يضعون أقنعة مع إعادة فتح متنزه ديزني لاند في شانغهاي في 11 أيار/مايو 2020 بعد أكثر من ثلاثة أشهر على إغلاقه</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>هيكتور ريتامال</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="هيكتور ريتامال"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>زوار يضعون أقنعة مع إعادة فتح متنزه ديزني لاند في شانغهاي في 11 أيار/مايو 2020 بعد أكثر من ثلاثة أشهر على إغلاقه</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="5b7cff81d978e7aca4ef0db3525189bb16b2a608.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>192204</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="510"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="f5a24bed18f57a759190277acadb93cbd00373d5.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>29659</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="92733f51d1eb50d40de5ef627fef8fc28585dd3e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7614</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

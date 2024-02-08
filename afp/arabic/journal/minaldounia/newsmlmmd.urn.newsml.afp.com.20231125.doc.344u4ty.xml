@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231125T135934Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231125</DateId>
+                <NewsItemId>doc-344u4ty</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231125:doc-344u4ty:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Africa-cinéma-Ghana-Nigeria</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231125T135924Z</FirstCreated>
+            <ThisRevisionCreated>20231125T135924Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>مخرجة غانيّة ترغب في إخراج السينما الافريقية من سباتها</HeadLine>
+                                                  <DateLine>اكرا (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>Africa-cinéma-Ghana-Nigeria</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="GHA"/>
+                              <Property FormalName="City" Value="اكرا"/>
+                              <Property FormalName="Latitude" Value="5.55602"/>
+                              <Property FormalName="Longitude" Value="-0.1969"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>في كل مرة تشارك المخرجة الغانيّة جولييت يا أسانتيوا أسانتي في حدث سينمائي دولي، تتأكّد من أنّ إمكانات السينما الافريقية هائلة، لكنها لا تزال في سبات.</p><p>وخلال هذا الشهر، جمعت أسانتي، وهي مديرة هيئة السينما الوطنية في غانا، مجموعة من المخرجين وشركات توزيع الأفلام في أكرا لمناسبة قمة السينما الأفريقية، في خطوة ترمي إلى مناقشة مستقبل السينما في القارة. ومن بين المشاركين شركتا "فيلم وان غروب" النيجيرية و"سيلفر بيرد سينما" الغانيّة.</p><p>ولا تضم القارة الافريقية، التي يُعدّ سكانها من الأصغر سناً في العالم بحسب الأمم المتحدة، سوى 1700 صالة سينما، مقارنة بـ44 ألفاً في الولايات المتحدة و75500 في الصين.</p><p>وتقول أسانتي لوكالة فرانس "ثمة قصص يمكن سردها في كل مكان، وفي متناول أيدينا قصص كثيرة لم نستثمرها بعد".</p><p>واللافت أن عدداً من الأفلام الافريقية المعروضة عبر منصات البث التدفقي يحقق نجاحات كبيرة، على غرار فيلم "ذي بلاك بوك" النيجيري الذي أُتيح هذه السنة عبر نتفليكس.</p><p>وقال مخرج العمل إيديتي إيفيونغ في منشور عبر منصة "اكس" (تويتر سابقاً) "ما زلت لا أصدّق أنّ ذي بلاك بوك شاهده كوريون أكثر من نيجيريين".</p><p>وفي افريقيا، يُنتَج نحو 2500 فيلم في القطاع السينمائي النيجيري المُسمّى نوليوود والذي يأتي في الترتيب مباشرة خلف بوليوود، عالم السينما الهندي الذي يهيمن على السينما العالمية.</p><p>وتقول أسانتي "حتى في نيجيريا، البلد الذي يسجّل أعلى نسبة سكان في افريقيا، يمكننا تقديم نتائج أفضل".</p><p>- "تصوير أعمال في غانا" -  </p><p>تعاني البلدان الأفريقية من نقص في الاستثمار الهيكلي بهذا المجال الذي يدرّ نحو خمسة مليارات دولار سنوياً. وتشير اليونسكو في تقرير عام 2021 إلى أنّ "أي زيادة في الاستثمار من شأنها أن توفّر أكثر من 20 مليون فرصة عمل وتدر مداخيل بقيمة 20 مليار دولار سنوياً".</p><p>وتقول أسانتي لوكالة فرانس برس "في حال اتخذت الحكومات إجراءات ضريبية مهمة، فسيتشجّع القطاع الخاص على الاستثمار".</p><p>وتشير اليونسكو إلى أنّ نصف البلدان الافريقية فقط وضعت سياسات عامة تتعلق بالقطاع السمعي البصري، و44% منها تضم وكالة عامة مخصصة لهذا القطاع.</p><p>ويعدّ نقص التمويل والاستثمار في السينما أمراً هيكلياً في أفريقيا، فيما يعتبر عدد قليل من البلدان فقط أنّ هذا المجال يوفّر فرص عمل.</p><p>وتبني ولاية لاغوس، العاصمة الاقتصادية لنيجيريا، استوديوهات لتصوير الأفلام على طراز الهوليوودية، لدعم القطاع السينمائي النيجيري.</p><p>وأطلقت غانا حملة "تصوير في غانا" لاستقطاب أفلام عالمية. ويقول الممثل البريطاني إدريس إلبا، الذي زار البلاد أخيراً، إن تصوير فيلمه المقبل سيكون جزئياً في غانا، على ما أوردت وسائل إعلام محلية.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>المخرجة الغانيّة جولييت يا أسانتيوا أسانتي في أكرا بتاريخ 16 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>نيباه دينيس</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="نيباه دينيس"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>المخرجة الغانيّة جولييت يا أسانتيوا أسانتي في أكرا بتاريخ 16 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="7fa00b05677b228221e72dfb5510e749c4dfe591.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>93883</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="451d881f8adf5bf3846aa889e544f9cab3afad36.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>17816</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="a6104b4d2ade3641e750a2d528d5875b2a4062a9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5704</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

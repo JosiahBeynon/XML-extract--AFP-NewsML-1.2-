@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20201218T194032Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20201218</DateId>
+                <NewsItemId>doc-8xe9vc</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20201218:doc-8xe9vc:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>fbl-ENG-Pr-ManUtd-Rooney-son</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20201218T194013Z</FirstCreated>
+            <ThisRevisionCreated>20201218T194013Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>واين روني فخور بتعاقد ابنه كاي مع مانشستر يونايتد</HeadLine>
+                                                  <DateLine>لندن (أ ف ب)</DateLine>
+                <CopyrightLine>© 2020 AFP</CopyrightLine>
+        <SlugLine>fbl-ENG-Pr-ManUtd-Rooney-son</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="GBR"/>
+                              <Property FormalName="City" Value="لندن"/>
+                              <Property FormalName="Latitude" Value="51.50853"/>
+                              <Property FormalName="Longitude" Value="-0.12574"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>قال مهاجم المنتخب الإنكليزي لكرة القدم السابق واين روني الجمعة إنه "أب فخور" بعد أن اتبع ابنه الأكبر كاي خطاه بالتوقيع مع فريقه السابق مانشستر يونايتد.</p><p>ونشر الهداف التاريخي ليونايتد الذي انضم إلى فريق "الشياطين الحمر" في سن المراهقة من إيفرتون عام 2004، صورة على وسائل التواصل الاجتماعي الخميس لتوقيع ابنه البالغ من العمر 11 عاما على عقد مع ناديه السابق.</p><p>وأكد روني الذي يلعب حاليا في دربي كاونتي (الدرجة الثانية) خلال مؤتمر صحافي "نعم أنا أب فخور. لقد كان يعمل بجد، وكان من الواضح انه ذهب معنا إلى الولايات المتحدة لمواصلة كرة القدم".</p><p>واضاف "لقد خضع لفترة التجارب مع مانشستر يونايتد وأعجب المدربون به. لقد وقّع على العقد بالأمس، لذا أنا سعيد من أجله".</p><p>وكان قائد منتخب إنكلترا السابق قد حقق مسيرة متألقة لمدة 13 عاما في أولد ترافورد، سجل خلالها 253 هدفا في 559 مباراة وحطم رقم الأسطورة بوبي تشارلتون في كانون الثاني/يناير 2017.</p><p>وكشف روني الذي لعب أيضا لنادي إيفرتون وفي الدوري الأميركي مع دي سي يونايتد، أنه كان أمام ابنه كاي العديد من الأندية لكنه اختار مانشستر يونايتد "كان لديه خيارات اخرى، اندية اخرى ليذهب إليها لكنه قرر انه يريد التوقيع مع مانشستر يونايتد، لقد كان قراره وليس قراري".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>المهاجم الدولي الانكليزي السابق واين روني برفقة ابنه كاي في مدرجات ملعب غوديسون بارك في ليفربول خلال حضورهما مباراة ايفرتون وضيفه كريستال بالاس في الدوري الانكليزي في السابع من كانون الاول/ديسمبر 2015.</HeadLine>
+                            <CreditLine>ا ف ب/ا ف ب/ارشيف</CreditLine>
+                            <ByLine>ليندساي بارناباي</ByLine>
+                                          <NewsLine>
+                <NewsLineType FormalName="AdvisoryLine" />
+                <NewsLineText>RESTRICTED TO EDITORIAL USE. NO USE WITH UNAUTHORIZED AUDIO, VIDEO, DATA, FIXTURE LISTS, CLUB/LEAGUE LOGOS OR &apos;LIVE&apos; SERVICES. ONLINE IN-MATCH USE LIMITED TO 75 IMAGES, NO VIDEO EMULATION. NO USE IN BETTING, GAMES OR SINGLE CLUB/LEAGUE/PLAYER PUBLICATIONS.</NewsLineText>
+              </NewsLine>
+                          </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="ليندساي بارناباي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>المهاجم الدولي الانكليزي السابق واين روني برفقة ابنه كاي في مدرجات ملعب غوديسون بارك في ليفربول خلال حضورهما مباراة ايفرتون وضيفه كريستال بالاس في الدوري الانكليزي في السابع من كانون الاول/ديسمبر 2015.</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="8191c91a6834c77a868316eb534725d6c6d9ea2c.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>101026</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="457"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="0aca61022d0119c4795009b1e862aa797de9e8bb.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>14973</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="145"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="757f53121d1c702edada9c6849d1aaad4b20ba83.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>4808</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="65"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

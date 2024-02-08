@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T115613Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344x89j</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344x89j:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Science-biology-bats</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T115556Z</FirstCreated>
+            <ThisRevisionCreated>20231126T115556Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>متقاعد هولندي يحل لغز العضو الذكري الضخم لنوع من الخفافيش</HeadLine>
+                                                        <ByLine>دانييل لاولر</ByLine>
+                                  <DateLine>باريس (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>Science-biology-bats</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="FRA"/>
+                              <Property FormalName="City" Value="باريس"/>
+                              <Property FormalName="Latitude" Value="48.85341"/>
+                              <Property FormalName="Longitude" Value="2.34121"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="13004000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                                    <SubjectDetail FormalName="13004008"/>
+                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="08001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="08000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="06000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="13000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="06007000"/>
+                                  </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تمكن علماء أوروبيون من حل لغز مرتبط بأحد أكبر الأعضاء الذكرية الحيوانية، بفضل ملاحظات سجلها متقاعد هولندي خلال مراقبته عمليات تزاوج بين خفافيش في علّية كنيسة، وفق ما أظهرت دراسة حديثة نشرت نتائجها مجلة "كارنت بايولوجي".</p><p>وقال فريق أوروبي من الباحثين هذا الأسبوع إن خفاش السيروتين لا يستخدم قضيبه بدرجة غريبة من أجل عمليات الولوج الجنسي، بل يستعين فيه كـ"ذراع تزاوج". </p><p>وهذه أول مرة يُوثَّق فيها تكاثر حيوان ثديي من دون ولوج جنسي، وفق الباحثين.</p><p>الخفاش السيروتيني، الذي يبلغ طول جناحيه أكثر من 35 سنتيمتراً، شائع في الغابات في جميع أنحاء أوروبا وآسيا.</p><p>وقال الباحث في جامعة لوزان السويسرية نيكولا فاسيل، وهو المعدّ الرئيسي للدراسة، لوكالة فرانس برس إن فريقه كان يجري بحوثاً عن هذا الخفاش لسنوات، ولاحظ أن "قضيبه يكون طويلا للغاية عندما يكون منتصبا".</p><p>وقاس العلماء أن قضبان هذه الحيوانات أطول بحوالى سبع مرات من مهبل إناث خفافيش السيروتين.</p><p>والأغرب من ذلك هو أن رأس القضيب يتسع على شكل قلب، ما يجعله أوسع بسبع مرات من مهبل شركائها الإناث.</p><p>وأثارت هذه الخصائص حيرة العلماء طويلاً. </p><p>وقال فاسيل "من غير الممكن له أن يقوم بعملية ولوج في ظل هذه البنية" الجسدية.</p><p>ولا يُعرف سوى القليل نسبياً عن كيفية تزاوج الخفافيش، خصوصاً بسبب صعوبة مراقبتها، ولم يتمكن العلماء من إيجاد طريقة لحل هذا اللغز.</p><p>لكن رسالة غريبة بالبريد الإلكتروني تلقاها فاسيل بدّلت الوضع.</p><p>- "مندهش حقا" -</p><p>كانت "Penis" ("قضيب") الكلمة الأولى في الخانة الخاصة بموضوع البريد الإلكتروني، متبوعة بكلام باللغة الهولندية، ثم كلمة "إبتسيكوس" ("Eptesicus" - نوع من الخفافيش).</p><p>قال فاسيل "لذلك كنت أفكر، حسناً، هذا يبدو وكأنه بريد عشوائي".</p><p>لكن لكون "إبتسيكوس" هو جنس الخفاش السيروتيني، جازف فاسيل بفتح البريد الإلكتروني وشاهد مقاطع الفيديو.</p><p>وقال "كنت مندهشاً حقاً لأننا حصلنا على الإجابة على تساؤلاتنا".</p><p>كانت الرسالة الإلكترونية مرسلة من يان يوكين، وهو متقاعد ليست لديه أي خلفية علمية يعيش في قرية كاستنراي في جنوب هولندا.</p><p>وأصبح يوكن مهتماً بمجموعة من خفافيش السيروتين التي تعيش في علية كنيسة محلية، وركّب كاميرات تسجل كميات هائلة من اللقطات.</p><p>وقال فاسيل إن "شغف يوكين جعله الشخص الأمثل" لفهم الخفافيش، وسُمّي هذا المتقاعد على أنه مشارك في إعداد الدراسة.</p><p>وحلل الباحثون 93 حدث تزاوج في علية الكنيسة، بالإضافة إلى أربعة أحداث مسجلة في مركز لإعادة تأهيل الخفافيش في أوكرانيا.</p><p>ومن خلال تصوير عبر شبكة تسلقت عليها الخفافيش، تمكن الباحثون من ملاحظة تزاوجها.</p><p>وتمتلك إناث خفافيش السيروتين غشاءً كبيراً بين ذيلها وكاحليها يمكنها استخدامه لحماية أعضائها التناسلية.</p><p>وقال الباحثون إنه أثناء التزاوج، تمسك الذكور بالإناث من مؤخرة العنق وتستخدم قضبانها مثل ذراع إضافية للوصول إلى هذا الغشاء وإزالته.</p><p>ثم يتبع ذلك احتضان طويل يسمى "التزاوج الاتصالي"، يتم خلاله نقل الحيوانات المنوية.</p><p>في حين أن هذا النوع من التكاثر، المسمى أيضاً "التقبيل المذرقي"، شائع لدى الطيور، لكن لم تتم ملاحظته قبلاً لدى الثدييات.</p><p>بالنسبة لخفافيش السيروتين، تستغرق العملية بعض الوقت. وبلغ متوسط الجلسة 53 دقيقة، لكن أطولها استمر حوالي 13 ساعة.</p><p>وتكهن فاسيل بأن إناث الخفافيش يمكنها استخدام عنق الرحم الطويل بشكل غير عادي للاحتفاظ بالحيوانات المنوية لعدة ذكور مختلفين لأشهر عدة قبل اختيار الذكر الذي ستلد معه ذريتها.</p><p>وقال فاسيل إن أنواعاً أخرى من الخفافيش ربما تتزاوج بهذه الطريقة من دون ولوج، مضيفا أن هناك حاجة إلى مزيد من الأبحاث.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>حيوان من نوع خفافيش السيروتين في منطقة بورج الفرنسية في 30 حزيران/يونيو 2020</HeadLine>
+                            <CreditLine>ا ف ب/ارشيف</CreditLine>
+                            <ByLine>غيوم سوفان</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="غيوم سوفان"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>حيوان من نوع خفافيش السيروتين في منطقة بورج الفرنسية في 30 حزيران/يونيو 2020</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="9833f327fc1d950bd965b6e1b6817d4af255c87f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>55215</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="97987266a8dadae0bf4906c3a62b1c128a21ab38.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>9953</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="b4f6988c2259e3490b77054c183f85716d737d74.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>3564</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

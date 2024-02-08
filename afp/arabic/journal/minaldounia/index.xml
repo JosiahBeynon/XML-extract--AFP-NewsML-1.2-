@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+  <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml" />
+  <NewsEnvelope>
+    <DateAndTime>20231126T134939Z</DateAndTime>
+  </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+        <ProviderId>afp.com</ProviderId>
+        <DateId>20231126</DateId>
+        <NewsItemId>arabic--journal--minaldounia</NewsItemId>
+        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+        <PublicIdentifier>urn:newsml:afp.com:20231126:arabic--journal--minaldounia:1</PublicIdentifier>
+      </NewsIdentifier>
+      <NameLabel>من الدنيا</NameLabel>
+    </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News" />
+      <FirstCreated>20231126T134939Z</FirstCreated>
+      <ThisRevisionCreated>20231126T134939Z</ThisRevisionCreated>
+      <Status FormalName="Usable" />
+    </NewsManagement>
+    <NewsComponent>
+      <AdministrativeMetadata>
+        <Provider>
+          <Party FormalName="afp.com" />
+        </Provider>
+      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+        <Language FormalName="ar" />
+      </DescriptiveMetadata>
+    </NewsComponent>
+  </NewsItem>
+</NewsML>

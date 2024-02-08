@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20230919T055950Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20230919</DateId>
+                <NewsItemId>doc-33ul3px</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20230919:doc-33ul3px:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>اسياد-كمبيوتر-2023-2022-اندونيسيا-العاب</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20230919T055938Z</FirstCreated>
+            <ThisRevisionCreated>20230919T055938Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>الألعاب الآسيوية تشعل الحلم الأولمبي للرياضات الإلكترونية</HeadLine>
+                                                        <ByLine>فيصل كمال وسونغهي هوانغ</ByLine>
+                                  <DateLine>نيودلهي (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>اسياد-كمبيوتر-2023-2022-اندونيسيا-العاب</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="IND"/>
+                              <Property FormalName="City" Value="نيودلهي"/>
+                              <Property FormalName="Latitude" Value="28.63576"/>
+                              <Property FormalName="Longitude" Value="77.22445"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15073000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="15073000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="04003000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="04000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10010000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="10001000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>شكّل إدراج الرياضات الإلكترونية كمسابقة رسمية لأول مرّة في دورة الألعاب الآسيوية هذا الشهر، المدماك الأول لخطوات لاحقة يأمل عشاق هذه الالعاب أن تُكرّس عبر الاعتراف بها واعتمادها في الدورات الأولمبية.</p><p>أدرجت الرياضات الالكترونية للمرة الأولى في الألعاب الآسيوية عام 2018 كمسابقة استعراضية، إلا ان هذا الواقع سيتبدل في النسخة الحالية من الالعاب الآسيوية في هانغجو الصينية حيث سيتوج الفائزون اعناقهم بالميداليات، إضافة إلى المجد الإقليمي في سبع ألعاب مختلفة (EA SPORTS FC, PUBG Mobile, Arena of Valor, Dota 2, League of Legends, Dream Three Kingdoms 2 and Street Fighter V).</p><p>يرى مايانك براجاباتي، أمل الهند في الظفر بميدالية في لعبة "ستريت فايتر" Street Fighter، أن دورة الألعاب الآسيوية التي تنطلق في 23 أيلول/سبتمبر الحالي وتستمر حتى 8 تشرين الأول/المقبل ستحدّد مدى تطوره والرياضات الإلكترونية.</p><p>يتذكر براجاباتي البالغ 33 عاماً، كيف كان والده يضربه لأنه كان يتسلّل خارج المنزل لمزاولة ألعاب الفيديو. </p><p>قال "لعبت للمرة الأولى في أواخر التسعينيات على آلة في أحد الأسواق بالروبيتين اللتين كنت أملكهما". </p><p>وتابع "لقد كانت هذه أوّل تجربة لي مع لعبة +ستريت فايتر+ وقد وقعت في حبها. أصبحت مدمناً عليها، وكثيراً ما كنت أكذب على والدَيّ، وأقول لهما: +سأذهب للدراسة+، لكنني كنت أمضي ساعات في اللعب".</p><p>يتذكر براجاباتي، وهو مصمّم ثلاثي الأبعاد، كيف تعقبه والده ذات مرة ليلاً واكتشف انه يمارس ألعاب الفيديو، محاطًا بستة أطفال تغمرهم السعادة. </p><p>وقال ضاحكاً، وهو الآن أب لطفل يبلغ من العمر عامين "لقد تعرّضت للتوبيخ الشديد... أعتقد أنني تعرّضت للضرب".</p><p>تبدو قصة براجاباتي مألوفة عند الكثيرين.</p><p>من ناحيته، قال كيم غوان-وو، البالغ 41 عاماً والذي سيمثل كوريا الجنوبية في لعبة Street Fighter V لوكالة فرانس برس في سيول "والداي يكرهانني عندما ألعب ألعاب الفيديو"، مشدداً على انهما ما زالا "متردّدين" بشأن مشاركته في دورة الألعاب الآسيوية.</p><p>وتابع "أعتقد أنهما سيكونان سعيدين للغاية إذا فزت بالفعل بميدالية".</p><p>ومن المتوقع أن تكون كوريا الجنوبية، إلى جانب الصين المضيفة، القوتين المهيمنتين في مسابقات الرياضات الإلكترونية خلال النسخة الحالية للألعاب الآسيوية.</p><p>- الحلم الأولمبي؟ -</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>ومن المتوقع أن تشهد فعاليات الرياضات الإلكترونية في الألعاب حشوداً كبيرة في مركز هانغجو للرياضات الإلكترونية المتطوّر التصميم، وهو بعيد كل البُعد عن أماكن اللعب في الأروقة القذرة والتي كان يتسلل اللاعبون إليها ضد رغبات آبائهم. </p><p>قال البروفيسور كانغ من كلية شينغو والذي كان من الجيل الأول للاعبين المحترفين تحت الاسم المستعار "H.O.T Forever" في مقابلة مع فرانس برس "إن إدراجها في دورة الألعاب الآسيوية يُعدّ علامة فارقة للرياضات الإلكترونية في سعيها للاعتراف بها كرياضة +حقيقية+". </p><p>وتابع "عندما كنت لاعباً في أواخر التسعينات، كان ردّ الفعل الأوليّ هو: لماذا تُعرض ألعاب الفيديو على التلفزيون؟".</p><p>وأضاف "لكن مع العمل الجاد الذي قام به اللاعبون والجهاز الفني، أعتقد أننا وصلنا بنسبة 90 في المئة تقريباً إلى أن نصبح رياضة حقيقية".</p><p>في المقابل، وصف نائب رئيس الاتحاد الآسيوي للرياضات الإلكترونية لوكيش سوجي، الألعاب الآسيوية بأنها علامة فارقة نحو هدف أكبر.</p><p>وقال سوجي الذي يشغل أيضاً منصب مدير اتحاد الرياضات الإلكترونية في الهند "سيتحقق الحلم في النهاية بمجرد إدراجها في الألعاب الأولمبية، باعتبارها رياضة يمكن أن يحصل الفائزون فيها على ميداليات". </p><p>ورغم كل هذه الخطوات الجبارة، إلا أن الحلم الأولمبي لا يبدو انه سيتحقق في المستقبل القريب، وبالتأكيد ليس قبل أولمبياد باريس العام المقبل. </p><p>من ناحيتها، تحرص اللجنة الأولمبية الدولية على جذب الجماهير الأصغر سناً، لذا أدرجت مسابقة رقصة البريك دانس لأول مرة في ألعاب باريس. </p><p>ولكن رغم أن اللجنة الأولمبية الدولية اعترفت رسمياً بالألعاب الإلكترونية كرياضة في عام 2017، إلا أنه لا توجد حاليا خطة لإدراجها في البرنامج الأولمبي. فأحد العوائق هو نوع الألعاب التي سيتم تضمينها لأن الترويج للعنف يتعارض مع القيّم الأولمبية، لذلك سيؤدي ذلك على الفور إلى استبعاد بعض ألعاب الرياضات الإلكترونية الأكثر شعبية. </p><p>- خلسة! -</p><p>ورغم أن الحلم الأولمبي ما زال بعيد المنال في الوقت الحالي، إلا أن ممارسي هذه الالعاب يؤكدون ان إدراج الرياضات الإلكترونية في دورة الألعاب الآسيوية قد أدى بالفعل إلى تغيير جذري في المواقف. </p><p>ويأمل هؤلاء أن يؤدي نجاح الرياضات الالكترونية خلال الشهر المقبل في هانغجو إلى استقطاب مزيد من المشجعين واللاعبين والتقدير.</p><p>اعتاد سانينديا مالك (21 عاماً) والذي يشارك في الفريق الهندي في لعبة League of Legends، على التظاهر بأنه يدرس على جهاز الحاسوب (الكومبيوتر) الخاص به، بينما كان في الواقع يشارك في ألعاب عبر الإنترنت.</p><p>قال "في بعض الأحيان خلال البطولة، كان عليّ أن أختبئ من والدَي حتى لا يعلمان حقيقة ما يحصل وكي اتمكن من اللعب".</p><p>وتابع "ولكن بعد اختياري لتمثيل الهند، لاحظ والداي التقدير الذي يمكن أن تمنحه لي هذه اللعبة".</p><p>وختم قائلاً "حتى أقاربي وأصدقائي الذين شكّكوا في وقت سابق في المدة التي أمضيها قاموا بتهنئتي، وهذا شعور جيد".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>مواجهة كورية جنوبية-فيتنامية في League of Legends قبل الألعاب الآسيوية</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>جونغ ييون-جي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جونغ ييون-جي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>مواجهة كورية جنوبية-فيتنامية في League of Legends قبل الألعاب الآسيوية</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="7b0be812ee9006bb55d432c29f96858fd5adf523.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>175661</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="484"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="1026f70d45c60d116b6cd9d3d8792d7640a4cfe2.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>25842</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="154"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="b1dd4bff18d4448e93bd722a52a0b0629335f3ce.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6854</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="69"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>كوريا الجنوبية تكشف عن فريقها المشارك في الألعاب الآسيوية</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>جونغ ييوون-جي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جونغ ييوون-جي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>كوريا الجنوبية تكشف عن فريقها المشارك في الألعاب الآسيوية</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="d7a2929951577e2953aefb3969615cfc170c9610.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>157130</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="496"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="2a7644e2d9eedba4c60e405656eabc4d1422bfd9.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>24334</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="158"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="7fedade9f3b2078224fafde3c7f4c14e3f917a03.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6355</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="71"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

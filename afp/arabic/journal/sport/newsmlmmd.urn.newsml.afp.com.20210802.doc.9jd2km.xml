@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20210802T132014Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20210802</DateId>
+                <NewsItemId>doc-9jd2km</NewsItemId>
+        			        <RevisionId PreviousRevision="4" Update="N">5</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20210802:doc-9jd2km:5</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>اولمبياد-طوكيو-2020-2021-قوى</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20210802T122435Z</FirstCreated>
+            <ThisRevisionCreated>20210802T132004Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>أولمبياد طوكيو-قوى: البقالي يمنح المغرب أول ذهبية منذ 2004 بتتويجه في 3 آلاف م موانع</HeadLine>
+                                                  <DateLine>طوكيو (أ ف ب)</DateLine>
+                <CopyrightLine>© 2021 AFP</CopyrightLine>
+        <SlugLine>اولمبياد-طوكيو-2020-2021-قوى</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                        <Source>
+	  <Party FormalName="AFP" />
+        </Source>
+                      </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="JPN"/>
+                              <Property FormalName="City" Value="طوكيو"/>
+                              <Property FormalName="Latitude" Value="35.6895"/>
+                              <Property FormalName="Longitude" Value="139.69171"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15005000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>منح العدّاء سفيان البقالي المغرب ذهبيته الأولى في الألعاب الأولمبية منذ 2004، بعد تتويجه في سباق ثلاثة آلاف م موانع في ألعاب القوى في أولمبياد طوكيو الاثنين، بزمن 8:08.90 دقائق.</p><p>ونال الإثيوبي لاميشا غيرما الفضية (8:10.38 د) فيما أحرز الكيني بنجامين كيغن الميدالية البرونزية (8:11.45). </p><p>وكان البقالي (25 عاماً) حل رابعًا في أولمبياد ريو 2016 قبل أن يحرز فضية مونديال لندن 2017 وبرونزية 2019 في قطر.</p><p>وقال في تصريح لوكالة فرانس برس بعد السباق "أنا سعيد جداً بهذا الفوز، هو لقب غالٍ جداً بالنسبة لي بعد سنوات من العمل الجاد التي لم تكن سهلة، خاصة بعدما حليت رابعاً في ريو، طمحت أن أكون بطلاً أولمبياً وقد تحقق ذلك".</p><p>وتابع "أهدي هذا الفوز للشعب المغربي والشعب العربي".</p><p>وكان النجم السابق هشام الكروج آخر من منح المغرب ذهبية في الألعاب، عندما توّج في أثينا 2004 بذهيبتي 1500 و5 آلاف متر.</p><p>وهذه المرة الاولى التي يفوز فيها عداء غير كيني بهذا السباق منذ أولمبياد موسكو 1980 عندما كان من نصيب البولندي برونيسلاف مالينوفسكي.</p><p>وبات البقالي سادس رياضي يحرز ذهبية للمغرب التي رفعت رصيدها الى سبع ذهبيات أولمبية، الاولى لها في سباق 3 آلاف موانع بعد أن حقق علي الزين البرونزية في سيدني 2000.</p><p>وصل إبن مدينة فاس الى طوكيو بفورمة جيدة بعد أن فاز هذا العام بهذا السباق في لقاء روما محققًا 8:08:54 دقائق، وآخر في العام 2020. </p><p>وعن توقعاته وتحضيراته قبل المجيء الى العاصمة اليابانية، قال لفرانس برس "بعد فضية 2017 وبرونزية 2019، قلت لنفسي يجب أن أصبح بطلا أولمبيًا...خسرت سباقات سابقًا ليس لأنني لم أكن بمستوى جيد ولكن بسب جزئيات بسيطة التي عملت عليها وحسّنتها".</p><p>في العام 2019، فاز بلقاء باريس رغم إصابة في قدمه اليمنى لدرجة أنها نزفت خلال السباق.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>العدّاء المغربي سفيان البقالي يحتفل بفوزه بذهبية سباق 3 الاف م موانع في أولمبياد طوكيو في 2 آب/أغسطس 2021</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>جويل صمد</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="جويل صمد"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>العدّاء المغربي سفيان البقالي يحتفل بفوزه بذهبية سباق 3 الاف م موانع في أولمبياد طوكيو في 2 آب/أغسطس 2021</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="a268bd13c4998330ba772eb28a4275b696cb1507.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>100221</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="512"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="5b077d40017bde30249fe32e681cc842d548898b.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>18713</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="f1a105fda0283dfd1764f7329b07321f37b7f159.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6152</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

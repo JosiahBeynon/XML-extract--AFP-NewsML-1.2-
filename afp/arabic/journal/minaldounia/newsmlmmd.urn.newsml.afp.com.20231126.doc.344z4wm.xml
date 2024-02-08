@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T134128Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344z4wm</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344z4wm:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Cambodia-lifestyle-festival-culture</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T134124Z</FirstCreated>
+            <ThisRevisionCreated>20231126T134124Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>عودة سباق قوارب التنين لمناسبة عيد المياه في كمبوديا بعد توقف سنوات خلال الجائحة</HeadLine>
+                                                  <DateLine>بنوم بنه (كمبوديا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>Cambodia-lifestyle-festival-culture</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="KHM"/>
+                              <Property FormalName="City" Value="بنوم بنه"/>
+                              <Property FormalName="Latitude" Value="13.0"/>
+                              <Property FormalName="Longitude" Value="105.0"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01022000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01018000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="10000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>تجمّع آلاف المتفرجين في بنوم بنه الأحد للاستمتاع بمتابعة السباق التقليدي لقوارب التنين، أبرز فعاليات عيد المياه الذي غاب لسنوات بسبب جائحة كوفيد-19.</p><p>هذه الاحتفالات السنوية التي تستمر ثلاثة أيام أقيمت آخر مرة في عام 2019.</p><p>وشارك حوالى ثلاثمئة قارب، مع أفراد طواقمها الذين ارتدوا قمصانا ملونة متناسقة، في السباق على طول نهر تونلي ساب، مع القصر الملكي في الخلفية، عند نقطة الالتقاء مع نهر ميكونغ.</p><p>ويقام مهرجان المياه، وهو أكبر احتفالية تقليدية في البلاد، سنوياً لشكر نهر ميكونغ على تغذيته الأراضي الخصبة في البلاد وتوفيره ثروة سمكية وافرة. </p><p>هذه الاحتفالات التي تقام تقليدياً عند اكتمال القمر في تشرين الثاني/نوفمبر، وهي تمثل نهاية موسم الأمطار التي تتدفق خلالها مياه نهر تونلي ساب نحو البحيرة التي تحمل الاسم نفسه، والانعكاس اللافت للتيار بين نهري ميكونغ وتونلي ساب الذي يعود بعد ذلك إلى مساره الطبيعي.</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>وكان ملك كمبوديا نورودوم سيهاموني ورئيس الوزراء هون مانيت ووالده هون سين وبعض من كبار المسؤولين الحكوميين في المكان لمتابعة السباق، وسط حماسة الجمهور الحاضر لتشجيع المتسابقين.</p><p>وتشمل الاحتفالات، المقررة حتى الثلاثاء، حفلات موسيقية ومهرجاناً للفوانيس العائمة المحملة بأضواء النيون الملونة، وعروضاً للألعاب النارية.</p><p>وقال هوم فوس (38 عاما) وهو أحد المجدفين على متن قارب تنين، لوكالة فرانس برس "أنا سعيد لأننا نستطيع أن نجتمع معاً للاحتفال بمهرجان المياه".</p><p>وقال يورن فورن، وهو مجدف آخر يبلغ 45 عاما "خلال جائحة كوفيد، كان الجميع قلقين" بشأن تعليق هذه الفعاليات، "لكننا سعداء مجدداً" لعودة المهرجان.</p><p>وفي إطار حملة مكافحة فيروس نقص المناعة البشرية (اتش اي في) المسبب لمرض الإيدز، من المتوقع أن توزع السلطات الصحية 80 ألف واقي ذكري و20 ألف علبة من المزلقات الجنسية مجاناً خلال المهرجان.</p><p>وفي عام 2010، شهدت كمبوديا أسوأ تدافع منذ عقود على جسر في بنوم بنه خلال مهرجان المياه، في حادثة خلفت بحسب الحكومة ما لا يقل عن 347 قتيلاً و410 جرحى.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>مشاركون في سباق قوارب التنين لمناسبة عيد المياه في العاصمة الكمبودية بنوم بنه في 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>تانغ شين سوثي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="تانغ شين سوثي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>مشاركون في سباق قوارب التنين لمناسبة عيد المياه في العاصمة الكمبودية بنوم بنه في 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="e7601ec1907148ca0f3fa5d75ec06eae9e6d04dc.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>268272</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="ffc49b6ff844bbf9391a28e5baf5ce53f331892e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>34469</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="5d07d90cc7c7cbc158f0fb942036714b47405100.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>8213</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>مشاركون في سباق قوارب التنين لمناسبة عيد المياه في العاصمة الكمبودية بنوم بنه في 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>تانغ شين سوثي</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="تانغ شين سوثي"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>مشاركون في سباق قوارب التنين لمناسبة عيد المياه في العاصمة الكمبودية بنوم بنه في 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="1f105beddbaa35a88ff7f66c7c16f888177529fe.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>290108</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="de6a60b5902c84904c1f5ae5a9db0b55579ca69f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>33805</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="58082fe8a3d2d1ae960cb5b1938a22a39554592c.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7251</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

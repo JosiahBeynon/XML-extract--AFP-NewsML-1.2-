@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T124738Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344w7y2</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344w7y2:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>Nigeria-influenceurs-religion-culture-internet-société</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T124724Z</FirstCreated>
+            <ThisRevisionCreated>20231126T124724Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>الشرطة الإسلامية في نيجيريا تكافح "بالحسنى" المحتوى "غير الأخلاقي" على الإنترنت</HeadLine>
+                                                        <ByLine>أمين أبو بكر</ByLine>
+                                  <DateLine>كانو (نيجيريا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>Nigeria-influenceurs-religion-culture-internet-société</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--minaldounia"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="NGA"/>
+                              <Property FormalName="City" Value="كانو"/>
+                              <Property FormalName="Latitude" Value="12.00012"/>
+                              <Property FormalName="Longitude" Value="8.51672"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="14025000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="12000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01026000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="01000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                            <SubjectMatter FormalName="01026000"/>
+                                  </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>في شمال نيجيريا، تعتمد الشرطة الإسلامية أسلوباً يقوم على النصح والإرشاد مع المؤثرين لمكافحة "المحتوى غير الأخلاقي" على شبكات التواصل الاجتماعي، في موقف جديد يتعارض مع سياسة القمع التي اعتادت اعتمادها، لكنها تجد صعوبة في إقناع الرأي العام بذلك.</p><p>في كانون الثاني/يناير الماضي، ألقي القبض على مورجا كونيا، نجمة "تيك توك" الشابة، مع حوالى عشرة مشاهير آخرين بتهمة القيام بـ"سلوك غير أخلاقي على الشبكات الاجتماعية من المحتمل أن يفسد الشباب".</p><p>وقُبض عليها في أحد فنادق كانو، المدينة الرئيسية في شمال البلاد، لدى حجزها غرفاً لضيوفها قبل حفل عيد ميلاد تحظى بتغطية إعلامية واسعة، وأودعت في الحبس الاحتياطي لمدة أسبوعين قبل إطلاق سراحها.</p><p>وحُكم على المؤثرة البالغة 24 عاماً، والتي تحظى بشعبية كبيرة بين شباب شعب الهوسا الموجودين خصوصاً في شمال البلاد، بعقوبة تفرض عليها القيام بأعمال في خدمة المجتمع لثلاثة أسابيع، وهي عقوبة أمضتها في إجراء أعمال تنظيف في مستشفى كبير بالمدينة.</p><p>لكن في مطلع تشرين الثاني/نوفمبر الحالي، تغيرت الأجواء. فقد دعيت مورجا كونيا مع العشرات من المؤثرين الآخرين إلى اجتماع عام نظمته الشرطة الإسلامية (الحسبة) في كانو من أجل "رفع مستوى الوعي بالآثار السلبية للمحتوى غير الأخلاقي" الذي ينشرونه عبر الإنترنت، خصوصاً على تيك توك، بحسب ما قال مدير عام الحسبة أبا صوفي لوكالة فرانس برس.</p><p>وقد أثارت الشابة، التي يتابعها ما يقرب من مليون شخص على شبكات التواصل الاجتماعي، الانتباه من خلال مجيئها إلى الحدث مرتدية الحجاب الذي تضعه عادة النساء في شمال البلاد ذي الأغلبية المسلمة.</p><p>ويتباين هذا الظهور بشكل صارخ مع مقاطع الفيديو التي اعتادت على نشرها، حيث تظهر في كثير من الأحيان بملابس عصرية من دون حجاب وتتحدث بألفاظ بذيئة في بعض الأحيان، مما أكسبها شهرة وأثار غضباً عليها من الحسبة.</p><p>- "الجزرة والعصا" -</p><media media-type="image" style="leftSide"><media-reference data-location="#photo1" mime-type=""/></media><p>وأوضح صوفي أن "اللقاء مع مورجا كونيا وغيرها من صانعي المحتوى على تيك توك يمثل تغييراً في استراتيجية الحسبة في مواجهة المحتوى غير الأخلاقي الذي ينشرونه عبر الإنترنت. فمن الأفضل أن تُظهر التعاطف تجاه الشخص الذي ترغب في إصلاحه بدلاً من تشويه سمعته ووصمه".</p><p>وأشار إلى أن حكومة ولاية كانو مستعدة لمساعدة كونيا وزملائها على تغيير مهنتهم، بما في ذلك الدعم المالي لأولئك الذين يرغبون في العودة إلى الدراسة أو إطلاق أعمال تجارية.</p><p>ولم يرغب المؤثرون، ومن بينهم مورجا كونيا، في الرد على أسئلة وكالة فرانس برس في هذا الموضوع.</p><p>وبالنسبة لعبد الله أوبا أدامو، أستاذ علم الأناسة والثقافة الشعبية في جامعة بايرو في كانو، فإن هذا الأمر لن يكون كافيا للجم المشاهير الشباب عبر "تيك توك".</p><p>ويوضح لوكالة فرانس برس أن "الحسبة يمكنها استخدام سياسة +العصا والجزرة+ (الترهيب والترغيب)، لكنها لا تستطيع أبدا منع الناس من فعل ما يريدون من أجل البقاء، لأنهم يعتمدون على شبكات التواصل الاجتماعي في العيش".</p><p>ويشير إلى أنه بالنسبة للمؤثرين، من المحتمل أن يُنظر إلى الاجتماع على أنه وسيلة أخرى لزيادة عدد المتابعين، "وهو جزء من مهاراتهم في الترويج لأنفسهم عبر الإنترنت".</p><p>وكانو واحدة من 12 ولاية ذات أغلبية مسلمة في شمال نيجيريا، حيث يُعمل بمبادئ الشريعة الإسلامية ومحاكمها جنباً إلى جنب مع القانون المدني والجنائي.</p><p>هذه الولاية وعاصمتها مدينة كانو، ثاني كبرى مدن نيجيريا، هي موطن لإنتاج سينمائي مزدهر يُسمى "كانيوود"، يُنتج في إطاره أكثر من 200 فيلم شهريا بلغة الهوسا، كما تضم المئات من استوديوهات تسجيل الموسيقى.</p><p>- "توقفوا عن إهدار لعابكم" -</p><p>تملي شرطة الحسبة قواعد السلوك لصناعة السينما والموسيقى المحلية، بما يشمل على سبيل المثال أي مشاهد تُظهر تلامساً بين رجل وامرأة. وغالباً ما تدين هذه الهيئة الدينية الممثلين بتهمة "الفجور"، وتداهم بانتظام بيوتاً للدعارة وحفلات يحتسي فيها المشاركون الكحول، أو حفلات زفاف تشهد اختلاطاً بين الرجال والنساء.</p><p>ووسّع مكتب الرقابة الذي أنشأته السلطات المحلية مع دعاة مسلمين لمراقبة إنتاجات "كانيوود" العام الماضي، أنشطته لتشمل الشبكات الاجتماعية.</p><p>لكنّ اللقاء الذي عقدته شرطة الحسبة مع المؤثرين عبر الشبكات الاجتماعية لم تكن له التأثيرات المتوقعة.</p><p>وبعد مرور أسبوعين تقريباً، في 19 تشرين الثاني/نوفمبر، عادت مورجا كونيا إلى نشاطها المعتاد، وهاجمت بشدة هيئة الأمر بالمعروف والنهي عن المنكر على "تيك توك". وقالت بنبرة غاضبة "توقفوا عن إهدار لعابكم، أنا لست مهتمة بمواعظكم".</p><p>وقال الأستاذ في معهد الدراسات الإفريقية في جامعة كولونيا الألمانية محسن إبراهيم لوكالة فرانس برس إن "كثيرين اعتقدوا أنها ستتوقف أو ستكون أقل عدوانية بعد إدانتها السابقة"، لكن "الحال ليست كذلك".</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>امرأة أمام مكاتب الشرطة الإسلامية (الحسبة) في كانو شمالي نيجيريا في 28 تشرين الأول/أكتوبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>أمينو أبو بكر</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="أمينو أبو بكر"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>امرأة أمام مكاتب الشرطة الإسلامية (الحسبة) في كانو شمالي نيجيريا في 28 تشرين الأول/أكتوبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="c491cc1b357092444ed6bee7986164956c7952cb.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>166046</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="515"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="c9982513ae2ffadaf11ff376e008ddd5bd828d99.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>22820</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="164"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="862c4fb14f0076b28ccea5e35756271b98b36cc0.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>6180</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                                    <NewsComponent Duid="photo1">
+            <NewsLines>
+                            <HeadLine>دورية تابعة للشرطة الإسلامية (الحسبة) في أحد شوارع كانو شمالي نيجيريا في 28 تشرين الأول/أكتوبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>أمينو أبو بكر</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="أمينو أبو بكر"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>دورية تابعة للشرطة الإسلامية (الحسبة) في أحد شوارع كانو شمالي نيجيريا في 28 تشرين الأول/أكتوبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="9f9149c1bc99e1f0467fe2f9d34e271d99b01103.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>220380</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="590"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="860e1f25f88e1461d13f9bc6f57e113c8e3d47d7.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>26543</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="188"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="f7aa83e3b641eb33e5d5e37e5fb9ac78b391d723.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7354</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="84"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

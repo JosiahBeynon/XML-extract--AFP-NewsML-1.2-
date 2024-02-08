@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231126T185501Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231126</DateId>
+                <NewsItemId>doc-344y3l2</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231126:doc-344y3l2:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>قدم-انكلترا-بطولة</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231126T185448Z</FirstCreated>
+            <ThisRevisionCreated>20231126T185448Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>بطولة إنكلترا: أستون فيلا يعمّق جراح توتنهام ويلحق به خسارة ثالثة توالياً</HeadLine>
+                                                  <DateLine>لندن (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>قدم-انكلترا-بطولة</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="GBR"/>
+                              <Property FormalName="City" Value="لندن"/>
+                              <Property FormalName="Latitude" Value="51.50853"/>
+                              <Property FormalName="Longitude" Value="-0.12574"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15054000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>مني توتنهام بهزيمته الثالثة توالياً الأحد، عندما قلب ضيفه أستون فيلا الطاولة عليه وفاز 2-1 لينتزع منه المركز الرابع، ضمن منافسات المرحلة الثالثة عشرة من الدوري الإنكليزي لكرة القدم.</p><p>ورغم أن افتتاح التسجيل كان لأصحاب الأرض عن طريق الأرجنتيني جوفاني لو سيلسو (22)، تمكّن رجال المدرّب الإسباني أوناي إيمري من قلب النتيجة في لندن بهدفي الإسباني باو توريس (45+7) وأولي واتكينز (61) الذي أحرز سابع أهدافه هذا الموسم.</p><p>وبهذا الفوز، ارتقى أستون فيلا إلى المركز الرابع مع 28 نقطة بفارق الأهداف عن ليفربول الثالث ونقطة واحدة عن مانشستر سيتي الثاني، ونقطتين عن أرسنال المتصدر.</p><p>أما توتنهام، الذي بدأ موسمه بانطلاقة مثالية، تدهورت أحواله في المراحل الثلاث الأخيرة، ليجد نفسه في المركز الخامس مع 26 نقطة، قبل رحلة معقدة إلى ملعب سيتي نهاية الأسبوع المقبل.</p><p>وفي شهر واحد، خسر توتنهام مسيرته الخالية من الهزائم في الدوري بتعرضه لثلاث هزائم متتالية، وكلها كانت بعد افتتاحه التسجيل.</p><p>وقدّم الفريق بقيادة المدرب الأسترالي أنج بوستيكوغلو كرة قدم جميلة الأحد رغم الخسارة، كما فعل منذ بداية الموسم رغم الغيابات العديدة في تشكيلته من إيف بيسوما للإيقاف، والبرازيلي ريشارليسون وجيمس ماديسون للإصابة.</p><p>وشهدت المباراة سيلاً من الأهداف الملغية، أولاً عبر واتكينز الذي حوّل عرضية الفرنسي لوكاس دينيي برأسه في مرمى الحارس الإيطالي غولييلمو فيكاريو (24)، لكن حكم الفيديو المساعد أكد حالة التسلل بعد ثلاث دقائق من المراجعة.</p><p>ومثله أيضاً، أُلغيت ثلاثة أهداف لقائد توتنهام الكوري الجنوبي هيونغ-مين سون بداعي التسلل أيضاً.</p><p>وقال بوستيكوغلو عقب الخسارة إن "النتيجة مخيبة للآمال لكنني أعتقد أن اللاعبين قاموا بعمل رائع ولعبوا كرة القدم التي نريدها".</p><p>وأضاف أنه "في أي يوم آخر كنا لنفوز بهذه المباراة. لكن كانت جيدة، إذا ما واصلنا اللعب بهذه الطريقة، فعندما نستعيد جميع اللاعبين سنكون فريقاً جيداً جداً".</p><p>وأكد فوز أستون فيلا الثالث خارج أرضه في آخر 11 مباراة له بالدوري، التحسّن الذي حققه إيمري منذ حلوله بديلاً لستيفن جيرارد المُقال الموسم الماضي والمُنتقل لتدريب نادي الاتفاق السعودي.</p><p>وبفارق نقطتين فقط عن أرسنال المتصدر، فاز فيلا بأربع من آخر خمس مباريات في الدوري ليفرض نفسه مرشحاً قوياً للمنافسة على المراكز الأربعة الأولى.</p><p>وقال إيمري بدوره "لقد كانت مباراة مذهلة. الفريقان صنعا الفرص. كنّا فعالين ودقيقين في هجومنا. لقد استمتعت بالمباراة ولكني فقدت طاقتي!".</p><p>وأضاف المدرب الإسباني "بالطبع يمكننا اكتساب الثقة عندما نفوز بمباريات مثل اليوم. نحن على استعداد للقتال. أقول للاعبين +استمتعوا بمركزنا لكننا لسنا راضين+".</p><p>- يونايتد يزيد محنة إيفرتون -</p><p>وعلى ملعب "غوديسون بارك"، زاد مانشستر يونايتد من محنة مضيفه إيفرتون وفاز عليه بثلاثية نظيفة.</p><p>وبهذه الخسارة، بقي إيفرتون في المركز التاسع عشر مع أربع نقاط فقط، عقب حسم رابطة الدوري 10 نقاط من رصيده في 17 من الشهر الحالي لخرقه القواعد المالية للدوري الممتاز.</p><p>أما يونايتد، فحقق فوزه الثالث توالياً في الدوري ليرتقي إلى المركز السادس مع 24 نقطة.</p><p>ويدين "الشياطين الحمر" بهذا الفوز إلى الأرجنتيني أليخاندرو غارناتشو الذي مهد له الطريق بهدف في الدقيقة الثالثة من المباراة بمقصيّة خلفية رائعة من داخل منطقة الجزاء بعد عرضية من البرتغالي ديوغو دالو.</p><p>وبقيت النتيجة على حالها حتى الشوط الثاني، عندما أضاف ماركوس راشفورد الهدف الثاني من ركلة جزاء في الدقيقة 56، قبل أن يحسم الفرنسي أنتوني مارسيال النتيجة نهائياً بهدف ثالث عقب تمريرة بينية متقنة من البرتغالي برونو فرنانديش (75).</p><p>وتُستكمل المرحلة الإثنين بمواجهة فولهام وضيفه ولفرهامبتون.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>لاعب أستون فيلا أولي واتكينز محتفلاً مع زملائه بتسجيل هدف الفوز في مرمى توتنهام في 26 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب/AFP</CreditLine>
+                            <ByLine>بن ستانسال</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="بن ستانسال"/>
+              </Creator>
+                            <Source>
+                <Party FormalName="ا ف ب"/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>لاعب أستون فيلا أولي واتكينز محتفلاً مع زملائه بتسجيل هدف الفوز في مرمى توتنهام في 26 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="766225be9ced6f9929e4f08d454dc13c6aa59f5f.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>152738</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="e16aae406baf4a69a2e5b905ddf9b0b390abed80.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>27526</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="689be0bc6633362b930d949465bc2c56ec37da0e.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>7753</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>

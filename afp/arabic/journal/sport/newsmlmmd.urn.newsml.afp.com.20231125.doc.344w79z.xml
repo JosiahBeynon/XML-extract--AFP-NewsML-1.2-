@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML Version="1.2">
+        <Catalog Href="http://www.afp.com/dtd/AFPCatalog.xml"/>
+  <NewsEnvelope>
+        <DateAndTime>20231125T192739Z</DateAndTime>
+        <Priority FormalName="4"/>
+      </NewsEnvelope>
+  <NewsItem>
+    <Identification>
+      <NewsIdentifier>
+	        	                <ProviderId>afp.com</ProviderId>
+	                <DateId>20231125</DateId>
+                <NewsItemId>doc-344w79z</NewsItemId>
+        			        <RevisionId PreviousRevision="0" Update="N">1</RevisionId>
+                <PublicIdentifier>urn:newsml:afp.com:20231125:doc-344w79z:1</PublicIdentifier>
+      </NewsIdentifier>
+                              <NameLabel>tennis-Davis-coupe-2023-ITA-SRB</NameLabel>
+          </Identification>
+    <NewsManagement>
+      <NewsItemType FormalName="News"/>
+            <FirstCreated>20231125T192734Z</FirstCreated>
+            <ThisRevisionCreated>20231125T192734Z</ThisRevisionCreated>
+                        <Status FormalName="Usable"/>
+                </NewsManagement>
+    <NewsComponent>
+      <NewsLines>
+                        	<HeadLine>كأس ديفيس: إيطاليا سينر إلى النهائي على حساب صربيا ديوكوفيتش</HeadLine>
+                                                  <DateLine>ملقة (إسبانيا) (أ ف ب)</DateLine>
+                <CopyrightLine>© 2023 AFP</CopyrightLine>
+        <SlugLine>tennis-Davis-coupe-2023-ITA-SRB</SlugLine>
+              </NewsLines>
+      <AdministrativeMetadata>
+        <Provider>
+	  <Party FormalName="afp.com" />
+        </Provider>
+                              </AdministrativeMetadata>
+      <DescriptiveMetadata>
+	<Language FormalName="ar" />
+                <OfInterestTo FormalName="arabic--journal--sport"/>
+                                <Location HowPresent="Origin">
+                    <Property FormalName="Country" Value="ESP"/>
+                              <Property FormalName="City" Value="ملقة"/>
+                              <Property FormalName="Latitude" Value="36.72016"/>
+                              <Property FormalName="Longitude" Value="-4.42034"/>
+                  </Location>
+                                                                                        <SubjectCode>
+                                            <SubjectMatter FormalName="15065000"/>
+                                  </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                <SubjectCode>
+                                    <Subject FormalName="15000000"/>
+                                          </SubjectCode>
+                      </DescriptiveMetadata>
+                                                                                                                    <NewsComponent>
+        <ContentItem>
+          <MediaType FormalName="Text"/>
+          <Format FormalName="bcNITF2.5"/>
+          <DataContent><media media-type="image" style="rightSide"><media-reference data-location="#photo0" mime-type=""/></media><p>بلغت إيطاليا بقيادة يانيك سينر نهائي كأس ديفيس للمنتخبات في كرة المضرب بفوزها على صربيا ونجمها نوفاك ديوكوفيتش المصنف أول عالميا 2-1 في ملقة الإسبانية السبت، فضربت موعدا مع أستراليا الاحد.</p><p>وحسم المنتخب الإيطالي المتوج باللقب عام 1976 تأهله بفوز الثنائي سينر الرابع عالميا ولورنتسو سونيغو على ديوكوفيتش (36 عاما) وميومير كيتسمانوفيتش (55 عالميا) 6-3 و6-4 في مباراة الزوجي الحاسمة، بعدما ساد التعادل 1-1 في مباراتي الفردي.</p><p>وجاء فوز إيطاليا بعد وقت قصير من فرض سينر التعادل لبلاده اثر الحاقه الهزيمة بديوكوفيتش 6-2 و2-6 و7-5، في حين كان كيتسمانوفيتش فاز على لورنتسو موسيتي السابع والعشرين 6-7 (7-9) و6-2 و6-1.</p><p>وبات سينر أول لاعب يهزم ديوكوفيتش في مباراة فردية في كأس ديفيس منذ الأرجنتيني خوان مارتن ديل بوترو في عام 2011، منهياً للصربي سلسلة من 21 مباراة.</p><p>وحصل ديوكوفيتش المتوج بـ 24 لقبا كبيراً في مسيرته على ثلاث كرات لحسم اللقاء أمام سينر، إلا انه فشل في تحويلها لصالحه.</p><p>وسبق لسينر أن فاز على الصربي قبل 11 يوما في دور المجموعات لبطولة "ايه تي بي" الختامية في تورينو الإيطالية، قبل أن يثأر ديوكو من الشاب البالغ 22 عاما بالفوز عليه في النهائي 6-3 و6-3، محققا سابع ألقابه في البطولة بعد لقبه السابع ايضاً في دورة باريس للماسترز ألف نقطة، في عام توج خلاله بثمانية ألقاب منها بطولات استراليا ورولان غاروس والولايات المتحدة.</p><p>وتأهلت أستراليا للعام الثاني على التوالي إلى نهائي كأس ديفيس بفوزها على فنلندا 2-0 الجمعة، علما أن الاخيرة كانت جردت كندا من لقبها في ربع النهائي.</p><p>ويلعب المنتخب الاسترالي النهائي الرقم 49 في تاريخه في هذه المسابقة التي فاز بها 28 مرة.</p></DataContent>
+        </ContentItem>
+      </NewsComponent>
+          
+                                      <NewsComponent Duid="photo0">
+            <NewsLines>
+                            <HeadLine>الإيطاليان يانيك سينر (إلى اليسار) ولورنتسو سونيغو بعد فوزهما على الصربيين نوفاك ديوكوفيتش ومومير كيتسمانوفيتش في نصف نهائي كأس ديفيس لكرة المضرب في ملقة الإسبانية في 25 تشرين الثاني/نوفمبر 2023</HeadLine>
+                            <CreditLine>ا ف ب</CreditLine>
+                            <ByLine>لويس جيني</ByLine>
+                                        </NewsLines>
+            <AdministrativeMetadata>
+              <Provider>
+                                <Party FormalName="afp.com" />
+                              </Provider>
+              <Creator>
+                <Party FormalName="لويس جيني"/>
+              </Creator>
+                            <Source>
+                <Party FormalName=""/>
+              </Source>
+            </AdministrativeMetadata>
+            <NewsComponent>
+                                                                                                  <Role FormalName="Caption"/>
+              <ContentItem>
+                <MediaType FormalName="Text"/>
+                <Format FormalName="bcNITF2.5"/>
+                <DataContent><p>الإيطاليان يانيك سينر (إلى اليسار) ولورنتسو سونيغو بعد فوزهما على الصربيين نوفاك ديوكوفيتش ومومير كيتسمانوفيتش في نصف نهائي كأس ديفيس لكرة المضرب في ملقة الإسبانية في 25 تشرين الثاني/نوفمبر 2023</p></DataContent>
+              </ContentItem>
+            </NewsComponent>
+                                    <NewsComponent>
+                                          <Role FormalName="HighDef"/>
+                            <ContentItem Href="9bcead53341ae2f5cea3c4cdc76b6bcee61653e7.jpg">
+                <MediaType FormalName="Photo"/>
+                                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>97629</SizeInBytes>
+                                    <Property FormalName="Width" Value="768"/>
+                                                      <Property FormalName="Height" Value="511"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                        <NewsComponent>
+                                                        <Role FormalName="Quicklook"/>
+                            <ContentItem Href="bffc222a492205c374770708b5b8a8d655513f67.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>18555</SizeInBytes>
+                                    <Property FormalName="Width" Value="245"/>
+                                                      <Property FormalName="Height" Value="163"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                <NewsComponent>
+                                          <Role FormalName="Thumbnail"/>
+                            <ContentItem Href="bb0984b01e1fc1c17d513bd039dd6a90d826ab88.jpg">
+                <MediaType FormalName="Photo"/>
+                                                <Format FormalName="JPG"/>
+                                <Characteristics>
+                  <SizeInBytes>5845</SizeInBytes>
+                                    <Property FormalName="Width" Value="110"/>
+                                                      <Property FormalName="Height" Value="73"/>
+                                  </Characteristics>
+              </ContentItem>
+            </NewsComponent>
+                                                                                                                                  </NewsComponent>
+                                </NewsComponent>
+  </NewsItem>
+</NewsML>
