@@ -1,8 +1,5 @@
-# XML-extract--AFP-NewsML-1.2-
+#  Extracting NewsML Headlines with XML
 
-A script to extract a range of features out of news XML files.
-
-To-do
-* Add markdown comments to Jupyter Notebook
-* Make a .py script file that takes user input for file path
-* Write a better README
+NewsML specifies a standard format for news articles, which is used in many news and
+media outlets. This project demonstrates how to extract headlines from an XML file
+using the [`xml.etree.ElementTree`](https://docs.python.org/3/library/xml.etree.elementtree.html) module.
