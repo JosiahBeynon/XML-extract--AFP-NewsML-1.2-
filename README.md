@@ -1,4 +1,4 @@
-#  Extracting NewsML Headlines with XML
+#  Extracting NewsML Data from XML files
 
 NewsML specifies a standard format for news articles, which is used in many news and
 media outlets. This project extracts headlines from XML files that follow this format
